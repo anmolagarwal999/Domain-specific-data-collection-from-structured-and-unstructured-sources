@@ -1,0 +1,61 @@
+Sarita Adve
+Lorenzo Alvisi
+David P. Anderson
+Hagit Attiya
+Baruch Awerbuch
+Adam Back
+Christophe Bisciglia
+Matt Blaze
+Eric Brewer (scientist)
+Dick Bulterman
+David Culler
+John Day (computer scientist)
+Edsger W. Dijkstra
+Danny Dolev
+Shlomi Dolev
+Cynthia Dwork
+Faith Ellen
+Michael J. Fischer
+Ian Foster (computer scientist)
+Robert G. Gallager
+Albert Greenberg
+Joseph Halpern
+Maurice Herlihy
+Dan Hirschberg
+Wen-mei Hwu
+Raj Jain
+Ken Kennedy (computer scientist)
+Shay Kutten
+Leslie Lamport
+Charles E. Leiserson
+Barbara Liskov
+Ignacio M. Llorente
+Michael Luby
+Nancy Lynch
+Yoram Moses
+Moni Naor
+Paddy Nixon
+Mike Paterson
+Juan Pavón
+David Peleg (computer scientist)
+Michel Raynal
+Michael Reiter (computer scientist)
+Pablo Rodriguez (computer scientist)
+Peter Ružička
+Baruch Schieber
+Fred B. Schneider
+Michael L. Scott
+Nir Shavit
+Robert Shostak
+Daniel Slotnick
+Andy Stanford-Clark
+Larry Stockmeyer
+Jun'ichi Tsujii
+Jonathan S. Turner
+George Varghese
+Uzi Vishkin
+Paul Vitányi
+Jim Waldo
+Alexander L. Wolf
+Akinori Yonezawa
+Shmuel Zaks

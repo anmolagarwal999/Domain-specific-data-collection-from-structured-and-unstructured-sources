@@ -1,0 +1,2649 @@
+{
+    "1": {
+        "name": "Bill Gates",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bill-gates-1.jpg",
+        "Famous As": "Co-Founder of Microssoft",
+        "Birthdate": "October 28, 1955",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Seattle, Washington, United States"
+    },
+    "2": {
+        "name": "Alan Turing",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alan-turing-1.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "June 23, 1912",
+        "Sun Sign": "Cancer",
+        "Birthplace": "London, England",
+        "Died": "June 7, 1954"
+    },
+    "3": {
+        "name": "Steve Wozniak",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/steve-wozniak-2.jpg",
+        "Famous As": "Co-founder of Apple Computer (Apple Inc.)",
+        "Birthdate": "August 11, 1950",
+        "Sun Sign": "Leo",
+        "Birthplace": "San Jose, California, United States"
+    },
+    "4": {
+        "name": "Charles Babbage",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/charles-babbage-3.jpg",
+        "Famous As": "Father of the computer",
+        "Birthdate": "December 26, 1791",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "London, England",
+        "Died": "October 18, 1871"
+    },
+    "5": {
+        "name": "John von Neumann",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-von-neumann-2.jpg",
+        "Famous As": "Mathematician, Computer Scientist",
+        "Birthdate": "December 28, 1903",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Budapest, Hungary",
+        "Died": "February 8, 1957"
+    },
+    "6": {
+        "name": "Claude Shannon",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/claude-shannon.jpg",
+        "Famous As": "Mathematician, Cryptographer",
+        "Birthdate": "April 30, 1916",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Petoskey, Michigan, United States",
+        "Died": "February 24, 2001"
+    },
+    "7": {
+        "name": "Grace Hopper",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/grace-hopper-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "December 9, 1906",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "New York City",
+        "Died": "January 1, 1992"
+    },
+    "8": {
+        "name": "Vint Cerf",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/vint-cerf-1.jpg",
+        "Famous As": "Engineer",
+        "Birthdate": "June 23, 1943",
+        "Sun Sign": "Cancer",
+        "Birthplace": "New Haven, Connecticut, United States"
+    },
+    "9": {
+        "name": "Dennis Ritchie",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/dennis-ritchie-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "September 9, 1941",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Bronxville, New York, United States",
+        "Died": "October 12, 2011"
+    },
+    "10": {
+        "name": "John McCarthy",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-mccarthy-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Engineer, University teacher",
+        "Birthdate": "September 4, 1927",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Boston",
+        "Died": "October 24, 2011"
+    },
+    "11": {
+        "name": "Ken Thompson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ken-thompson-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "February 4, 1943",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "New Orleans, Louisiana, United States"
+    },
+    "12": {
+        "name": "Tim Berners-Lee",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tim-berners-lee-2.jpg",
+        "Famous As": "Inventor of the World Wide Web",
+        "Birthdate": "June 8, 1955",
+        "Sun Sign": "Gemini",
+        "Birthplace": "London, England"
+    },
+    "13": {
+        "name": "Alan Kay",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alan-kay-2.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "May 17, 1940",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Springfield, Massachusetts"
+    },
+    "14": {
+        "name": "Shigeru Miyamoto",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/shigeru-miyamoto-1.jpg",
+        "Famous As": "Video Game Designer, Artist",
+        "Birthdate": "November 16, 1952",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Sonobe"
+    },
+    "15": {
+        "name": "Marvin Minsky",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/marvin-minsky-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, University teacher",
+        "Birthdate": "August 9, 1927",
+        "Sun Sign": "Leo",
+        "Birthplace": "New York City",
+        "Died": "January 24, 2016"
+    },
+    "16": {
+        "name": "James Gosling",
+        "img": "https://",
+        "Famous As": "Programmer, Inventor, Computer scientist",
+        "Birthdate": "May 19, 1955",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Calgary"
+    },
+    "17": {
+        "name": "Bjarne Stroustrup",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bjarne-stroustrup-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Scientist, Programmer, Writer, University teacher",
+        "Birthdate": "December 30, 1950",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Aarhus"
+    },
+    "18": {
+        "name": "Tony Hoare",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tony-hoare-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "January 11, 1934",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Colombo, Sri Lanka"
+    },
+    "19": {
+        "name": "Vitalik Buterin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/vitalik-buterin-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "January 31, 1994",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Kolomna, Russia"
+    },
+    "20": {
+        "name": "Margaret Hamilton",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/margaret-hamilton-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "August 17, 1936",
+        "Sun Sign": "Leo",
+        "Birthplace": "Paoli, Indiana, United States"
+    },
+    "21": {
+        "name": "Richard Stallman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/richard-stallman-1.jpg",
+        "Famous As": "Software Programmer",
+        "Birthdate": "March 16, 1953",
+        "Sun Sign": "Pisces",
+        "Birthplace": "New York City"
+    },
+    "22": {
+        "name": "Sergey Brin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/sergey-brin-4.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "August 21, 1973",
+        "Sun Sign": "Leo",
+        "Birthplace": "Moscow"
+    },
+    "23": {
+        "name": "Guido van Rossum",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/guido-van-rossum-1.jpg",
+        "Famous As": "Programmer",
+        "Birthdate": "January 31, 1956",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Netherlands"
+    },
+    "24": {
+        "name": "John Carmack",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-carmack-1.jpg",
+        "Famous As": "Chief technology officer, Aerospace engineer, Programmer, Computer scientist",
+        "Birthdate": "August 20, 1970",
+        "Sun Sign": "Leo",
+        "Birthplace": "Kansas City"
+    },
+    "25": {
+        "name": "Donald Knuth",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/donald-knuth-8093-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "January 10, 1938",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Milwaukee, Wisconsin, United States"
+    },
+    "26": {
+        "name": "Judea Pearl",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/judea-pearl-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "September 4, 1936",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Tel Aviv, Israel"
+    },
+    "27": {
+        "name": "Leslie Lamport",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/leslie-lamport-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Programmer, Engineer, Writer",
+        "Birthdate": "February 7, 1941",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "New York City"
+    },
+    "28": {
+        "name": "Alonzo Church",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alonzo-church-1.jpg",
+        "Famous As": "Mathematician, Philosopher, University teacher, Computer scientist",
+        "Birthdate": "June 14, 1903",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Washington, D.C.",
+        "Died": "August 11, 1995"
+    },
+    "29": {
+        "name": "Gabe Newell",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/gabe-newell-1.jpg",
+        "Famous As": "Entrepreneur",
+        "Birthdate": "November 3, 1962",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Seattle, Washington"
+    },
+    "30": {
+        "name": "Benoit Mandelbrot",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/benoit-mandelbrot-8061-1.jpg",
+        "Famous As": "Mathematician, Economist, Professor, Scientist, Writer, Computer scientist",
+        "Birthdate": "November 20, 1924",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Warsaw",
+        "Died": "October 14, 2010"
+    },
+    "31": {
+        "name": "Sid Meier",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/sid-meier-1.jpg",
+        "Famous As": "Video game producer, Engineer, Video game designer, Computer scientist",
+        "Birthdate": "February 24, 1954",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Detroit"
+    },
+    "32": {
+        "name": "Ginni Rometty",
+        "img": "https://",
+        "Famous As": "Businesswomen",
+        "Birthdate": "July 29, 1957",
+        "Sun Sign": "Leo",
+        "Birthplace": "Chicago Chicago, Illinois, U.S."
+    },
+    "33": {
+        "name": "Lawrence Lessig",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/lawrence-lessig-1.jpg",
+        "Famous As": "Jurist, Activist, Lawyer, Non-fiction writer, Computer scientist, Politician, Professor",
+        "Birthdate": "June 3, 1961",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Rapid City"
+    },
+    "34": {
+        "name": "George Dantzig",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/george-dantzig-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Statistician",
+        "Birthdate": "November 8, 1914",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Portland",
+        "Died": "May 13, 2005"
+    },
+    "35": {
+        "name": "Andrew Ng",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andrew-ng.jpg",
+        "Famous As": "artificial intelligence researcher, computer scientist",
+        "Birthdate": "1976 AD",
+        "Birthplace": "United Kingdom"
+    },
+    "36": {
+        "name": "Andy Rubin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andy-rubin-1.jpg",
+        "Famous As": "Computer programmer",
+        "Birthdate": "1963 AD",
+        "Birthplace": "Chappaqua, New York, United States"
+    },
+    "37": {
+        "name": "Andy Hertzfeld",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andy-hertzfeld-10499-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Programmer",
+        "Birthdate": "April 6, 1953",
+        "Sun Sign": "Aries",
+        "Birthplace": "Philadelphia"
+    },
+    "38": {
+        "name": "Shawn Fanning",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/shawn-fanning-1.jpg",
+        "Famous As": "Computer scientist, Programmer",
+        "Birthdate": "November 22, 1980",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Brockton"
+    },
+    "39": {
+        "name": "Douglas Hofstadter",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/douglas-hofstadter-1.jpg",
+        "Famous As": "Philosopher, Writer, University teacher, Computer scientist",
+        "Birthdate": "February 15, 1945",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "New York City"
+    },
+    "40": {
+        "name": "Max Levchin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/max-levchin-11283-1.jpg",
+        "Famous As": "Computer scientist, Entrepreneur, Businessperson",
+        "Birthdate": "July 11, 1975",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Kyiv"
+    },
+    "41": {
+        "name": "Sophie Wilson",
+        "img": "https://",
+        "Famous As": "computer scientist",
+        "Birthdate": "1957 AD",
+        "Birthplace": "Leeds"
+    },
+    "42": {
+        "name": "Geoffrey Hinton",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/geoffrey-hinton-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "December 6, 1947",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Wimbledon"
+    },
+    "43": {
+        "name": "Adi Shamir",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/adi-shamir-1.jpg",
+        "Famous As": "Mathematician, Cryptologist, Computer scientist",
+        "Birthdate": "July 6, 1952",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Tel Aviv"
+    },
+    "44": {
+        "name": "Nick Bostrom",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/nick-bostrom.jpg",
+        "Famous As": "Philosopher, University teacher, Computer scientist",
+        "Birthdate": "March 10, 1973",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Helsingborg"
+    },
+    "45": {
+        "name": "Niklaus Wirth",
+        "img": "https://",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "February 15, 1934",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Winterthur, Switzerland"
+    },
+    "46": {
+        "name": "Ed Boon",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ed-boon-1.jpg",
+        "Famous As": "Programmer, Engineer, Screenwriter, Computer scientist",
+        "Birthdate": "February 22, 1964",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Chicago"
+    },
+    "47": {
+        "name": "Ray Kurzweil",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/raymond-kurzweil-1.jpg",
+        "Famous As": "Inventor",
+        "Birthdate": "February 12, 1948",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "New York, New York, United States"
+    },
+    "48": {
+        "name": "Edsger W. Dijkstra",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/edsger-w-dijkstra-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "May 11, 1930",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Rotterdam, Netherlands",
+        "Died": "August 6, 2002"
+    },
+    "49": {
+        "name": "Tommy Rettig",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tommy-rettig-1.jpg",
+        "Famous As": "Child Actor",
+        "Birthdate": "December 10, 1941",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Jackson Heights, New York, United States",
+        "Died": "February 15, 1996"
+    },
+    "50": {
+        "name": "Chris Metzen",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/chris-metzen-1.jpg",
+        "Famous As": "Artist, Comics artist, Novelist, Writer, Screenwriter, Voice actor, Visual artist, Author, Computer scientist, Science fiction writer",
+        "Birthdate": "November 22, 1973",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "United States of America"
+    },
+    "51": {
+        "name": "Sudha Murty",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/sudha-murty-1.jpg",
+        "Famous As": "Author",
+        "Birthdate": "August 19, 1950",
+        "Sun Sign": "Leo",
+        "Birthplace": "Shiggaon, Haveri, Karnataka, India"
+    },
+    "52": {
+        "name": "Timnit Gebru",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/timnit-gebru-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "0000 AD",
+        "Birthplace": "Ethiopia"
+    },
+    "53": {
+        "name": "Walter O'Brien",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/walter-obrien-53061-1.jpg",
+        "Famous As": "Business Person",
+        "Birthdate": "February 24, 1975",
+        "Sun Sign": "Pisces",
+        "Birthplace": "County Wexford, Ireland"
+    },
+    "54": {
+        "name": "Whitfield Diffie",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/whitfield-diffie-1.jpg",
+        "Famous As": "Cryptographer, Mathematician, Computer scientist",
+        "Birthdate": "June 5, 1944",
+        "Sun Sign": "Gemini",
+        "Birthplace": "New York City"
+    },
+    "55": {
+        "name": "Nick Szabo",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/nick-szabo-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "1970 AD",
+        "Birthplace": "america"
+    },
+    "56": {
+        "name": "James H. Clark",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/james-h-clark-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "March 23, 1944",
+        "Sun Sign": "Aries",
+        "Birthplace": "Plainview, Texas, United States"
+    },
+    "57": {
+        "name": "Alexey Pazhitnov",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alexey-pazhitnov-1.jpg",
+        "Famous As": "Video game designer",
+        "Birthdate": "March 14, 1956",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Moscow"
+    },
+    "58": {
+        "name": "Tony Hsieh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tony-hsieh-52440-1.jpg",
+        "Famous As": "Entrepreneur",
+        "Birthdate": "December 12, 1973",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Illinois"
+    },
+    "59": {
+        "name": "Thomas J. Watson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/thomas-j-watson-1.jpg",
+        "Famous As": "Entrepreneur",
+        "Birthdate": "February 17, 1874",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Campbell, New York, United States",
+        "Died": "June 19, 1956"
+    },
+    "60": {
+        "name": "Edwin Catmull",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/edwin-catmull-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "March 31, 1945",
+        "Sun Sign": "Aries",
+        "Birthplace": "Parkersburg"
+    },
+    "61": {
+        "name": "George Hotz",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/george-hotz-1.jpg",
+        "Famous As": "Blogger, Programmer, Computer scientist",
+        "Birthdate": "October 2, 1989",
+        "Sun Sign": "Libra",
+        "Birthplace": "Glen Rock, New Jersey"
+    },
+    "62": {
+        "name": "David Filo",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-filo-1.jpg",
+        "Famous As": "Entrepreneur, Businessperson, Merchant, Computer scientist",
+        "Birthdate": "April 20, 1966",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Wisconsin"
+    },
+    "63": {
+        "name": "Daniel Kottke",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/daniel-kottke-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "April 4, 1954",
+        "Sun Sign": "Aries",
+        "Birthplace": "Bronxville"
+    },
+    "64": {
+        "name": "Edmund McMillen",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/edmund-mcmillen-1.jpg",
+        "Famous As": "Video game developer, Computer scientist",
+        "Birthdate": "March 2, 1980",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Santa Cruz"
+    },
+    "65": {
+        "name": "Barbara Liskov",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/barbara-liskov-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "November 7, 1939",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Los Angeles, California, United States"
+    },
+    "66": {
+        "name": "Hilary Putnam",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/hilary-putnam-1.jpg",
+        "Famous As": "Mathematician, Philosopher, University teacher, Non-fiction writer, Computer scientist",
+        "Birthdate": "July 31, 1926",
+        "Sun Sign": "Leo",
+        "Birthplace": "Chicago",
+        "Died": "March 13, 2016"
+    },
+    "67": {
+        "name": "Ivan Sutherland",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ivan-sutherland-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "May 16, 1938",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Hastings, Nebraska, United States"
+    },
+    "68": {
+        "name": "Hans Reiser",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/hans-reiser-1.jpg",
+        "Famous As": "Programmer, Entrepreneur, Computer scientist, Homicide",
+        "Birthdate": "December 19, 1963",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "California"
+    },
+    "69": {
+        "name": "David Packard",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-packard-1.jpg",
+        "Famous As": "Entrepreneur, Engineer, Computer scientist",
+        "Birthdate": "September 7, 1912",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Pueblo",
+        "Died": "March 26, 1996"
+    },
+    "70": {
+        "name": "Gottfrid Svartholm",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/gottfrid-svartholm-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "October 17, 1984",
+        "Sun Sign": "Libra",
+        "Birthplace": "Sweden"
+    },
+    "71": {
+        "name": "Jaron Lanier",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jaron-lanier-1.jpg",
+        "Famous As": "Computer scientist, Composer, Programmer, Writer, Essayist, University teacher",
+        "Birthdate": "May 3, 1960",
+        "Sun Sign": "Taurus",
+        "Birthplace": "New York City"
+    },
+    "72": {
+        "name": "Brian Kernighan",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/brian-kernighan-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "January 1, 1942",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Toronto, Ontario, Canada"
+    },
+    "73": {
+        "name": "Ian Murdock",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ian-murdock-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Programmer",
+        "Birthdate": "April 28, 1973",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Konstanz",
+        "Died": "December 28, 2015"
+    },
+    "74": {
+        "name": "Paul Buchheit",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/paul-buchheit-1.jpg",
+        "Famous As": "Computer Engineer",
+        "Birthdate": "November 7, 1977",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Webster, New York, United States"
+    },
+    "75": {
+        "name": "Werner Vogels",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/werner-vogels-1.jpg",
+        "Famous As": "Computer scientist, Chief technology officer, Vice president",
+        "Birthdate": "October 3, 1958",
+        "Sun Sign": "Libra",
+        "Birthplace": "Ermelo"
+    },
+    "76": {
+        "name": "Drew Houston",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/drew-houston-1.jpg",
+        "Famous As": "Internet Entrepreneur",
+        "Birthdate": "March 4, 1983",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Acton, Massachusetts, US"
+    },
+    "77": {
+        "name": "Bill Joy",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bill-joy-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Programmer",
+        "Birthdate": "November 8, 1954",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Detroit"
+    },
+    "78": {
+        "name": "Fredrik Neij",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/fredrik-neij-1.jpg",
+        "Famous As": "Engineer, Computer scientist",
+        "Birthdate": "April 27, 1978",
+        "Sun Sign": "Taurus",
+        "Birthplace": "J\u00f6nk\u00f6ping"
+    },
+    "79": {
+        "name": "Charles Simonyi",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/charles-simonyi-11261-1.jpg",
+        "Famous As": "Astronaut, Computer scientist, Engineer, Scientist, Programmer",
+        "Birthdate": "September 10, 1948",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Budapest"
+    },
+    "80": {
+        "name": "Gary Kildall",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/gary-kildall-1.jpg",
+        "Famous As": "Computer scientist, Programmer, University teacher",
+        "Birthdate": "May 19, 1942",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Seattle",
+        "Died": "July 11, 1994"
+    },
+    "81": {
+        "name": "Ward Cunningham",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ward-cunningham-1.jpg",
+        "Famous As": "Programmer, Computer scientist",
+        "Birthdate": "May 26, 1949",
+        "Sun Sign": "Gemini",
+        "Birthplace": "United States of America"
+    },
+    "82": {
+        "name": "Peter Sunde",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/peter-sunde-1.jpg",
+        "Famous As": "Computer scientist, Politician",
+        "Birthdate": "September 13, 1978",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Uddevalla"
+    },
+    "83": {
+        "name": "Robin Li",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/robin-li-1.jpg",
+        "Famous As": "Entrepreneur, Engineer, Inventor, Businessperson, Computer scientist",
+        "Birthdate": "November 17, 1968",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Yangquan"
+    },
+    "84": {
+        "name": "Michael Stonebraker",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/michael-stonebraker.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "October 11, 1943",
+        "Sun Sign": "Libra",
+        "Birthplace": "Milton"
+    },
+    "85": {
+        "name": "Clive Sinclair",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/clive-sinclair-1.jpg",
+        "Famous As": "Entrepreneur, Engineer, Inventor, Computer scientist",
+        "Birthdate": "July 30, 1940",
+        "Sun Sign": "Leo",
+        "Birthplace": "Surrey"
+    },
+    "86": {
+        "name": "Mikhail Botvinnik",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/mikhail-botvinnik-1.jpg",
+        "Famous As": "Chess player",
+        "Birthdate": "August 17, 1911",
+        "Sun Sign": "Leo",
+        "Birthplace": "Repino, Russia",
+        "Died": "May 5, 1995"
+    },
+    "87": {
+        "name": "Luis von Ahn",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/luis-von-ahn-1.jpg",
+        "Famous As": "Entrepreneur",
+        "Birthdate": "August 9, 1978",
+        "Sun Sign": "Leo",
+        "Birthplace": "Guatemala City, Guatemala"
+    },
+    "88": {
+        "name": "Stephen Wolfram",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/stephen-wolfram-8501-1.jpg",
+        "Famous As": "Mathematician, Physicist, Computer scientist, Businessperson, University teacher, Patent inventor, Writer",
+        "Birthdate": "August 29, 1959",
+        "Sun Sign": "Virgo",
+        "Birthplace": "London"
+    },
+    "89": {
+        "name": "Fred Brooks",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/fred-brooks-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Engineer, University teacher",
+        "Birthdate": "April 19, 1931",
+        "Sun Sign": "Aries",
+        "Birthplace": "Durham"
+    },
+    "90": {
+        "name": "Mark Shuttleworth",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/mark-shuttleworth-1.jpg",
+        "Famous As": "Entrepreneur, Astronaut, Engineer, Inventor, Scientist, Blogger, Businessperson, Computer scientist",
+        "Birthdate": "September 18, 1973",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Welkom"
+    },
+    "91": {
+        "name": "Randall Munroe",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/randall-munroe-1.jpg",
+        "Famous As": "Programmer, Comics artist, Writer, Computer scientist, Physicist",
+        "Birthdate": "October 17, 1984",
+        "Sun Sign": "Libra",
+        "Birthplace": "Easton"
+    },
+    "92": {
+        "name": "Michael Moritz",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/michael-moritz-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "September 12, 1954",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Cardiff"
+    },
+    "93": {
+        "name": "Kevin Warwick",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/kevin-warwick-1.jpg",
+        "Famous As": "Engineer, Writer, University teacher, Computer scientist",
+        "Birthdate": "February 9, 1954",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Coventry"
+    },
+    "94": {
+        "name": "Leonard Adleman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/leonard-adleman-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "December 31, 1945",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "San Francisco, California, United States"
+    },
+    "95": {
+        "name": "Eric S. Raymond",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/eric-s-raymond-8103-1.jpg",
+        "Famous As": "Software developer, Engineer, Programmer, Writer, Lawyer, Computer scientist, Journalist",
+        "Birthdate": "December 4, 1957",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Boston"
+    },
+    "96": {
+        "name": "Robert Metcalfe",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/robert-metcalfe-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "April 7, 1946",
+        "Sun Sign": "Aries",
+        "Birthplace": "Brooklyn"
+    },
+    "97": {
+        "name": "Rob Pike",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/rob-pike-1.jpg",
+        "Famous As": "Software engineer",
+        "Birthdate": "1956 AD",
+        "Birthplace": "Canada"
+    },
+    "98": {
+        "name": "Martin Hellman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/martin-hellman-1.jpg",
+        "Famous As": "Cryptographer, Mathematician, Scientist, Computer scientist",
+        "Birthdate": "October 2, 1945",
+        "Sun Sign": "Libra",
+        "Birthplace": "New York City"
+    },
+    "99": {
+        "name": "Sandra Lerner",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/sandra-lerner-1.jpg",
+        "Famous As": "Businessperson",
+        "Birthdate": "1955 AD",
+        "Birthplace": "America"
+    },
+    "100": {
+        "name": "Shafi Goldwasser",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/shafi-goldwasser.jpg",
+        "Famous As": "university teacher, cryptographer, mathematician, computer scientist",
+        "Birthdate": "1958 AD",
+        "Birthplace": "New York City"
+    },
+    "101": {
+        "name": "Roberta Williams",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/roberta-williams-1.jpg",
+        "Famous As": "Writer, Computer scientist",
+        "Birthdate": "February 16, 1953",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "La Verne"
+    },
+    "102": {
+        "name": "David Heinemeier Hansson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-heinemeier-hansson-1.jpg",
+        "Famous As": "Programmer",
+        "Birthdate": "October 15, 1979",
+        "Sun Sign": "Libra",
+        "Birthplace": "Copenhagen, Denmark"
+    },
+    "103": {
+        "name": "Kevin Rose",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/kevin-rose-1.jpg",
+        "Famous As": "Computer scientist, Blogger, Businessperson",
+        "Birthdate": "February 21, 1977",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Redding"
+    },
+    "104": {
+        "name": "Stephen Cook",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/stephen-cook-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "December 14, 1939",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Buffalo, New York, United States"
+    },
+    "105": {
+        "name": "Arfa Karim",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/arfa-karim.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "February 2, 1995",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Ram Diwali",
+        "Died": "January 14, 2012"
+    },
+    "106": {
+        "name": "Story Musgrave",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/story-musgrave-10221-1.jpg",
+        "Famous As": "Astronaut, Statistician, Aviator, Officer",
+        "Birthdate": "August 19, 1935",
+        "Sun Sign": "Leo",
+        "Birthplace": "Boston"
+    },
+    "107": {
+        "name": "Fei-Fei Li",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/fei-fei-li-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "1976 AD",
+        "Birthplace": "Beijing"
+    },
+    "108": {
+        "name": "Manuel Blum",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/manuel-blum-1.jpg",
+        "Famous As": "Computer scientist, University teacher",
+        "Birthdate": "April 26, 1938",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Caracas"
+    },
+    "109": {
+        "name": "Bruce Schneier",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bruce-schneier-1.jpg",
+        "Famous As": "Cryptographer, Mathematician, Computer scientist",
+        "Birthdate": "January 15, 1963",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "New York City"
+    },
+    "110": {
+        "name": "Robert Tarjan",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/robert-tarjan-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "April 30, 1948",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Pomona, California"
+    },
+    "111": {
+        "name": "Andrew S. Tanenbaum",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andrew-s-tanenbaum-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Programmer, Academic, Professor, Writer",
+        "Birthdate": "March 16, 1944",
+        "Sun Sign": "Pisces",
+        "Birthplace": "White Plains"
+    },
+    "112": {
+        "name": "Robert Tappan Morris",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/robert-tappan-morris.jpg",
+        "Famous As": "Computer scientist, Scientist, Professor",
+        "Birthdate": "November 8, 1965",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Massachusetts"
+    },
+    "113": {
+        "name": "Jef Raskin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jef-raskin-1.png",
+        "Famous As": "Programmer, Computer scientist, Writer, University teacher, Mathematician",
+        "Birthdate": "March 9, 1943",
+        "Sun Sign": "Pisces",
+        "Birthplace": "New York City",
+        "Died": "February 26, 2005"
+    },
+    "114": {
+        "name": "David Gelernter",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-gelernter-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "March 5, 1955",
+        "Sun Sign": "Pisces"
+    },
+    "115": {
+        "name": "Matt Mullenweg",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/matt-mullenweg-1.jpg",
+        "Famous As": "Entrepreneur, Programmer, Computer scientist, Musician, Blogger",
+        "Birthdate": "January 11, 1984",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Houston"
+    },
+    "116": {
+        "name": "Vernor Vinge",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/vernor-vinge-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "October 2, 1944",
+        "Sun Sign": "Libra",
+        "Birthplace": "Waukesha, Wisconsin, US"
+    },
+    "117": {
+        "name": "Sebastian Thrun",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/sebastian-thrun-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "May 14, 1967",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Solingen, West Germany"
+    },
+    "118": {
+        "name": "Martin Fowler",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/martin-fowler-1.jpg",
+        "Famous As": "Software Developer",
+        "Birthdate": "1963 AD",
+        "Birthplace": "Walsall, United Kingdom"
+    },
+    "119": {
+        "name": "Yukihiro Matsumoto",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/yukihiro-matsumoto-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Scientist, Programmer",
+        "Birthdate": "April 14, 1965",
+        "Sun Sign": "Aries",
+        "Birthplace": "\u014csaka Prefecture"
+    },
+    "120": {
+        "name": "Ted Nelson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ted-nelson-1.jpg",
+        "Famous As": "Philosopher",
+        "Birthdate": "June 17, 1937",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Chicago, Illinois, United States"
+    },
+    "121": {
+        "name": "Emilio Palma",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/emilio-palma-1.jpg",
+        "Famous As": "Systems analyst, Computer scientist",
+        "Birthdate": "January 7, 1978",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Esperanza Base"
+    },
+    "122": {
+        "name": "Jacques Vall\u00e9e",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jacques-valle-1.jpg",
+        "Famous As": "Scientist",
+        "Birthdate": "September 24, 1939",
+        "Sun Sign": "Libra",
+        "Birthplace": "Pontoise, Val-d'Oise, France"
+    },
+    "123": {
+        "name": "Rasmus Lerdorf",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/rasmus-lerdorf-1.jpg",
+        "Famous As": "Programmer",
+        "Birthdate": "November 22, 1968",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Qeqertarsuaq"
+    },
+    "124": {
+        "name": "Bram Cohen",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bram-cohen-1.jpg",
+        "Famous As": "Computer scientist, Programmer, Blogger",
+        "Birthdate": "October 12, 1975",
+        "Sun Sign": "Libra",
+        "Birthplace": "New York City"
+    },
+    "125": {
+        "name": "Richard Hamming",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/richard-hamming-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Engineer, University teacher",
+        "Birthdate": "February 11, 1915",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Chicago",
+        "Died": "January 7, 1998"
+    },
+    "126": {
+        "name": "Erik Demaine",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/erik-demaine-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, University teacher",
+        "Birthdate": "February 28, 1981",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Halifax"
+    },
+    "127": {
+        "name": "Seymour Cray",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/seymour-cray-1.jpg",
+        "Famous As": "Engineer, Computer scientist",
+        "Birthdate": "September 28, 1925",
+        "Sun Sign": "Libra",
+        "Birthplace": "Chippewa Falls",
+        "Died": "October 5, 1996"
+    },
+    "128": {
+        "name": "Don Norman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/don-norman-1.jpg",
+        "Famous As": "Engineer, Computer scientist, Psychologist, Writer",
+        "Birthdate": "December 25, 1935",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "United States of America"
+    },
+    "129": {
+        "name": "Peter Norton",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/peter-norton-1.jpg",
+        "Famous As": "Art collector, Programmer, Computer scientist",
+        "Birthdate": "November 14, 1943",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Aberdeen"
+    },
+    "130": {
+        "name": "Richard M. Karp",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/richard-m-karp-55416-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "January 3, 1935",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Boston, Massachusetts, United States"
+    },
+    "131": {
+        "name": "Larry Wall",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/larry-wall-1.jpg",
+        "Famous As": "Programmer, Engineer, Writer, Computer scientist",
+        "Birthdate": "September 27, 1954",
+        "Sun Sign": "Libra",
+        "Birthplace": "Los Angeles"
+    },
+    "132": {
+        "name": "Jon Postel",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jon-postel-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "August 6, 1943",
+        "Sun Sign": "Leo",
+        "Birthplace": "Altadena, California, United States",
+        "Died": "October 16, 1998"
+    },
+    "133": {
+        "name": "Rashad Khalifa",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/rashad-khalifa.jpg",
+        "Famous As": "Chemist, Translator, Biochemist, Computer scientist",
+        "Birthdate": "November 19, 1935",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Egypt",
+        "Died": "January 31, 1990"
+    },
+    "134": {
+        "name": "Kenneth E. Iverson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/kenneth-e-iverson-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "December 17, 1920",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Camrose, Canada",
+        "Died": "October 19, 2004"
+    },
+    "135": {
+        "name": "Tommy Flowers",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tommy-flowers-1.jpg",
+        "Famous As": "Technician, Engineer, Computer scientist",
+        "Birthdate": "December 22, 1905",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Poplar",
+        "Died": "October 28, 1998"
+    },
+    "136": {
+        "name": "Edgar F. Codd",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/edgar-f-codd.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "August 19, 1923",
+        "Sun Sign": "Leo",
+        "Birthplace": "Fortuneswell, England",
+        "Died": "April 18, 2003"
+    },
+    "137": {
+        "name": "Daniel J. Bernstein",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/daniel-j-bernstein-1.jpg",
+        "Famous As": "Mathematician, Cryptologist, Programmer, University teacher, Computer scientist",
+        "Birthdate": "October 29, 1971",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "East Patchogue"
+    },
+    "138": {
+        "name": "Ron Rivest",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ronald-rivest.jpg",
+        "Famous As": "Cryptographer",
+        "Birthdate": "May 6, 1947",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Schenectady, New York, United States"
+    },
+    "139": {
+        "name": "Michael O. Rabin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/michael-o-rabin-1.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "September 1, 1931",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Wroc\u0142aw, Poland"
+    },
+    "140": {
+        "name": "Steve Shirley",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/steve-shirley-1.jpg",
+        "Famous As": "Computer scientist, Feminist",
+        "Birthdate": "September 16, 1933",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Dortmund"
+    },
+    "141": {
+        "name": "Bill Hewlett",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/william-redington-hewlett-1.jpg",
+        "Famous As": "Entrepreneur",
+        "Birthdate": "May 20, 1913",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Ann Arbor, Michigan, United States",
+        "Died": "January 12, 2001"
+    },
+    "142": {
+        "name": "Daniel M. Lewin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/daniel-m-lewin.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "May 14, 1970",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Denver",
+        "Died": "September 11, 2001"
+    },
+    "143": {
+        "name": "John Hopcroft",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-hopcroft-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "October 7, 1939",
+        "Sun Sign": "Libra",
+        "Birthplace": "Seattle, Washington, United States"
+    },
+    "144": {
+        "name": "Nicholas Negroponte",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/nicholas-negroponte-1.jpg",
+        "Famous As": "Computer scientist, Architect, Investor, University teacher",
+        "Birthdate": "December 1, 1943",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "New York City"
+    },
+    "145": {
+        "name": "Leslie Valiant",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/leslie-valiant.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "March 28, 1949",
+        "Sun Sign": "Aries",
+        "Birthplace": "Budapest, Hungary"
+    },
+    "146": {
+        "name": "Mark Adler",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/mark-adler-1.jpg",
+        "Famous As": "Mathematician, Physicist, Computer scientist",
+        "Birthdate": "April 3, 1959",
+        "Sun Sign": "Aries",
+        "Birthplace": "Miami"
+    },
+    "147": {
+        "name": "Pranav Mistry",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/pranav-mistry-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "May 14, 1981",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Palanpur, Gujarat, India"
+    },
+    "148": {
+        "name": "Andrew Viterbi",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andrew-viterbi-1.jpg",
+        "Famous As": "Engineer, Entrepreneur, Computer scientist",
+        "Birthdate": "March 9, 1935",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Bergamo"
+    },
+    "149": {
+        "name": "Seymour Papert",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/seymour-papert-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Educator, University teacher, Psychologist",
+        "Birthdate": "February 29, 1928",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Pretoria",
+        "Died": "July 31, 2016"
+    },
+    "150": {
+        "name": "Daphne Koller",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/daphne-koller-1.jpg",
+        "Famous As": "computer scientist, engineer",
+        "Birthdate": "August 27, 1968",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Jerusalem"
+    },
+    "151": {
+        "name": "Tom Hall",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tom-hall-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "September 2, 1964",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Wisconsin"
+    },
+    "152": {
+        "name": "Jim Gray",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jim-gray-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "January 12, 1944",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "San Francisco, California, United States",
+        "Died": "January 28, 2012"
+    },
+    "153": {
+        "name": "Avie Tevanian",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/avie-tevanian.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "1961 AD",
+        "Birthplace": "Westbrook, Maine, United States"
+    },
+    "154": {
+        "name": "Peter Norvig",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/peter-norvig-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "December 14, 1956",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "United States of America"
+    },
+    "155": {
+        "name": "Tim Paterson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tim-paterson-1.jpg",
+        "Famous As": "Programmer, Computer scientist",
+        "Birthdate": "June 1, 1956",
+        "Sun Sign": "Gemini"
+    },
+    "156": {
+        "name": "John Backus",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-backus-16520-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "December 3, 1924",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Philadelphia, Pennsylvania, United States",
+        "Died": "March 17, 2007"
+    },
+    "157": {
+        "name": "Leonard Kleinrock",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/leonard-kleinrock.jpg",
+        "Famous As": "Mathematician, Computer scientist, Patent inventor, Professor",
+        "Birthdate": "June 13, 1934",
+        "Sun Sign": "Gemini",
+        "Birthplace": "New York City"
+    },
+    "158": {
+        "name": "Lynn Conway",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/lynn-conway-1.jpg",
+        "Famous As": "computer scientist, engineer, inventor",
+        "Birthdate": "January 10, 1938",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Mount Vernon"
+    },
+    "159": {
+        "name": "Fernando J. Corbat\u00f3",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/fernando-j-corbat-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "July 1, 1926",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Oakland, California, United States",
+        "Died": "July 12, 2019"
+    },
+    "160": {
+        "name": "J. C. R. Licklider",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/j-c-r-licklider-1.jpg",
+        "Famous As": "Psychologist",
+        "Birthdate": "March 11, 1915",
+        "Sun Sign": "Pisces",
+        "Birthplace": "St. Louis, Missouri, United States",
+        "Died": "June 26, 1990"
+    },
+    "161": {
+        "name": "Butler Lampson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/butler-lampson-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "December 23, 1943",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Washington, D.C., United States"
+    },
+    "162": {
+        "name": "Lotfi A. Zadeh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/lotfi-a-zadeh-1.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "February 4, 1921",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Baku, Azerbaijan",
+        "Died": "September 6, 2017"
+    },
+    "163": {
+        "name": "Haskell Curry",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/haskell-curry-1.jpeg",
+        "Famous As": "Mathematician",
+        "Birthdate": "September 12, 1900",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Millis, Massachusetts, United States",
+        "Died": "September 1, 1982"
+    },
+    "164": {
+        "name": "Radia Perlman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/radia-perlman-1.jpg",
+        "Famous As": "Computer Network Engineer",
+        "Birthdate": "December 18, 1951",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Portsmouth, Virginia, United States"
+    },
+    "165": {
+        "name": "Rob Levin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/rob-levin-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "December 16, 1955",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Houston, Texas, United States",
+        "Died": "September 16, 2006"
+    },
+    "166": {
+        "name": "Liu Chuanzhi",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/liu-chuanzhi-1.jpg",
+        "Famous As": "Entrepreneur, Businessperson, Computer scientist",
+        "Birthdate": "April 29, 1944",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Zhenjiang"
+    },
+    "167": {
+        "name": "J\u00fcrgen Schmidhuber",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jrgen-schmidhuber-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "January 17, 1963",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Munich"
+    },
+    "168": {
+        "name": "Raymond Smullyan",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/raymond-smullyan-1.jpg",
+        "Famous As": "Mathematician, Pianist, Philosopher, University teacher, Computer scientist, Stage magician, Scientist",
+        "Birthdate": "May 25, 1919",
+        "Sun Sign": "Gemini",
+        "Birthplace": "New York City",
+        "Died": "February 6, 2017"
+    },
+    "169": {
+        "name": "Niklas Zennstr\u00f6m",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/niklas-zennstrm.jpg",
+        "Famous As": "Entrepreneur, Businessperson, Computer scientist",
+        "Birthdate": "February 16, 1966",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "J\u00e4rf\u00e4lla Municipality"
+    },
+    "170": {
+        "name": "Federico Faggin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/federico-faggin-1.jpg",
+        "Famous As": "Physicist, Inventor, Computer scientist, Engineer, Businessperson",
+        "Birthdate": "December 1, 1941",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Vicenza"
+    },
+    "171": {
+        "name": "Juris Hartmanis",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/juris-hartmanis-72277-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "July 5, 1928",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Riga, Latvia"
+    },
+    "172": {
+        "name": "Ronald Graham",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ronald-graham-1.jpg",
+        "Famous As": "Mathematician, Juggler, Computer scientist",
+        "Birthdate": "October 31, 1935",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Taft"
+    },
+    "173": {
+        "name": "David J. C. MacKay",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-j-c-mackay-1.jpg",
+        "Famous As": "Physicist, Computer scientist, Professor",
+        "Birthdate": "April 22, 1967",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Stoke-on-Trent",
+        "Died": "April 14, 2016"
+    },
+    "174": {
+        "name": "Alan Cooper",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alan-cooper-1.jpg",
+        "Famous As": "Computer scientist, Writer",
+        "Birthdate": "June 3, 1952",
+        "Sun Sign": "Gemini",
+        "Birthplace": "San Francisco"
+    },
+    "175": {
+        "name": "Jeff Minter",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jeff-minter-1.jpg",
+        "Famous As": "Programmer, Engineer, Computer scientist",
+        "Birthdate": "April 22, 1962",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Reading"
+    },
+    "176": {
+        "name": "Harry Nyquist",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/harry-nyquist-1.jpg",
+        "Famous As": "Physicist, Computer scientist, Engineer, Statistician, Mathematician",
+        "Birthdate": "February 7, 1889",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Kil Municipality",
+        "Died": "April 4, 1976"
+    },
+    "177": {
+        "name": "Richard E. Stearns",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/richard-e-stearns-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "July 5, 1936",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Caldwell, New Jersey, United States"
+    },
+    "178": {
+        "name": "Stephen Smale",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/stephen-smale.jpg",
+        "Famous As": "Mathematician, Computer scientist, University teacher",
+        "Birthdate": "July 15, 1930",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Flint"
+    },
+    "179": {
+        "name": "Jeff Sutherland",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jeff-sutherland.jpg",
+        "Birthdate": "0000 AD",
+        "Birthplace": "United States of America"
+    },
+    "180": {
+        "name": "Peter Shor",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/peter-shor-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, University teacher",
+        "Birthdate": "August 14, 1959",
+        "Sun Sign": "Leo",
+        "Birthplace": "New York City"
+    },
+    "181": {
+        "name": "Dave Cutler",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/dave-cutler-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "March 13, 1942",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Lansing"
+    },
+    "182": {
+        "name": "Bob Kahn",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bob-kahn-1.jpg",
+        "Famous As": "Electrical engineer",
+        "Birthdate": "December 23, 1938",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Brooklyn, New York, United States"
+    },
+    "183": {
+        "name": "Josh Sawyer",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/josh-sawyer-1.jpg",
+        "Famous As": "Video game developer, Computer scientist",
+        "Birthdate": "October 18, 1975",
+        "Sun Sign": "Libra",
+        "Birthplace": "Fort Atkinson"
+    },
+    "184": {
+        "name": "Stuart J. Russell",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/stuart-j-russell.jpg",
+        "Famous As": "scientist, computer scientist, engineer, university teacher",
+        "Birthdate": "1962 AD",
+        "Birthplace": "Portsmouth"
+    },
+    "185": {
+        "name": "Grady Booch",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/grady-booch-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "February 27, 1955",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Amarillo"
+    },
+    "186": {
+        "name": "Jenova Chen",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jenova-chen-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "October 8, 1981",
+        "Sun Sign": "Libra",
+        "Birthplace": "Shanghai"
+    },
+    "187": {
+        "name": "Jamie Zawinski",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jamie-zawinski.jpg",
+        "Famous As": "Engineer, Programmer, Nightclub owner, Computer scientist",
+        "Birthdate": "November 3, 1968",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Pittsburgh"
+    },
+    "188": {
+        "name": "Rodney Brooks",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/rodney-brooks-1.jpg",
+        "Famous As": "Roboticist",
+        "Birthdate": "December 30, 1954",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Adelaide, Australia"
+    },
+    "189": {
+        "name": "Christos Papadimitriou",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/christos-papadimitriou-1.jpg",
+        "Famous As": "Writer, Mathematician, Computer scientist, University teacher",
+        "Birthdate": "August 16, 1949",
+        "Sun Sign": "Leo",
+        "Birthplace": "Athens"
+    },
+    "190": {
+        "name": "John Resig",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-resig-22558-1.jpg",
+        "Famous As": "Programmer, Engineer, Computer scientist",
+        "Birthdate": "May 8, 1984",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Boston"
+    },
+    "191": {
+        "name": "Ralph Merkle",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ralph-merkle-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "February 2, 1952",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Berkeley, California, United States"
+    },
+    "192": {
+        "name": "John Maeda",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-maeda.jpg",
+        "Famous As": "graphic designer, computer scientist",
+        "Birthdate": "1966 AD",
+        "Birthplace": "Seattle"
+    },
+    "193": {
+        "name": "Danny Hillis",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/danny-hillis-26370-1.jpg",
+        "Famous As": "Inventor, Scientist, Engineer, Entrepreneur, Writer, Computer scientist",
+        "Birthdate": "September 25, 1956",
+        "Sun Sign": "Libra",
+        "Birthplace": "Baltimore"
+    },
+    "194": {
+        "name": "J. Presper Eckert",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/j-presper-eckert-16532-1.jpg",
+        "Famous As": "Electrical engineer",
+        "Birthdate": "April 9, 1919",
+        "Sun Sign": "Aries",
+        "Birthplace": "Philadelphia, Pennsylvania, United States",
+        "Died": "June 3, 1995"
+    },
+    "195": {
+        "name": "I. J. Good",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/i-j-good.jpg",
+        "Famous As": "Mathematician, Cryptographer, Computer scientist, Philosopher, Statistician, University teacher",
+        "Birthdate": "December 9, 1916",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "London",
+        "Died": "April 5, 2009"
+    },
+    "196": {
+        "name": "Blake Ross",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/blake-ross-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Programmer, Blogger",
+        "Birthdate": "June 12, 1985",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Miami"
+    },
+    "197": {
+        "name": "Theo de Raadt",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/theo-de-raadt-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Network engineer, Programmer",
+        "Birthdate": "May 19, 1968",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Pretoria"
+    },
+    "198": {
+        "name": "Philippe Kahn",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/philippe-kahn-20318-1.jpg",
+        "Famous As": "Entrepreneur, Computer scientist",
+        "Birthdate": "March 16, 1952",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Paris"
+    },
+    "199": {
+        "name": "Alan Cox",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alan-cox.jpg",
+        "Famous As": "Programmer, Blogger, Computer scientist",
+        "Birthdate": "July 22, 1968",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Solihull"
+    },
+    "200": {
+        "name": "Lawrence Roberts",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/lawrence-roberts-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "December 21, 1937",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Westport, Connecticut",
+        "Died": "December 26, 2018"
+    },
+    "201": {
+        "name": "Jay Wright Forrester",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jay-wright-forrester-1.jpg",
+        "Famous As": "Scientist",
+        "Birthdate": "July 14, 1918",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Anselmo, Nebraska, United States",
+        "Died": "November 16, 2016"
+    },
+    "202": {
+        "name": "Joseph Weizenbaum",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/joseph-weizenbaum-54672-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "January 8, 1923",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Berlin, Germany",
+        "Died": "March 5, 2008"
+    },
+    "203": {
+        "name": "Gerald Jay Sussman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/gerald-jay-sussman-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Engineer, University teacher",
+        "Birthdate": "February 8, 1947",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "United States of America"
+    },
+    "204": {
+        "name": "Phil Katz",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/phil-katz-1.jpg",
+        "Famous As": "Programmer, Computer scientist",
+        "Birthdate": "November 3, 1962",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Milwaukee",
+        "Died": "April 14, 2000"
+    },
+    "205": {
+        "name": "Donald Davies",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/donald-davies-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "June 7, 1924",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Treorchy, Wales",
+        "Died": "May 28, 2000"
+    },
+    "206": {
+        "name": "Robert Scoble",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/robert-scoble-1.jpg",
+        "Famous As": "Blogger, Writer, Computer scientist, Podcaster",
+        "Birthdate": "January 18, 1965",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "New Jersey"
+    },
+    "207": {
+        "name": "Raj Reddy",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/raj-reddy.jpg",
+        "Famous As": "Computer scientist, University teacher",
+        "Birthdate": "June 13, 1937",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Andhra Pradesh"
+    },
+    "208": {
+        "name": "Cleve Moler",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/cleve-moler-1.jpg",
+        "Famous As": "Mathematician, Programmer, Engineer, University teacher, Computer scientist",
+        "Birthdate": "August 17, 1939",
+        "Sun Sign": "Leo",
+        "Birthplace": "Salt Lake City"
+    },
+    "209": {
+        "name": "Vijay P. Bhatkar",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/vijay-p-bhatkar.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "October 11, 1946",
+        "Sun Sign": "Libra",
+        "Birthplace": "Akola district"
+    },
+    "210": {
+        "name": "Hal Abelson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/hal-abelson.jpg",
+        "Famous As": "Professor",
+        "Birthdate": "April 26, 1947",
+        "Sun Sign": "Taurus"
+    },
+    "211": {
+        "name": "Scott Guthrie",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/scott-guthrie-1.jpg",
+        "Famous As": "Programmer, Computer scientist",
+        "Birthdate": "February 6, 1975",
+        "Sun Sign": "Aquarius"
+    },
+    "212": {
+        "name": "Frank Rosenblatt",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/frank-rosenblatt.jpg",
+        "Famous As": "Psychologist, Computer scientist",
+        "Birthdate": "July 11, 1928",
+        "Sun Sign": "Cancer",
+        "Birthplace": "New York City",
+        "Died": "July 11, 1971"
+    },
+    "213": {
+        "name": "Petr Mitrichev",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/petr-mitrichev-23038-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "March 19, 1985",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Moscow"
+    },
+    "214": {
+        "name": "Terry Winograd",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/terry-winograd-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "February 24, 1946",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Takoma Park"
+    },
+    "215": {
+        "name": "Brian Behlendorf",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/brian-behlendorf-1.jpg",
+        "Famous As": "Engineer, Computer scientist",
+        "Birthdate": "March 30, 1973",
+        "Sun Sign": "Aries"
+    },
+    "216": {
+        "name": "Alfred Aho",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alfred-aho-25660-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Programmer",
+        "Birthdate": "August 9, 1941",
+        "Sun Sign": "Leo",
+        "Birthplace": "Timmins"
+    },
+    "217": {
+        "name": "Hans Moravec",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/no-profile-img.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "November 30, 1948",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Kautzen, Austria"
+    },
+    "218": {
+        "name": "Richard E. Bellman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/richard-e-bellman-1.jpg",
+        "Famous As": "Mathematician, University teacher, Computer scientist",
+        "Birthdate": "August 26, 1920",
+        "Sun Sign": "Virgo",
+        "Birthplace": "New York City",
+        "Died": "March 19, 1984"
+    },
+    "219": {
+        "name": "Barry Boehm",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/barry-boehm-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "May 16, 1935",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Santa Monica"
+    },
+    "220": {
+        "name": "Robert Sedgewick",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/robert-sedgewick.jpg",
+        "Famous As": "computer scientist, programmer, writer, university teacher",
+        "Birthdate": "December 20, 1946",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "United States of America"
+    },
+    "221": {
+        "name": "Allan Alcorn",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/allan-alcorn-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "January 1, 1948",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "San Francisco"
+    },
+    "222": {
+        "name": "Ken Olsen",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ken-olsen-1.jpg",
+        "Famous As": "Engineer, Entrepreneur, Computer scientist",
+        "Birthdate": "February 20, 1926",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Bridgeport",
+        "Died": "February 6, 2011"
+    },
+    "223": {
+        "name": "Andrew Yao",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andrew-yao.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "December 24, 1946",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Shanghai, China"
+    },
+    "224": {
+        "name": "Paul Vixie",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/paul-vixie.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "1963 AD",
+        "Birthplace": "United States of America"
+    },
+    "225": {
+        "name": "Stephen Cole Kleene",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/stephen-cole-kleene-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Philosopher, University teacher",
+        "Birthdate": "January 5, 1909",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Hartford",
+        "Died": "January 25, 1994"
+    },
+    "226": {
+        "name": "Allen Newell",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/allen-newell.jpg",
+        "Famous As": "Psychologist, Computer scientist, Mathematician, University teacher",
+        "Birthdate": "March 19, 1927",
+        "Sun Sign": "Pisces",
+        "Birthplace": "San Francisco",
+        "Died": "July 19, 1992"
+    },
+    "227": {
+        "name": "Adam Osborne",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/adam-osborne-1.jpg",
+        "Famous As": "Publisher, Computer scientist, Engineer, Entrepreneur",
+        "Birthdate": "March 6, 1939",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Bangkok",
+        "Died": "March 18, 2003"
+    },
+    "228": {
+        "name": "Jeffrey Ullman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jeffrey-ullman-1.jpg",
+        "Famous As": "Computer scientist, University teacher",
+        "Birthdate": "November 22, 1942",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "New York City"
+    },
+    "229": {
+        "name": "Dana Scott",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/dana-scott-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, Engineer, Topologist, University teacher",
+        "Birthdate": "October 11, 1932",
+        "Sun Sign": "Libra",
+        "Birthplace": "Berkeley"
+    },
+    "230": {
+        "name": "Simon Peyton Jones",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/simon-peyton-jones-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "January 18, 1958",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "South Africa"
+    },
+    "231": {
+        "name": "Rediet Abebe",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/rediet-abebe-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "1991 AD",
+        "Birthplace": "Addis Ababa, Ethiopia"
+    },
+    "232": {
+        "name": "Steve Russell",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/steve-russell-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "May 12, 1937",
+        "Sun Sign": "Taurus",
+        "Birthplace": "United States"
+    },
+    "233": {
+        "name": "Erich Gamma",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/erich-gamma-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "March 13, 1961",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Z\u00fcrich"
+    },
+    "234": {
+        "name": "Jessica Fridrich",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jessica-fridrich-1.jpg",
+        "Famous As": "Educator",
+        "Birthdate": "1964 AD",
+        "Birthplace": "Ostrava, Czech Republic"
+    },
+    "235": {
+        "name": "Anita Borg",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/anita-borg.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "January 17, 1949",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Chicago",
+        "Died": "April 6, 2003"
+    },
+    "236": {
+        "name": "Betty Holberton",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/betty-holberton-29419-1.jpg",
+        "Famous As": "Computer scientist, Programmer",
+        "Birthdate": "March 7, 1917",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Philadelphia",
+        "Died": "December 8, 2001"
+    },
+    "237": {
+        "name": "Terry Sejnowski",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/terry-sejnowski.jpg",
+        "Famous As": "Professor",
+        "Birthdate": "August 13, 1947",
+        "Sun Sign": "Leo",
+        "Birthplace": "Cleveland, Ohio, United States"
+    },
+    "238": {
+        "name": "Andrew Tridgell",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andrew-tridgell-1.jpg",
+        "Famous As": "Engineer, Programmer, Computer scientist",
+        "Birthdate": "February 28, 1967",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Sydney"
+    },
+    "239": {
+        "name": "Erik M\u00f6ller",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/erik-mller-1.jpg",
+        "Famous As": "Journalist",
+        "Birthdate": "1979 AD",
+        "Birthplace": "Germany"
+    },
+    "240": {
+        "name": "Alexander Stepanov",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alexander-stepanov-25358-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "November 16, 1950",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Moscow"
+    },
+    "241": {
+        "name": "Joanna Rutkowska",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/joanna-rutkowska-1.jpg",
+        "Famous As": "Computer researcher",
+        "Birthdate": "1981 AD",
+        "Birthplace": "Warsaw, Poland"
+    },
+    "242": {
+        "name": "John G. Kemeny",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-g-kemeny-1.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "May 31, 1926",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Budapest, Hungary",
+        "Died": "December 26, 1992"
+    },
+    "243": {
+        "name": "David Wheeler",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-wheeler.jpg",
+        "Famous As": "cryptographer, computer scientist",
+        "Birthdate": "February 9, 1927",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Birmingham",
+        "Died": "December 13, 2004"
+    },
+    "244": {
+        "name": "John Henry Holland",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-henry-holland.jpg",
+        "Famous As": "Engineer, Psychologist, Scientist, University teacher, Computer scientist",
+        "Birthdate": "February 2, 1929",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Fort Wayne",
+        "Died": "August 9, 2015"
+    },
+    "245": {
+        "name": "Maurice Wilkes",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/maurice-wilkes-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "June 26, 1913",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Dudley, Worcestershire, England",
+        "Died": "November 29, 2010"
+    },
+    "246": {
+        "name": "Ken Schwaber",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ken-schwaber.jpg",
+        "Famous As": "computer scientist",
+        "Birthdate": "1945 AD",
+        "Birthplace": "Wheaton"
+    },
+    "247": {
+        "name": "Scott Fahlman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/scott-fahlman-1.jpg",
+        "Famous As": "Computer scientist, University teacher",
+        "Birthdate": "March 21, 1948",
+        "Sun Sign": "Aries",
+        "Birthplace": "Medina"
+    },
+    "248": {
+        "name": "Mark Weiser",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/mark-weiser.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "July 23, 1952",
+        "Sun Sign": "Leo",
+        "Birthplace": "Chicago, Illinois, United States",
+        "Died": "April 27, 1999"
+    },
+    "249": {
+        "name": "Ivar Jacobson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ivar-jacobson-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Inventor",
+        "Birthdate": "September 2, 1939",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Ystad"
+    },
+    "250": {
+        "name": "Dan Bricklin",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/dan-bricklin-25200-1.jpg",
+        "Famous As": "Computer scientist, Entrepreneur, Engineer, Programmer",
+        "Birthdate": "July 16, 1951",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Philadelphia"
+    },
+    "251": {
+        "name": "David Parnas",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-parnas-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "February 10, 1941",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Canada"
+    },
+    "252": {
+        "name": "Jean Bartik",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jean-bartik-1.jpg",
+        "Famous As": "Computer software pioneer",
+        "Birthdate": "December 27, 1924",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Alanthus Grove, Missouri, United States",
+        "Died": "March 23, 2011"
+    },
+    "253": {
+        "name": "Alan Perlis",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alan-perlis.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "April 1, 1922",
+        "Sun Sign": "Aries",
+        "Birthplace": "Pittsburgh, Pennsylvania, United States",
+        "Died": "February 7, 1990"
+    },
+    "254": {
+        "name": "Thomas H. Cormen",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/thomas-h-cormen.jpg",
+        "Famous As": "Computer scientist, engineer",
+        "Birthdate": "1956 AD",
+        "Birthplace": "New York City"
+    },
+    "255": {
+        "name": "Robert W Floyd",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/robert-w-floyd-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "June 8, 1936",
+        "Sun Sign": "Gemini",
+        "Birthplace": "New York City, New York, United States",
+        "Died": "September 25, 2001"
+    },
+    "256": {
+        "name": "Edward Yourdon",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/edward-yourdon-1.jpg",
+        "Famous As": "Engineer, Computer scientist",
+        "Birthdate": "April 30, 1944",
+        "Sun Sign": "Taurus",
+        "Died": "January 20, 2016"
+    },
+    "257": {
+        "name": "C. K. Raut",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/c-k-raut-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "0000 AD",
+        "Birthplace": "Mahadeva, Saptari, Nepal"
+    },
+    "258": {
+        "name": "Ben Shneiderman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ben-shneiderman-1.jpg",
+        "Famous As": "Computer scientist, Engineer, University teacher, Professor",
+        "Birthdate": "August 21, 1947",
+        "Sun Sign": "Leo",
+        "Birthplace": "Bethesda"
+    },
+    "259": {
+        "name": "Marcian Hoff",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/marcian-hoff-1.jpg",
+        "Famous As": "Engineer, Inventor, Computer scientist",
+        "Birthdate": "October 28, 1937",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Rochester"
+    },
+    "260": {
+        "name": "Tom DeMarco",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tom-demarco-1.jpg",
+        "Famous As": "Writer, Engineer, Computer scientist",
+        "Birthdate": "August 20, 1940",
+        "Sun Sign": "Leo",
+        "Birthplace": "Hazleton"
+    },
+    "261": {
+        "name": "Eric Allman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/eric-allman-1.jpg",
+        "Famous As": "Engineer, Programmer, Computer scientist",
+        "Birthdate": "September 2, 1955",
+        "Sun Sign": "Virgo",
+        "Birthplace": "El Cerrito"
+    },
+    "262": {
+        "name": "Jon Lech Johansen",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jon-lech-johansen.jpg",
+        "Famous As": "Cryptographer, Programmer, Computer scientist",
+        "Birthdate": "November 18, 1983",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Harstad"
+    },
+    "263": {
+        "name": "Charles Bachman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/charles-bachman-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "December 11, 1924",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Manhattan, Kansas, United States",
+        "Died": "July 13, 2017"
+    },
+    "264": {
+        "name": "Kristen Nygaard",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/kristen-nygaard-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "August 27, 1926",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Oslo, Norway",
+        "Died": "August 10, 2002"
+    },
+    "265": {
+        "name": "John Ousterhout",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-ousterhout-1.jpg",
+        "Famous As": "Computer scientist, Engineer, Programmer, University teacher",
+        "Birthdate": "October 15, 1954",
+        "Sun Sign": "Libra",
+        "Birthplace": "Solano County"
+    },
+    "266": {
+        "name": "Edward Feigenbaum",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/edward-feigenbaum-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "January 20, 1936",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Weehawken, New Jersey, United States"
+    },
+    "267": {
+        "name": "Leonid Khachiyan",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/leonid-khachiyan-72832-1.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "May 3, 1952",
+        "Sun Sign": "Taurus",
+        "Birthplace": "St. Petersburg, Russia",
+        "Died": "April 29, 2005"
+    },
+    "268": {
+        "name": "Pierre B\u00e9zier",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/no-profile-img.jpg",
+        "Famous As": "Engineer, Mathematician, Computer scientist",
+        "Birthdate": "September 1, 1910",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Paris",
+        "Died": "November 25, 1999"
+    },
+    "269": {
+        "name": "Endre Szemer\u00e9di",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/endre-szemerdi-57853-1.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "August 21, 1940",
+        "Sun Sign": "Leo",
+        "Birthplace": "Budapest, Hungary"
+    },
+    "270": {
+        "name": "L\u00e1szl\u00f3 Babai",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/lszl-babai-13431-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, University teacher",
+        "Birthdate": "July 20, 1950",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Budapest"
+    },
+    "271": {
+        "name": "Mitchel Resnick",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/mitchel-resnick-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "June 12, 1956",
+        "Sun Sign": "Gemini",
+        "Birthplace": "United States of America"
+    },
+    "272": {
+        "name": "Jon Bentley",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jon-bentley.jpg",
+        "Famous As": "computer scientist",
+        "Birthdate": "February 20, 1953",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Long Beach"
+    },
+    "273": {
+        "name": "Donald Michie",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/donald-michie-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "November 11, 1923",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Yangon, Myanmar",
+        "Died": "July 7, 2007"
+    },
+    "274": {
+        "name": "Maria von Wedemeyer",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/maria-von-wedemeyer-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "April 23, 1924",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Patzig, Germany",
+        "Died": "November 16, 1977"
+    },
+    "275": {
+        "name": "Van Jacobson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/van-jacobson.jpg",
+        "Birthdate": "0000 AD"
+    },
+    "276": {
+        "name": "Randal L. Schwartz",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/randal-l-schwartz-1.jpg",
+        "Famous As": "Programmer, Teacher, Computer scientist",
+        "Birthdate": "November 22, 1961",
+        "Sun Sign": "Sagittarius",
+        "Birthplace": "Portland"
+    },
+    "277": {
+        "name": "Charles P. Thacker",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/charles-p-thacker-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "February 26, 1943",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Pasadena, California, United States",
+        "Died": "June 12, 2017"
+    },
+    "278": {
+        "name": "Charles Petzold",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/charles-petzold-1.jpg",
+        "Famous As": "Programmer, Writer, Computer scientist",
+        "Birthdate": "February 2, 1953",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "New Brunswick"
+    },
+    "279": {
+        "name": "John Cocke",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-cocke-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "May 30, 1925",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Charlotte, North Carolina, United States",
+        "Died": "July 16, 2002"
+    },
+    "280": {
+        "name": "Edmund M. Clarke",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/edmund-m-clarke-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "July 27, 1945",
+        "Sun Sign": "Leo",
+        "Birthplace": "Newport News, Virginia, United States"
+    },
+    "281": {
+        "name": "Andi Gutmans",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andi-gutmans.jpg",
+        "Birthdate": "0000 AD"
+    },
+    "282": {
+        "name": "Jeffrey Vitter",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jeffrey-vitter-1.jpg",
+        "Famous As": "Computer scientist, Engineer",
+        "Birthdate": "November 13, 1955",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "New Orleans"
+    },
+    "283": {
+        "name": "Nigel Shadbolt",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/nigel-shadbolt-1.jpg",
+        "Famous As": "Professor",
+        "Birthdate": "April 9, 1956",
+        "Sun Sign": "Aries",
+        "Birthplace": "London, England"
+    },
+    "284": {
+        "name": "Subhash Kak",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/subhash-kak-1.jpg",
+        "Famous As": "Scientist",
+        "Birthdate": "March 26, 1947",
+        "Sun Sign": "Aries",
+        "Birthplace": "Srinagar"
+    },
+    "285": {
+        "name": "Tom Kilburn",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tom-kilburn-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "August 11, 1921",
+        "Sun Sign": "Leo",
+        "Birthplace": "Yorkshire, England",
+        "Died": "January 17, 2001"
+    },
+    "286": {
+        "name": "Ole-Johan Dahl",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ole-johan-dahl-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "October 12, 1931",
+        "Sun Sign": "Libra",
+        "Birthplace": "Mandal Municipality, Norway",
+        "Died": "June 29, 2002"
+    },
+    "287": {
+        "name": "Herman Goldstine",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/herman-goldstine-1.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "September 13, 1913",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Chicago, Illinois, United States",
+        "Died": "June 16, 2004"
+    },
+    "288": {
+        "name": "Francesca Bria",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/francesca-bria-1.jpg",
+        "Famous As": "Information technologist",
+        "Birthdate": "November 11, 1977",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Rome, Italy"
+    },
+    "289": {
+        "name": "Ruzena Bajcsy",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ruzena-bajcsy-1.jpg",
+        "Famous As": "Engineer",
+        "Birthdate": "May 28, 1933",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Bratislava, Slovakia"
+    },
+    "290": {
+        "name": "Joseph Sifakis",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/joseph-sifakis-58884-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "December 26, 1946",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Heraklion, Greece"
+    },
+    "291": {
+        "name": "Kate Starbird",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/kate-starbird-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "July 30, 1975",
+        "Sun Sign": "Leo",
+        "Birthplace": "West Point, New York, United States"
+    },
+    "292": {
+        "name": "William Kahan",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/william-kahan-1.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "June 5, 1933",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Toronto, Canada"
+    },
+    "293": {
+        "name": "J\u00e9r\u00f4me Lalande",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jrme-lalande-31803-1.jpg",
+        "Famous As": "Astronomer",
+        "Birthdate": "July 11, 1732",
+        "Sun Sign": "Cancer",
+        "Birthplace": "Bourg-en-Bresse, France",
+        "Died": "April 4, 1807"
+    },
+    "294": {
+        "name": "Robin Milner",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/robin-milner-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "January 13, 1934",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "Yealmpton, England, United Kingdom",
+        "Died": "March 20, 2010"
+    },
+    "295": {
+        "name": "Amir Pnueli",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/amir-pnueli-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "April 22, 1941",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Israel",
+        "Died": "November 2, 2009"
+    },
+    "296": {
+        "name": "Jeff Dean",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jeff-dean.jpg",
+        "Famous As": "computer scientist, software engineer",
+        "Birthdate": "1968 AD"
+    },
+    "297": {
+        "name": "Bob Bemer",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bob-bemer-1.png",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "February 8, 1920",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Sault Ste. Marie, Michigan, United States",
+        "Died": "June 22, 2004"
+    },
+    "298": {
+        "name": "Roger Needham",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/roger-needham-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "February 9, 1935",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Sheffield, England",
+        "Died": "March 1, 2003"
+    },
+    "299": {
+        "name": "Ayanna Howard",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ayanna-howard-1.jpg",
+        "Famous As": "Roboticist",
+        "Birthdate": "January 24, 1972",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "United States"
+    },
+    "300": {
+        "name": "Frances E. Allen",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/frances-e-allen-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "August 4, 1932",
+        "Sun Sign": "Leo",
+        "Birthplace": "Peru, New York, United States"
+    },
+    "301": {
+        "name": "Kathryn P. Hire",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/kathryn-p-hire-1.jpg",
+        "Famous As": "Astronaut",
+        "Birthdate": "August 26, 1959",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Mobile, Alabama, United States"
+    },
+    "302": {
+        "name": "Jacob T. Schwartz",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/no-profile-img.jpg",
+        "Famous As": "Mathematician",
+        "Birthdate": "January 9, 1930",
+        "Sun Sign": "Capricorn",
+        "Birthplace": "New York City, New York, United States",
+        "Died": "March 2, 2009"
+    },
+    "303": {
+        "name": "Pattie Maes",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/pattie-maes-1.jpg",
+        "Famous As": "Professor",
+        "Birthdate": "1961 AD",
+        "Birthplace": "Brussels, Belgium"
+    },
+    "304": {
+        "name": "Juliana Rotich",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/juliana-rotich-1.jpg",
+        "Famous As": "Information technologist, Enterpreneur",
+        "Birthdate": "1977 AD",
+        "Birthplace": "Kenya"
+    },
+    "305": {
+        "name": "E. Allen Emerson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/e-allen-emerson-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "June 2, 1954",
+        "Sun Sign": "Gemini",
+        "Birthplace": "Dallas, Texas, United States"
+    },
+    "306": {
+        "name": "Julian Bigelow",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/julian-bigelow-1.jpg",
+        "Famous As": "Engineer",
+        "Birthdate": "March 19, 1913",
+        "Sun Sign": "Pisces",
+        "Birthplace": "Nutley, New Jersey, United States",
+        "Died": "February 17, 2003"
+    },
+    "307": {
+        "name": "Steve Grand",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/steve-grand.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "February 12, 1958",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "United Kingdom"
+    },
+    "308": {
+        "name": "Ida Holz",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ida-holz-1.jpg",
+        "Famous As": "Engineer",
+        "Birthdate": "January 30, 1935",
+        "Sun Sign": "Aquarius",
+        "Birthplace": "Montevideo, Uruguay"
+    },
+    "309": {
+        "name": "Michael Fourman",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/michael-fourman.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "September 12, 1950",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Oxford, England"
+    },
+    "310": {
+        "name": "Manindra Agrawal",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/manindra-agrawal-1.jpg",
+        "Famous As": "Mathematician, Computer scientist, University teacher",
+        "Birthdate": "May 20, 1966",
+        "Sun Sign": "Taurus",
+        "Birthplace": "Allahabad"
+    },
+    "311": {
+        "name": "David Caminer",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-caminer-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "June 26, 1915",
+        "Sun Sign": "Cancer",
+        "Birthplace": "London, England",
+        "Died": "June 19, 2008"
+    },
+    "312": {
+        "name": "Rose Dieng-Kuntz",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/rose-dieng-kuntz-103400-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "March 27, 1956",
+        "Sun Sign": "Aries",
+        "Birthplace": "Senegal",
+        "Died": "June 30, 2008"
+    },
+    "313": {
+        "name": "Austin Tate",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/austin-tate.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "0000 AD",
+        "Birthplace": "Knottingley, England"
+    },
+    "314": {
+        "name": "John L. Hennessy",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-l-hennessy-108001-1.jpg",
+        "Famous As": "Computer scientist, Educator",
+        "Birthdate": "September 22, 1952",
+        "Sun Sign": "Virgo",
+        "Birthplace": "Huntington, New York, United States"
+    },
+    "315": {
+        "name": "Chrisanthi Avgerou",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/chrisanthi-avgerou-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "1954 AD",
+        "Birthplace": "Greece"
+    },
+    "316": {
+        "name": "David Kuck",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-keuck.jpg",
+        "Famous As": "Computer Designer",
+        "Birthdate": "October 3, 1937",
+        "Sun Sign": "Libra",
+        "Birthplace": "Muskegon, Michigan United States"
+    },
+    "317": {
+        "name": "Kenneth J. Spreitzer",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/no-profile-img.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "1965 AD",
+        "Birthplace": "America"
+    },
+    "318": {
+        "name": "Andy Bechtolsheim",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/andy-bechtolsheim-107679-1.jpg",
+        "Famous As": "Businessperson, Electrical engineer",
+        "Birthdate": "September 30, 1955",
+        "Sun Sign": "Libra",
+        "Birthplace": "Finning, Germany"
+    },
+    "319": {
+        "name": "David Patterson",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/david-patterson-1.jpg",
+        "Famous As": "Computer scientist",
+        "Birthdate": "November 16, 1947",
+        "Sun Sign": "Scorpio",
+        "Birthplace": "Evergreen Park, Illinois, United States"
+    },
+    "320": {
+        "name": "Silvio Micali",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/silvio-micali-108312-1.jpg",
+        "Famous As": "Computer scientist, University teacher",
+        "Birthdate": "October 13, 1954",
+        "Sun Sign": "Libra",
+        "Birthplace": "Palermo, Italy"
+    },
+    "321": {
+        "name": "Alan Eustace",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/alan-eustace-112786-1.jpg",
+        "Famous As": "Computer Scientist",
+        "Birthdate": "1957 AD",
+        "Birthplace": "Orlando, Florida, United States"
+    },
+    "322": {
+        "name": "Alex Biryukov",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/no-profile-img.jpg",
+        "Famous As": "Cryptographer",
+        "Birthdate": "0000 AD",
+        "Birthplace": "Luxembourg"
+    },
+    "323": {
+        "name": "Hassan Ugail",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/hassan-ugail-1.jpg",
+        "Famous As": "Mathematician, Computer scientist",
+        "Birthdate": "September 24, 0000",
+        "Sun Sign": "Libra",
+        "Birthplace": "Hithadhoo, Addu City, Maldives"
+    },
+    "324": {
+        "name": "Murray Campbell",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/no-profile-img.jpg",
+        "Famous As": "Computer scientist, Chess player",
+        "Birthdate": "0000 AD",
+        "Birthplace": "Edmonton, Canada"
+    },
+    "325": {
+        "name": "Vince Cate",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/vince-cate-115605-1.jpg",
+        "Famous As": "Scientist",
+        "Birthdate": "1963 AD",
+        "Birthplace": "Unknown"
+    },
+    "326": {
+        "name": "\u00a0326\u00a0Martin Dougiamas",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/martin-dougiamas-1.jpg",
+        "Famous As": "Businessperson",
+        "Birthdate": "August 20, 1969",
+        "Sun Sign": "Leo",
+        "Birthplace": "Western Australia, Australia"
+    }
+}

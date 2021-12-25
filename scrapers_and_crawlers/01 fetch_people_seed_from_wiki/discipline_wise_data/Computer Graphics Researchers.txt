@@ -1,0 +1,67 @@
+Marc Alexa
+Nina Amenta
+Brian A. Barsky
+Michel Bercovier
+Jim Blinn
+Duncan Brinsmead
+Bui Tuong Phong
+Edwin Catmull
+James H. Clark
+Michael F. Cohen
+Steven Anson Coons
+Andries van Dam
+Michael Deering
+David P. Dobkin
+Julie Dorsey
+José Luis Encarnação
+Steven K. Feiner
+James D. Foley
+Alain Fournier
+Herbert W. Franke
+Juliana Freire
+Henry Fuchs
+Lucy Gilbert
+Ben Goertzel
+Amy Ashurst Gooch
+Henri Gouraud (computer scientist)
+Markus Gross
+Paul Haeberli
+Charles D. Hansen
+Gabor Herman
+Bill Hibbard
+Jessica Hodgins
+Tom Hudson (programmer)
+John F. Hughes
+Jim Kajiya
+Gordon Kindlmann
+Jaron Lanier
+Hao Li
+Ming C. Lin
+R. Bowen Loftin
+Dinesh Manocha
+Dimitris Metaxas
+Miriah Meyer
+Martin Newell (computer scientist)
+William Newman (computer scientist)
+Tomoyuki Nishita
+Ken Perlin
+Mark Pesce
+Hanspeter Pfister
+Krzysztof Pietroszek
+Przemysław Prusinkiewicz
+Holly Rushmeier
+Steven Schkolne
+Thomas Sederberg
+Hans-Peter Seidel
+Carlo H. Séquin
+Peter Shirley
+Claudio Silva (computer scientist)
+Karl Sims
+Alvy Ray Smith
+Bob Sproull
+Jos Stam
+Ivan Sutherland
+Demetri Terzopoulos
+Daniel Thalmann
+Nadia Magnenat Thalmann
+John Warnock

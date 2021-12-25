@@ -1,0 +1,4470 @@
+[
+  [
+    "pageid",
+    3469
+  ],
+  [
+    "url",
+    3469
+  ],
+  [
+    "title",
+    3469
+  ],
+  [
+    "backlinks",
+    3469
+  ],
+  [
+    "categories",
+    3469
+  ],
+  [
+    "ire_person_name",
+    3469
+  ],
+  [
+    "ire_wiki_id",
+    3469
+  ],
+  [
+    "links",
+    3468
+  ],
+  [
+    "label",
+    3468
+  ],
+  [
+    "instance of (P31)",
+    3468
+  ],
+  [
+    "sex or gender (P21)",
+    3425
+  ],
+  [
+    "occupation (P106)",
+    3354
+  ],
+  [
+    "given name (P735)",
+    2890
+  ],
+  [
+    "educated at (P69)",
+    2880
+  ],
+  [
+    "date of birth (P569)",
+    2625
+  ],
+  [
+    "Freebase ID (P646)",
+    2484
+  ],
+  [
+    "employer (P108)",
+    2461
+  ],
+  [
+    "country of citizenship (P27)",
+    2456
+  ],
+  [
+    "name",
+    2283
+  ],
+  [
+    "DBLP author ID (P2456)",
+    2234
+  ],
+  [
+    "VIAF ID (P214)",
+    2157
+  ],
+  [
+    "redirects",
+    2104
+  ],
+  [
+    "WorldCat Identities ID (P7859)",
+    1998
+  ],
+  [
+    "Library of Congress authority ID (P244)",
+    1878
+  ],
+  [
+    "family name (P734)",
+    1833
+  ],
+  [
+    "description",
+    1809
+  ],
+  [
+    "alma_mater",
+    1805
+  ],
+  [
+    "ISNI (P213)",
+    1742
+  ],
+  [
+    "place of birth (P19)",
+    1660
+  ],
+  [
+    "award received (P166)",
+    1628
+  ],
+  [
+    "birth_date",
+    1570
+  ],
+  [
+    "aliases",
+    1565
+  ],
+  [
+    "doctoral advisor (P184)",
+    1515
+  ],
+  [
+    "Mathematics Genealogy Project ID (P549)",
+    1432
+  ],
+  [
+    "birth_place",
+    1411
+  ],
+  [
+    "image",
+    1407
+  ],
+  [
+    "image (P18)",
+    1337
+  ],
+  [
+    "known_for",
+    1324
+  ],
+  [
+    "NUKAT ID (P1207)",
+    1316
+  ],
+  [
+    "Nationale Thesaurus voor Auteurs ID (P1006)",
+    1310
+  ],
+  [
+    "IdRef ID (P269)",
+    1220
+  ],
+  [
+    "doctoral student (P185)",
+    1177
+  ],
+  [
+    "MR Author ID (P4955)",
+    1130
+  ],
+  [
+    "doctoral_advisor",
+    1104
+  ],
+  [
+    "nationality",
+    1056
+  ],
+  [
+    "ACM Digital Library author ID (P864)",
+    1031
+  ],
+  [
+    "GND ID (P227)",
+    1022
+  ],
+  [
+    "languages spoken, written or signed (P1412)",
+    996
+  ],
+  [
+    "field of work (P101)",
+    996
+  ],
+  [
+    "workplaces",
+    985
+  ],
+  [
+    "NKCR AUT ID (P691)",
+    940
+  ],
+  [
+    "Google Scholar author ID (P1960)",
+    929
+  ],
+  [
+    "member of (P463)",
+    914
+  ],
+  [
+    "zbMATH author ID (P1556)",
+    853
+  ],
+  [
+    "fields",
+    827
+  ],
+  [
+    "Google Knowledge Graph ID (P2671)",
+    815
+  ],
+  [
+    "website",
+    779
+  ],
+  [
+    "SHARE Catalogue author ID (P3987)",
+    768
+  ],
+  [
+    "official website (P856)",
+    760
+  ],
+  [
+    "caption",
+    757
+  ],
+  [
+    "field",
+    744
+  ],
+  [
+    "Biblioth\u00e8que nationale de France ID (P268)",
+    741
+  ],
+  [
+    "thesis_title",
+    703
+  ],
+  [
+    "awards",
+    689
+  ],
+  [
+    "thesis_year",
+    671
+  ],
+  [
+    "NORAF ID (P1015)",
+    610
+  ],
+  [
+    "iwlinks",
+    563
+  ],
+  [
+    "Commons category (P373)",
+    556
+  ],
+  [
+    "date of death (P570)",
+    543
+  ],
+  [
+    "work_institution",
+    470
+  ],
+  [
+    "ORCID iD (P496)",
+    460
+  ],
+  [
+    "thesis_url",
+    429
+  ],
+  [
+    "occupation",
+    418
+  ],
+  [
+    "birth_name",
+    410
+  ],
+  [
+    "PLWABN ID (P7293)",
+    393
+  ],
+  [
+    "death_date",
+    388
+  ],
+  [
+    "residence (P551)",
+    386
+  ],
+  [
+    "residence",
+    375
+  ],
+  [
+    "citizenship",
+    373
+  ],
+  [
+    "Scopus author ID (P1153)",
+    370
+  ],
+  [
+    "place of death (P20)",
+    355
+  ],
+  [
+    "Erd\u0151s number (P2021)",
+    355
+  ],
+  [
+    "doctoral_students",
+    340
+  ],
+  [
+    "name in native language (P1559)",
+    335
+  ],
+  [
+    "FAST ID (P2163)",
+    327
+  ],
+  [
+    "SNAC ARK ID (P3430)",
+    322
+  ],
+  [
+    "National Diet Library ID (P349)",
+    319
+  ],
+  [
+    "education",
+    318
+  ],
+  [
+    "prizes",
+    310
+  ],
+  [
+    "spouse",
+    299
+  ],
+  [
+    "death_place",
+    286
+  ],
+  [
+    "Academic Tree ID (P2381)",
+    280
+  ],
+  [
+    "notable work (P800)",
+    262
+  ],
+  [
+    "CiNii author ID (books) (P271)",
+    260
+  ],
+  [
+    "Twitter username (P2002)",
+    259
+  ],
+  [
+    "described by source (P1343)",
+    257
+  ],
+  [
+    "CONOR.SI ID (P1280)",
+    255
+  ],
+  [
+    "image_size",
+    247
+  ],
+  [
+    "National Library of Korea ID (P5034)",
+    229
+  ],
+  [
+    "social media followers (P8687)",
+    212
+  ],
+  [
+    "work_institutions",
+    204
+  ],
+  [
+    "Quora topic ID (P3417)",
+    192
+  ],
+  [
+    "National Library of Israel ID (P949)",
+    183
+  ],
+  [
+    "Open Library ID (P648)",
+    183
+  ],
+  [
+    "NLP ID (unique) (P1695)",
+    180
+  ],
+  [
+    "Encyclop\u00e6dia Britannica Online ID (P1417)",
+    180
+  ],
+  [
+    "BNB person ID (P5361)",
+    178
+  ],
+  [
+    "academic degree (P512)",
+    178
+  ],
+  [
+    "children",
+    167
+  ],
+  [
+    "SELIBR ID (P906)",
+    160
+  ],
+  [
+    "Libris-URI (P5587)",
+    158
+  ],
+  [
+    "LNB ID (P1368)",
+    150
+  ],
+  [
+    "CANTIC ID (old) (P1273)",
+    145
+  ],
+  [
+    "University of Barcelona authority ID (P1580)",
+    145
+  ],
+  [
+    "CANTIC ID (P9984)",
+    142
+  ],
+  [
+    "NNDB people ID (P1263)",
+    140
+  ],
+  [
+    "work location (P937)",
+    138
+  ],
+  [
+    "NLA Trove ID (P1315)",
+    137
+  ],
+  [
+    "National Library of Israel J9U ID (P8189)",
+    134
+  ],
+  [
+    "spouse (P26)",
+    128
+  ],
+  [
+    "RERO ID (P3065)",
+    124
+  ],
+  [
+    "Libraries Australia ID (P409)",
+    122
+  ],
+  [
+    "archives at (P485)",
+    118
+  ],
+  [
+    "cause of death (P509)",
+    117
+  ],
+  [
+    "Semantic Scholar author ID (P4012)",
+    117
+  ],
+  [
+    "LinkedIn personal profile ID (P6634)",
+    114
+  ],
+  [
+    "Deutsche Biographie (GND) ID (P7902)",
+    109
+  ],
+  [
+    "Biblioteca Nacional de Espa\u00f1a ID (P950)",
+    106
+  ],
+  [
+    "National Academy of Sciences member ID (P5380)",
+    106
+  ],
+  [
+    "Guggenheim fellows ID (P6594)",
+    105
+  ],
+  [
+    "IEEE Xplore author ID (P6479)",
+    104
+  ],
+  [
+    "employer",
+    102
+  ],
+  [
+    "manner of death (P1196)",
+    101
+  ],
+  [
+    "position held (P39)",
+    98
+  ],
+  [
+    "AE member ID (P5463)",
+    97
+  ],
+  [
+    "Dimensions author ID (P6178)",
+    96
+  ],
+  [
+    "exact match (P2888)",
+    96
+  ],
+  [
+    "ResearcherID (P1053)",
+    96
+  ],
+  [
+    "birth name (P1477)",
+    91
+  ],
+  [
+    "Canadiana NCF ID (P8179)",
+    90
+  ],
+  [
+    "influences",
+    87
+  ],
+  [
+    "alt",
+    87
+  ],
+  [
+    "student (P802)",
+    84
+  ],
+  [
+    "IMDb ID (P345)",
+    83
+  ],
+  [
+    "different from (P1889)",
+    79
+  ],
+  [
+    "ResearchGate profile ID (P2038)",
+    77
+  ],
+  [
+    "father (P22)",
+    73
+  ],
+  [
+    "TED speaker ID (P2611)",
+    73
+  ],
+  [
+    "influenced by (P737)",
+    73
+  ],
+  [
+    "on focus list of Wikimedia project (P5008)",
+    73
+  ],
+  [
+    "openMLOL author ID (P3762)",
+    72
+  ],
+  [
+    "native language (P103)",
+    72
+  ],
+  [
+    "Goodreads author ID (P2963)",
+    72
+  ],
+  [
+    "honorific_suffix",
+    72
+  ],
+  [
+    "NSK ID (P1375)",
+    71
+  ],
+  [
+    "WikiTree person ID (P2949)",
+    71
+  ],
+  [
+    "Find A Grave memorial ID (P535)",
+    65
+  ],
+  [
+    "religion (P140)",
+    64
+  ],
+  [
+    "academic_advisors",
+    63
+  ],
+  [
+    "participant in (P1344)",
+    62
+  ],
+  [
+    "MacTutor biography ID (P1563)",
+    62
+  ],
+  [
+    "NE.se ID (P3222)",
+    61
+  ],
+  [
+    "Facebook ID (P2013)",
+    57
+  ],
+  [
+    "Publons author ID (P3829)",
+    56
+  ],
+  [
+    "Gateway to Research person ID (P8446)",
+    56
+  ],
+  [
+    "ethnic group (P172)",
+    52
+  ],
+  [
+    "Pontificia Universit\u00e0 della Santa Croce ID (P5739)",
+    52
+  ],
+  [
+    "Geni.com profile ID (P2600)",
+    52
+  ],
+  [
+    "part of (P361)",
+    52
+  ],
+  [
+    "Brockhaus Enzyklop\u00e4die online ID (P5019)",
+    51
+  ],
+  [
+    "notable_students",
+    50
+  ],
+  [
+    "National Library of Greece ID (P3348)",
+    49
+  ],
+  [
+    "Podchaser creator ID (P9743)",
+    49
+  ],
+  [
+    "topic's main category (P910)",
+    48
+  ],
+  [
+    "Babelio author ID (P3630)",
+    47
+  ],
+  [
+    "other_names",
+    47
+  ],
+  [
+    "academic thesis (P1026)",
+    47
+  ],
+  [
+    "student of (P1066)",
+    46
+  ],
+  [
+    "Encyclop\u00e6dia Universalis ID (P3219)",
+    46
+  ],
+  [
+    "National Library of Lithuania ID (P7699)",
+    46
+  ],
+  [
+    "sibling (P3373)",
+    45
+  ],
+  [
+    "child (P40)",
+    45
+  ],
+  [
+    "Europeana entity (P7704)",
+    45
+  ],
+  [
+    "native_name",
+    45
+  ],
+  [
+    "Oberwolfach mathematician ID (P8418)",
+    44
+  ],
+  [
+    "Angelicum ID (P5731)",
+    43
+  ],
+  [
+    "Gran Enciclop\u00e8dia Catalana ID (P1296)",
+    42
+  ],
+  [
+    "discipline",
+    42
+  ],
+  [
+    "affiliation (P1416)",
+    42
+  ],
+  [
+    "influenced",
+    41
+  ],
+  [
+    "GitHub username (P2037)",
+    41
+  ],
+  [
+    "Fellow of the Royal Society ID (P2070)",
+    41
+  ],
+  [
+    "nLab ID (P4215)",
+    41
+  ],
+  [
+    "SSRN author ID (P3747)",
+    39
+  ],
+  [
+    "Commons gallery (P935)",
+    39
+  ],
+  [
+    "mother (P25)",
+    38
+  ],
+  [
+    "described at URL (P973)",
+    38
+  ],
+  [
+    "Store norske leksikon ID (P4342)",
+    38
+  ],
+  [
+    "module",
+    38
+  ],
+  [
+    "years_active",
+    38
+  ],
+  [
+    "place of burial (P119)",
+    37
+  ],
+  [
+    "writing language (P6886)",
+    37
+  ],
+  [
+    "Great Russian Encyclopedia Online ID (P2924)",
+    36
+  ],
+  [
+    "professorship (P803)",
+    36
+  ],
+  [
+    "Internet Speculative Fiction Database author ID (P1233)",
+    35
+  ],
+  [
+    "Portuguese National Library ID (P1005)",
+    34
+  ],
+  [
+    "Loop ID (P2798)",
+    34
+  ],
+  [
+    "Microsoft Academic ID (P6366)",
+    34
+  ],
+  [
+    "native_name_lang",
+    34
+  ],
+  [
+    "honorific_prefix",
+    33
+  ],
+  [
+    "TMDb person ID (P4985)",
+    33
+  ],
+  [
+    "National Library of Brazil ID (P4619)",
+    32
+  ],
+  [
+    "Leopoldina member ID (P3413)",
+    31
+  ],
+  [
+    "MacArthur Fellows Program ID (P9541)",
+    30
+  ],
+  [
+    "All-Russian Mathematical Portal ID (P4252)",
+    30
+  ],
+  [
+    "SBN author ID (P396)",
+    29
+  ],
+  [
+    "copyright status as a creator (P7763)",
+    29
+  ],
+  [
+    "Munzinger person ID (P1284)",
+    28
+  ],
+  [
+    "National Inventors Hall of Fame ID (P3468)",
+    28
+  ],
+  [
+    "notable_works",
+    28
+  ],
+  [
+    "NARCIS researcher ID (P7449)",
+    27
+  ],
+  [
+    "term_start",
+    27
+  ],
+  [
+    "LittleSis people ID (P3388)",
+    26
+  ],
+  [
+    "Who's Who UK ID (P4789)",
+    26
+  ],
+  [
+    "YouTube channel ID (P2397)",
+    26
+  ],
+  [
+    "CONOR.BG ID (P8849)",
+    25
+  ],
+  [
+    "CONOR.SR ID (P8851)",
+    24
+  ],
+  [
+    "signature (P109)",
+    24
+  ],
+  [
+    "Kall\u00edas ID (P9918)",
+    24
+  ],
+  [
+    "Instagram username (P2003)",
+    24
+  ],
+  [
+    "predecessor",
+    24
+  ],
+  [
+    "Dialnet author ID (P1607)",
+    24
+  ],
+  [
+    "work period (start) (P2031)",
+    24
+  ],
+  [
+    "signature",
+    23
+  ],
+  [
+    "Online Books Page author ID (P4629)",
+    23
+  ],
+  [
+    "Pers\u00e9e author ID (P2732)",
+    23
+  ],
+  [
+    "sub_discipline",
+    23
+  ],
+  [
+    "Canadiana Authorities ID (former scheme) (P1670)",
+    22
+  ],
+  [
+    "Visuotin\u0117 lietuvi\u0173 enciklopedija ID (P7666)",
+    22
+  ],
+  [
+    "ResearchGate contributions ID (P6023)",
+    22
+  ],
+  [
+    "sport (P641)",
+    22
+  ],
+  [
+    "CoBiS author ID (P7865)",
+    21
+  ],
+  [
+    "number of children (P1971)",
+    21
+  ],
+  [
+    "office",
+    21
+  ],
+  [
+    "International Mathematical Olympiad participant ID (P5819)",
+    21
+  ],
+  [
+    "Treccani ID (P3365)",
+    20
+  ],
+  [
+    "BHCL UUID (P9037)",
+    20
+  ],
+  [
+    "official blog (P1581)",
+    20
+  ],
+  [
+    "parents",
+    20
+  ],
+  [
+    "CERL Thesaurus ID (P1871)",
+    19
+  ],
+  [
+    "National Library of Russia ID (P7029)",
+    19
+  ],
+  [
+    "ACM Classification Code (2012) (P2179)",
+    19
+  ],
+  [
+    "NIPS Proceedings author ID (P7748)",
+    19
+  ],
+  [
+    "INSPIRE-HEP author ID (P2930)",
+    19
+  ],
+  [
+    "Oxford Dictionary of National Biography ID (P1415)",
+    19
+  ],
+  [
+    "UK National Archives ID (P3029)",
+    18
+  ],
+  [
+    "BHCL ID (former scheme) (P6656)",
+    18
+  ],
+  [
+    "Hrvatska enciklopedija ID (P7982)",
+    18
+  ],
+  [
+    "Academia.edu profile URL (P5715)",
+    18
+  ],
+  [
+    "member of political party (P102)",
+    18
+  ],
+  [
+    "MusicBrainz artist ID (P434)",
+    18
+  ],
+  [
+    "BDELIS ID (P6231)",
+    18
+  ],
+  [
+    "pronunciation audio (P443)",
+    17
+  ],
+  [
+    "military branch (P241)",
+    17
+  ],
+  [
+    "Museum of Modern Art artist ID (P2174)",
+    17
+  ],
+  [
+    "main_interests",
+    17
+  ],
+  [
+    "Quora username (P4411)",
+    17
+  ],
+  [
+    "nickname (P1449)",
+    17
+  ],
+  [
+    "Videolectures ID (P4419)",
+    16
+  ],
+  [
+    "Discogs artist ID (P1953)",
+    16
+  ],
+  [
+    "compArt person ID (P4772)",
+    16
+  ],
+  [
+    "boards",
+    16
+  ],
+  [
+    "name in kana (P1814)",
+    16
+  ],
+  [
+    "Union List of Artist Names ID (P245)",
+    15
+  ],
+  [
+    "abART person ID (P6844)",
+    15
+  ],
+  [
+    "Museo Galileo authority ID (P8947)",
+    15
+  ],
+  [
+    "University of Amsterdam Album Academicum ID (P6815)",
+    15
+  ],
+  [
+    "FamilySearch person ID (P2889)",
+    15
+  ],
+  [
+    "PhilPeople profile (P3233)",
+    15
+  ],
+  [
+    "doctoral_advisors",
+    15
+  ],
+  [
+    "Amazon author ID (P4862)",
+    15
+  ],
+  [
+    "organization",
+    15
+  ],
+  [
+    "known for",
+    15
+  ],
+  [
+    "National Portrait Gallery (London) person ID (P1816)",
+    14
+  ],
+  [
+    "has works in the collection (P6379)",
+    14
+  ],
+  [
+    "medical condition (P1050)",
+    14
+  ],
+  [
+    "GTAA ID (P1741)",
+    14
+  ],
+  [
+    "Polish scientist ID (P3124)",
+    14
+  ],
+  [
+    "PIM authority ID (P3973)",
+    14
+  ],
+  [
+    "Who's Who in France biography ID (P4124)",
+    14
+  ],
+  [
+    "Vatican Library ID (former scheme) (P1017)",
+    13
+  ],
+  [
+    "OpenPlaques subject ID (P1430)",
+    13
+  ],
+  [
+    "BHL creator ID (P4081)",
+    13
+  ],
+  [
+    "ELNET ID (P6394)",
+    13
+  ],
+  [
+    "Vatican Library VcBA ID (P8034)",
+    13
+  ],
+  [
+    "KANTO ID (P8980)",
+    13
+  ],
+  [
+    "De Agostini ID (P6706)",
+    13
+  ],
+  [
+    "The Encyclopedia of Science Fiction ID (P5357)",
+    13
+  ],
+  [
+    "Unz Review author ID (P2734)",
+    13
+  ],
+  [
+    "term_end",
+    13
+  ],
+  [
+    "Google+ ID (P2847)",
+    13
+  ],
+  [
+    "Cyprus University of Technology ID (P9251)",
+    13
+  ],
+  [
+    "American National Biography ID (P4823)",
+    13
+  ],
+  [
+    "conflict (P607)",
+    13
+  ],
+  [
+    "BabelNet ID (P2581)",
+    13
+  ],
+  [
+    "Kinopoisk person ID (P2604)",
+    13
+  ],
+  [
+    "alma mater",
+    13
+  ],
+  [
+    "Perlentaucher ID (P866)",
+    12
+  ],
+  [
+    "GeneaStar person ID (P8094)",
+    12
+  ],
+  [
+    "order",
+    12
+  ],
+  [
+    "French Academy of Sciences member ID (P6282)",
+    12
+  ],
+  [
+    "Crunchbase person ID (P2087)",
+    12
+  ],
+  [
+    "streaming media URL (P963)",
+    12
+  ],
+  [
+    "HAS member ID (P3226)",
+    12
+  ],
+  [
+    "resting_place",
+    11
+  ],
+  [
+    "PM20 folder ID (P4293)",
+    11
+  ],
+  [
+    "Uppsala University Alvin ID (P6821)",
+    11
+  ],
+  [
+    "BAnQ author ID (P3280)",
+    11
+  ],
+  [
+    "pseudonym (P742)",
+    11
+  ],
+  [
+    "SNK ID (P9807)",
+    11
+  ],
+  [
+    "successor",
+    11
+  ],
+  [
+    "profession",
+    11
+  ],
+  [
+    "InPhO ID (P863)",
+    11
+  ],
+  [
+    "PhDTree person ID (P3708)",
+    10
+  ],
+  [
+    "genealogics.org person ID (P1819)",
+    10
+  ],
+  [
+    "Runeberg author ID (P3154)",
+    10
+  ],
+  [
+    "Comic Vine ID (P5905)",
+    10
+  ],
+  [
+    "Commons Creator page (P1472)",
+    10
+  ],
+  [
+    "generational suffix (P8017)",
+    10
+  ],
+  [
+    "instrument (P1303)",
+    10
+  ],
+  [
+    "death_cause",
+    10
+  ],
+  [
+    "DUC ID (P7578)",
+    10
+  ],
+  [
+    "owner of (P1830)",
+    10
+  ],
+  [
+    "Evene ID (P5617)",
+    10
+  ],
+  [
+    "relatives",
+    10
+  ],
+  [
+    "C-SPAN person ID (P2190)",
+    10
+  ],
+  [
+    "LibraryThing author ID (P7400)",
+    10
+  ],
+  [
+    "Project Gutenberg author ID (P1938)",
+    9
+  ],
+  [
+    "CTHS person ID (P2383)",
+    9
+  ],
+  [
+    "Interlingual Index ID (P5063)",
+    9
+  ],
+  [
+    "Encyclopaedia Beliana ID (P8669)",
+    9
+  ],
+  [
+    "Proleksis enciklopedija ID (P8349)",
+    9
+  ],
+  [
+    "American Academy in Rome ID (P9097)",
+    9
+  ],
+  [
+    "Archives at Yale names ID (P8902)",
+    9
+  ],
+  [
+    "email address (P968)",
+    9
+  ],
+  [
+    "Companies House officer ID (P5297)",
+    9
+  ],
+  [
+    "term_start2",
+    9
+  ],
+  [
+    "Zhihu topic ID (P3553)",
+    9
+  ],
+  [
+    "SVKKL authority ID (P9322)",
+    9
+  ],
+  [
+    "The Peerage person ID (P4638)",
+    9
+  ],
+  [
+    "HKCAN ID (P5909)",
+    9
+  ],
+  [
+    "Mendeley person ID (P3835)",
+    9
+  ],
+  [
+    "French Vikidia ID (P7818)",
+    9
+  ],
+  [
+    "interested in (P2650)",
+    9
+  ],
+  [
+    "party",
+    9
+  ],
+  [
+    "thesis1_title",
+    9
+  ],
+  [
+    "thesis1_year",
+    9
+  ],
+  [
+    "father",
+    9
+  ],
+  [
+    "\u010cSFD person ID (P2605)",
+    9
+  ],
+  [
+    "Reddit username (P4265)",
+    9
+  ],
+  [
+    "AcademiaNet ID (P2080)",
+    8
+  ],
+  [
+    "RKDartists ID (P650)",
+    8
+  ],
+  [
+    "KNAW past member ID (P2454)",
+    8
+  ],
+  [
+    "Treccani's Enciclopedia Italiana ID (P4223)",
+    8
+  ],
+  [
+    "Trading Card Database person ID (P5421)",
+    8
+  ],
+  [
+    "relative (P1038)",
+    8
+  ],
+  [
+    "office2",
+    8
+  ],
+  [
+    "term_end2",
+    8
+  ],
+  [
+    "curriculum vitae (P8214)",
+    8
+  ],
+  [
+    "Google Doodle (P4431)",
+    8
+  ],
+  [
+    "country for sport (P1532)",
+    8
+  ],
+  [
+    "genre",
+    8
+  ],
+  [
+    "RePEc Short-ID (P2428)",
+    8
+  ],
+  [
+    "PAN member (P8832)",
+    8
+  ],
+  [
+    "Physics History Network ID (P6551)",
+    8
+  ],
+  [
+    "WordNet 3.1 Synset ID (P8814)",
+    8
+  ],
+  [
+    "AlloCin\u00e9 person ID (P1266)",
+    8
+  ],
+  [
+    "notable_ideas",
+    8
+  ],
+  [
+    "Golden ID (P7502)",
+    8
+  ],
+  [
+    "net worth (P2218)",
+    8
+  ],
+  [
+    "imagesize",
+    8
+  ],
+  [
+    "British Museum person or institution ID (P1711)",
+    7
+  ],
+  [
+    "Filmportal ID (P2639)",
+    7
+  ],
+  [
+    "Encyclopedia of Australian Science ID (P4228)",
+    7
+  ],
+  [
+    "Encyclopaedia Herder person ID (P5441)",
+    7
+  ],
+  [
+    "LBT person ID (P2977)",
+    7
+  ],
+  [
+    "movement (P135)",
+    7
+  ],
+  [
+    "MobyGames developer ID (P3913)",
+    7
+  ],
+  [
+    "NooSFere author ID (P5570)",
+    7
+  ],
+  [
+    "BlackPast.org ID (P6723)",
+    7
+  ],
+  [
+    "Roglo person ID (P7929)",
+    7
+  ],
+  [
+    "thesis2_title",
+    7
+  ],
+  [
+    "thesis2_year",
+    7
+  ],
+  [
+    "Coll\u00e8ge de France professor ID (P5443)",
+    7
+  ],
+  [
+    "Prabook ID (P3368)",
+    7
+  ],
+  [
+    "AllMovie person ID (P2019)",
+    7
+  ],
+  [
+    "Justia Patents inventor ID (P3874)",
+    7
+  ],
+  [
+    "L\u00e9onore ID (P640)",
+    6
+  ],
+  [
+    "Regensburg Classification (P1150)",
+    6
+  ],
+  [
+    "edition humboldt digital ID (P8826)",
+    6
+  ],
+  [
+    "The Conversation author ID (P8207)",
+    6
+  ],
+  [
+    "movement",
+    6
+  ],
+  [
+    "significant event (P793)",
+    6
+  ],
+  [
+    "partner",
+    6
+  ],
+  [
+    "genre (P136)",
+    6
+  ],
+  [
+    "AKL Online artist ID (P4432)",
+    6
+  ],
+  [
+    "predecessor2",
+    6
+  ],
+  [
+    "Biografisch Portaal van Nederland ID (P651)",
+    6
+  ],
+  [
+    "IPA transcription (P898)",
+    6
+  ],
+  [
+    "Wolfram Language entity code (P4839)",
+    6
+  ],
+  [
+    "Leidse Hoogleraren ID (P2861)",
+    6
+  ],
+  [
+    "commemorative plaque image (P1801)",
+    6
+  ],
+  [
+    "Photographers' Identities Catalog ID (P2750)",
+    6
+  ],
+  [
+    "mother",
+    6
+  ],
+  [
+    "EGAXA ID (P1309)",
+    6
+  ],
+  [
+    "net worth",
+    6
+  ],
+  [
+    "notableworks",
+    6
+  ],
+  [
+    "office1",
+    6
+  ],
+  [
+    "Encyclopedia of Brno History person ID (P8116)",
+    6
+  ],
+  [
+    "Treccani's Dizionario di Filosofia ID (P7993)",
+    6
+  ],
+  [
+    "Archive Site Trinity College Cambridge ID (P8496)",
+    6
+  ],
+  [
+    "Fichier des personnes d\u00e9c\u00e9d\u00e9es ID (matchID) (P9058)",
+    6
+  ],
+  [
+    "Academy Awards Database nominee ID (P6150)",
+    6
+  ],
+  [
+    "DBC author ID (P3846)",
+    6
+  ],
+  [
+    "religion",
+    6
+  ],
+  [
+    "Medium username (P3899)",
+    6
+  ],
+  [
+    "term_start1",
+    6
+  ],
+  [
+    "IUF member ID (P5320)",
+    6
+  ],
+  [
+    "Wikimedia username (P4174)",
+    6
+  ],
+  [
+    "maintained by WikiProject (P6104)",
+    6
+  ],
+  [
+    "audio recording of the subject's spoken voice (P990)",
+    6
+  ],
+  [
+    "Stuttgart Database of Scientific Illustrators ID (P2349)",
+    5
+  ],
+  [
+    "Artnet artist ID (P3782)",
+    5
+  ],
+  [
+    "BIU Sant\u00e9 person ID (P5375)",
+    5
+  ],
+  [
+    "image of grave (P1442)",
+    5
+  ],
+  [
+    "National Library of Chile ID (P7369)",
+    5
+  ],
+  [
+    "OpenReview.net profile ID (P8964)",
+    5
+  ],
+  [
+    "footnotes",
+    5
+  ],
+  [
+    "Sandbox-External identifier (P2536)",
+    5
+  ],
+  [
+    "successor2",
+    5
+  ],
+  [
+    "before",
+    5
+  ],
+  [
+    "after",
+    5
+  ],
+  [
+    "years",
+    5
+  ],
+  [
+    "public key fingerprint (P3721)",
+    5
+  ],
+  [
+    "FemBio ID (P6722)",
+    5
+  ],
+  [
+    "Grace's Guide ID (P3074)",
+    5
+  ],
+  [
+    "Vienna History Wiki ID (P7842)",
+    5
+  ],
+  [
+    "365Chess.com player ID (P3314)",
+    5
+  ],
+  [
+    "Chessgames.com player ID (P1665)",
+    5
+  ],
+  [
+    "ChessTempo.com player ID (P3315)",
+    5
+  ],
+  [
+    "sexual orientation (P91)",
+    5
+  ],
+  [
+    "short name (P1813)",
+    5
+  ],
+  [
+    "KBpedia ID (P8408)",
+    5
+  ],
+  [
+    "thesis1_url",
+    5
+  ],
+  [
+    "Catalogus Professorum Academiae Rheno-Traiectinae ID (P2862)",
+    5
+  ],
+  [
+    "era",
+    5
+  ],
+  [
+    "Hungarian National Namespace person ID (P6988)",
+    5
+  ],
+  [
+    "Google News topics ID (P5337)",
+    5
+  ],
+  [
+    "personal pronoun (P6553)",
+    5
+  ],
+  [
+    "predecessor1",
+    5
+  ],
+  [
+    "FactGrid item ID (P8168)",
+    5
+  ],
+  [
+    "Atomic Heritage Foundation ID (P4590)",
+    5
+  ],
+  [
+    "CineMagia person ID (P4666)",
+    5
+  ],
+  [
+    "academic major (P812)",
+    4
+  ],
+  [
+    "present in work (P1441)",
+    4
+  ],
+  [
+    "Accademia delle Scienze di Torino ID (P8153)",
+    4
+  ],
+  [
+    "Sejm-Wielki.pl profile ID (P8172)",
+    4
+  ],
+  [
+    "CCAB ID (P1890)",
+    4
+  ],
+  [
+    "Unione Romana Biblioteche Scientifiche ID (P8750)",
+    4
+  ],
+  [
+    "Alexander Turnbull Library ID (P6683)",
+    4
+  ],
+  [
+    "Digitale Bibliotheek voor de Nederlandse Letteren author ID (P723)",
+    4
+  ],
+  [
+    "Open Library subject ID (P3847)",
+    4
+  ],
+  [
+    "Biographical Encyclopedia of Astronomers ID (P9626)",
+    4
+  ],
+  [
+    "U.S. National Archives Identifier (P1225)",
+    4
+  ],
+  [
+    "height (P2048)",
+    4
+  ],
+  [
+    "unmarried partner (P451)",
+    4
+  ],
+  [
+    "CircleID writer ID (P3455)",
+    4
+  ],
+  [
+    "military rank (P410)",
+    4
+  ],
+  [
+    "Enciclopedia delle donne ID (P6488)",
+    4
+  ],
+  [
+    "Songkick artist ID (P3478)",
+    4
+  ],
+  [
+    "disappeared_place",
+    4
+  ],
+  [
+    "Kindred Britain ID (P3051)",
+    4
+  ],
+  [
+    "FIDE player ID (P1440)",
+    4
+  ],
+  [
+    "Elo rating (P1087)",
+    4
+  ],
+  [
+    "GEPRIS person ID (P4872)",
+    4
+  ],
+  [
+    "Adelphi author ID (P5859)",
+    4
+  ],
+  [
+    "title of chess person (P2962)",
+    4
+  ],
+  [
+    "Semantic Scholar topic ID (P6611)",
+    4
+  ],
+  [
+    "Stanford Encyclopedia of Philosophy ID (P3123)",
+    4
+  ],
+  [
+    "BiblioNet author ID (P2188)",
+    4
+  ],
+  [
+    "convicted of (P1399)",
+    4
+  ],
+  [
+    "Krugosvet article (P6385)",
+    4
+  ],
+  [
+    "Hacker News username (P7171)",
+    4
+  ],
+  [
+    "NLC authorities (P1213)",
+    4
+  ],
+  [
+    "Theses.fr person ID (P4285)",
+    4
+  ],
+  [
+    "alias",
+    4
+  ],
+  [
+    "Mastodon address (P4033)",
+    4
+  ],
+  [
+    "net_worth",
+    4
+  ],
+  [
+    "region",
+    4
+  ],
+  [
+    "school_tradition",
+    4
+  ],
+  [
+    "honorific prefix (P511)",
+    4
+  ],
+  [
+    "relations",
+    4
+  ],
+  [
+    "term_end1",
+    4
+  ],
+  [
+    "Artsy artist ID (P2042)",
+    4
+  ],
+  [
+    "Muck Rack journalist ID (P6005)",
+    4
+  ],
+  [
+    "data1",
+    4
+  ],
+  [
+    "yearsactive",
+    4
+  ],
+  [
+    "PORT person ID (P2435)",
+    4
+  ],
+  [
+    "Share-VDE author ID (P6329)",
+    4
+  ],
+  [
+    "MTMT author ID (P2492)",
+    4
+  ],
+  [
+    "Researchmap ID (P5029)",
+    4
+  ],
+  [
+    "Fandom article ID (P6262)",
+    4
+  ],
+  [
+    "bgm.tv person ID (P6298)",
+    4
+  ],
+  [
+    "NSZL name authority ID (P3133)",
+    4
+  ],
+  [
+    "type",
+    4
+  ],
+  [
+    "spoken text audio (P989)",
+    4
+  ],
+  [
+    "copyright representative (P6275)",
+    4
+  ],
+  [
+    "Sina Weibo user ID (P3579)",
+    4
+  ],
+  [
+    "Semion author ID (P7671)",
+    4
+  ],
+  [
+    "New York Times topic ID (P3221)",
+    4
+  ],
+  [
+    "Forbes Russia profile ID (P9510)",
+    4
+  ],
+  [
+    "RfC ID (P892)",
+    4
+  ],
+  [
+    "Canadiana Name Authority ID (P8179)",
+    4
+  ],
+  [
+    "RSL ID (person) (P947)",
+    3
+  ],
+  [
+    "BVMC person ID (P2799)",
+    3
+  ],
+  [
+    "Klexikon article ID (P6573)",
+    3
+  ],
+  [
+    "Basis Wien person ID (P7445)",
+    3
+  ],
+  [
+    "General Diamond Catalogue ID (P8795)",
+    3
+  ],
+  [
+    "WBIS ID (P8081)",
+    3
+  ],
+  [
+    "Rijksmuseum Research Library authority ID (P7444)",
+    3
+  ],
+  [
+    "NBM authority ID (P9507)",
+    3
+  ],
+  [
+    "eye color (P1340)",
+    3
+  ],
+  [
+    "hair color (P1884)",
+    3
+  ],
+  [
+    "contributed to creative work (P3919)",
+    3
+  ],
+  [
+    "academic appointment (P8413)",
+    3
+  ],
+  [
+    "Internet Game Database person ID (P5796)",
+    3
+  ],
+  [
+    "Encyclop\u00e6dia Britannica contributor ID (P2450)",
+    3
+  ],
+  [
+    "president",
+    3
+  ],
+  [
+    "AllMusic artist ID (P1728)",
+    3
+  ],
+  [
+    "Muziekweb performer ID (P5882)",
+    3
+  ],
+  [
+    "disappeared_date",
+    3
+  ],
+  [
+    "oral history at (P9600)",
+    3
+  ],
+  [
+    "WeRelate person ID (P4159)",
+    3
+  ],
+  [
+    "Science Museum people ID (P4389)",
+    3
+  ],
+  [
+    "significant person (P3342)",
+    3
+  ],
+  [
+    "noble title (P97)",
+    3
+  ],
+  [
+    "language",
+    3
+  ],
+  [
+    "subject",
+    3
+  ],
+  [
+    "Curlie ID (P998)",
+    3
+  ],
+  [
+    "birthname",
+    3
+  ],
+  [
+    "OlimpBase Chess Olympiad player ID (P3940)",
+    3
+  ],
+  [
+    "name (P2561)",
+    3
+  ],
+  [
+    "Tor.com author ID (P5714)",
+    3
+  ],
+  [
+    "Bloomberg person ID (P3052)",
+    3
+  ],
+  [
+    "UK Parliament thesaurus ID (P4527)",
+    3
+  ],
+  [
+    "image_upright",
+    3
+  ],
+  [
+    "ArhivX LOD (P5821)",
+    3
+  ],
+  [
+    "Goodreads character ID (P6327)",
+    3
+  ],
+  [
+    "field of this occupation (P425)",
+    3
+  ],
+  [
+    "use (P366)",
+    3
+  ],
+  [
+    "subclass of (P279)",
+    3
+  ],
+  [
+    "Encyclopedia of Jewish Women ID (P9430)",
+    3
+  ],
+  [
+    "Flickr user ID (P3267)",
+    3
+  ],
+  [
+    "Catalogus Professorum Academiae Groninganae ID (P2016)",
+    3
+  ],
+  [
+    "Heidelberg Academy for Sciences and Humanities member ID (P2273)",
+    3
+  ],
+  [
+    "Bibliopoche author ID (P5695)",
+    3
+  ],
+  [
+    "homepage",
+    3
+  ],
+  [
+    "married name (P2562)",
+    3
+  ],
+  [
+    "burial_place",
+    3
+  ],
+  [
+    "successor1",
+    3
+  ],
+  [
+    "inception (P571)",
+    3
+  ],
+  [
+    "founded by (P112)",
+    3
+  ],
+  [
+    "country (P17)",
+    3
+  ],
+  [
+    "IMSLP ID (P839)",
+    3
+  ],
+  [
+    "Techopedia ID (P6009)",
+    3
+  ],
+  [
+    "label1",
+    3
+  ],
+  [
+    "label4",
+    3
+  ],
+  [
+    "data4",
+    3
+  ],
+  [
+    "label5",
+    3
+  ],
+  [
+    "data5",
+    3
+  ],
+  [
+    "data6",
+    3
+  ],
+  [
+    "label6",
+    3
+  ],
+  [
+    "Swedish Film Database person ID (P2168)",
+    3
+  ],
+  [
+    "partner in business or sport (P1327)",
+    3
+  ],
+  [
+    "second family name in Spanish name (P1950)",
+    3
+  ],
+  [
+    "arXiv author ID (P4594)",
+    3
+  ],
+  [
+    "MPG ID (P7027)",
+    3
+  ],
+  [
+    "Vegetti Catalog of Fantastic Literature NILF ID (P2191)",
+    3
+  ],
+  [
+    "Nobel prize ID (P3188)",
+    3
+  ],
+  [
+    "Nobel Laureate API ID (P8024)",
+    3
+  ],
+  [
+    "institutions",
+    3
+  ],
+  [
+    "gravsted.dk ID (P4359)",
+    3
+  ],
+  [
+    "NSZL (VIAF) ID (P951)",
+    3
+  ],
+  [
+    "ethnicity",
+    3
+  ],
+  [
+    "ADAGP artist ID (P3901)",
+    3
+  ],
+  [
+    "location",
+    3
+  ],
+  [
+    "Vimeo identifier (P4015)",
+    3
+  ],
+  [
+    "The Times of India topic ID (P4204)",
+    3
+  ],
+  [
+    "vehicle normally used (P3438)",
+    3
+  ],
+  [
+    "CNRS Talent page (P5552)",
+    3
+  ],
+  [
+    "term_start3",
+    3
+  ],
+  [
+    "networth",
+    3
+  ],
+  [
+    "honorific-suffix",
+    3
+  ],
+  [
+    "botanist author abbreviation (P428)",
+    2
+  ],
+  [
+    "IPNI author ID (P586)",
+    2
+  ],
+  [
+    "LibriVox author ID (P1899)",
+    2
+  ],
+  [
+    "National Academy of Medicine (France) member ID (P3956)",
+    2
+  ],
+  [
+    "Spanish Biographical Dictionary ID (P4459)",
+    2
+  ],
+  [
+    "Entomologists of the World ID (P5370)",
+    2
+  ],
+  [
+    "Harvard Index of Botanists ID (P6264)",
+    2
+  ],
+  [
+    "Electronic Enlightenment ID (P3429)",
+    2
+  ],
+  [
+    "ASUT ID (P8219)",
+    2
+  ],
+  [
+    "RISM ID (P5504)",
+    2
+  ],
+  [
+    "BHF author ID (P8547)",
+    2
+  ],
+  [
+    "Salzburgwiki ID (P8854)",
+    2
+  ],
+  [
+    "ZOBODAT person ID (P8914)",
+    2
+  ],
+  [
+    "The Women's Print History Project person ID (P9780)",
+    2
+  ],
+  [
+    "handedness (P552)",
+    2
+  ],
+  [
+    "YouTube video ID (P1651)",
+    2
+  ],
+  [
+    "Order of Canada recipient ID (P8951)",
+    2
+  ],
+  [
+    "mass (P2067)",
+    2
+  ],
+  [
+    "AnimeCons.com guest ID (P3790)",
+    2
+  ],
+  [
+    "Last.fm ID (P3192)",
+    2
+  ],
+  [
+    "Cultureel Woordenboek ID (P3569)",
+    2
+  ],
+  [
+    "RA Collections ID (P4553)",
+    2
+  ],
+  [
+    "Collective Biographies of Women ID (P4539)",
+    2
+  ],
+  [
+    "National Library of Wales Authority ID (P2966)",
+    2
+  ],
+  [
+    "XING profile ID (P7176)",
+    2
+  ],
+  [
+    "Danish National Filmography person ID (P2626)",
+    2
+  ],
+  [
+    "fotoCH photographer ID (P9720)",
+    2
+  ],
+  [
+    "Israel Chess Federation player ID (P3867)",
+    2
+  ],
+  [
+    "Fantastic Fiction author ID (P5408)",
+    2
+  ],
+  [
+    "signature_alt",
+    2
+  ],
+  [
+    "Larousse ID (P6058)",
+    2
+  ],
+  [
+    "CALIS ID (P270)",
+    2
+  ],
+  [
+    "Baidu ScholarID (P5647)",
+    2
+  ],
+  [
+    "Rotten Tomatoes ID (P1258)",
+    2
+  ],
+  [
+    "has part (P527)",
+    2
+  ],
+  [
+    "Royal Academy new identifier (P4808)",
+    2
+  ],
+  [
+    "EMLO person ID (P1802)",
+    2
+  ],
+  [
+    "SEARCH on line catalogue ID (P9081)",
+    2
+  ],
+  [
+    "Online PWN Encyclopedia ID (P7305)",
+    2
+  ],
+  [
+    "othername",
+    2
+  ],
+  [
+    "video (P10)",
+    2
+  ],
+  [
+    "Sports-Reference.com Olympic athlete ID (P1447)",
+    2
+  ],
+  [
+    "Olympedia people ID (P8286)",
+    2
+  ],
+  [
+    "training",
+    2
+  ],
+  [
+    "female form of label (P2521)",
+    2
+  ],
+  [
+    "Art & Architecture Thesaurus ID (P1014)",
+    2
+  ],
+  [
+    "BNCF Thesaurus ID (P508)",
+    2
+  ],
+  [
+    "callsign",
+    2
+  ],
+  [
+    "family",
+    2
+  ],
+  [
+    "autores.uy ID (P2558)",
+    2
+  ],
+  [
+    "Media Arts Database ID (P7886)",
+    2
+  ],
+  [
+    "PAS member ID (P9640)",
+    2
+  ],
+  [
+    "Savoirs ENS ID (P5664)",
+    2
+  ],
+  [
+    "France Culture person ID (P5301)",
+    2
+  ],
+  [
+    "astronaut mission (P450)",
+    2
+  ],
+  [
+    "time in space (P2873)",
+    2
+  ],
+  [
+    "fetchwikidata",
+    2
+  ],
+  [
+    "OFDb person ID (P9404)",
+    2
+  ],
+  [
+    "module2",
+    2
+  ],
+  [
+    "Norsk biografisk leksikon ID (P5080)",
+    2
+  ],
+  [
+    "disappeared_status",
+    2
+  ],
+  [
+    "date of disappearance (P746)",
+    2
+  ],
+  [
+    "MutualArt artist ID (P6578)",
+    2
+  ],
+  [
+    "Philadelphia Museum of Art entity ID (P8317)",
+    2
+  ],
+  [
+    "title1",
+    2
+  ],
+  [
+    "headquarters location (P159)",
+    2
+  ],
+  [
+    "label2",
+    2
+  ],
+  [
+    "data2",
+    2
+  ],
+  [
+    "Internet Broadway Database person ID (P1220)",
+    2
+  ],
+  [
+    "Scope.dk person ID (P2519)",
+    2
+  ],
+  [
+    "nominated for (P1411)",
+    2
+  ],
+  [
+    "Open Media Database person ID (P5534)",
+    2
+  ],
+  [
+    "Billboard artist ID (P4208)",
+    2
+  ],
+  [
+    "competition class (P2094)",
+    2
+  ],
+  [
+    "official name (P1448)",
+    2
+  ],
+  [
+    "spouses",
+    2
+  ],
+  [
+    "Dictionary of Irish Biography ID (P6829)",
+    2
+  ],
+  [
+    "ARTIC artist ID (P6295)",
+    2
+  ],
+  [
+    "FantLab author ID (P7433)",
+    2
+  ],
+  [
+    "The World Academy of Sciences fellow ID (P6174)",
+    2
+  ],
+  [
+    "Revised Romanization (P2001)",
+    2
+  ],
+  [
+    "McCune-Reischauer romanization (P1942)",
+    2
+  ],
+  [
+    "senat.fr ID (P1808)",
+    2
+  ],
+  [
+    "Gutenberg Biographics ID (P9682)",
+    2
+  ],
+  [
+    "National Library of Iceland ID (P7039)",
+    2
+  ],
+  [
+    "TV.com ID (P2638)",
+    2
+  ],
+  [
+    "work period (end) (P2032)",
+    2
+  ],
+  [
+    "Crunchbase organization ID (P2088)",
+    2
+  ],
+  [
+    "Giant Bomb ID (P5247)",
+    2
+  ],
+  [
+    "preceded",
+    2
+  ],
+  [
+    "ARAE ID (P9226)",
+    2
+  ],
+  [
+    "Structurae person ID (P2418)",
+    2
+  ],
+  [
+    "significant_projects",
+    2
+  ],
+  [
+    "Mus\u00e9e d'Orsay artist ID (P2268)",
+    2
+  ],
+  [
+    "Biblioteca Franco Serantini ID (P9178)",
+    2
+  ],
+  [
+    "Dharma Drum Institute of Liberal Arts person ID (P1187)",
+    2
+  ],
+  [
+    "Webb-site person ID (P5298)",
+    2
+  ],
+  [
+    "Biographical Dictionary of the Czech Lands ID (P9160)",
+    2
+  ],
+  [
+    "Magyar \u00e9letrajzi lexikon ID (P8998)",
+    2
+  ],
+  [
+    "Facebook page ID (P4003)",
+    2
+  ],
+  [
+    "founder",
+    2
+  ],
+  [
+    "web feed URL (P1019)",
+    2
+  ],
+  [
+    "NicoNicoPedia ID (P6900)",
+    2
+  ],
+  [
+    "Econlib person ID (P9087)",
+    2
+  ],
+  [
+    "Guardian topic ID (P3106)",
+    2
+  ],
+  [
+    "BookBrainz author ID (P2607)",
+    2
+  ],
+  [
+    "Portal da Literatura ID (P9141)",
+    2
+  ],
+  [
+    "thesis2_url",
+    2
+  ],
+  [
+    "Canal-U person ID (P5243)",
+    2
+  ],
+  [
+    "BD Gest' author ID (P5491)",
+    2
+  ],
+  [
+    "order1",
+    2
+  ],
+  [
+    "order2",
+    2
+  ],
+  [
+    "title2",
+    2
+  ],
+  [
+    "Wall Street Journal topic ID (P3183)",
+    2
+  ],
+  [
+    "office3",
+    2
+  ],
+  [
+    "term_end3",
+    2
+  ],
+  [
+    "criminal_penalty",
+    2
+  ],
+  [
+    "criminal_status",
+    2
+  ],
+  [
+    "chairperson (P488)",
+    2
+  ],
+  [
+    "period",
+    2
+  ],
+  [
+    "status",
+    2
+  ],
+  [
+    "W\u00fcrttembergische Kirchengeschichte person ID (P4621)",
+    2
+  ],
+  [
+    "The Galileo Project ID (P8941)",
+    2
+  ],
+  [
+    "Kansallisbiografia ID (P2180)",
+    2
+  ],
+  [
+    "Uppslagsverket Finland ID (P4854)",
+    2
+  ],
+  [
+    "BiographySampo person ID (P9324)",
+    2
+  ],
+  [
+    "honours",
+    2
+  ],
+  [
+    "Biographical Dictionary of Iowa ID (P6851)",
+    2
+  ],
+  [
+    "Nobel Prize People Nomination ID (P3360)",
+    2
+  ],
+  [
+    "J-GLOBAL ID (P7783)",
+    2
+  ],
+  [
+    "header3",
+    2
+  ],
+  [
+    "label7",
+    2
+  ],
+  [
+    "data7",
+    2
+  ],
+  [
+    "label8",
+    2
+  ],
+  [
+    "data8",
+    2
+  ],
+  [
+    "label9",
+    2
+  ],
+  [
+    "data9",
+    2
+  ],
+  [
+    "primeminister",
+    2
+  ],
+  [
+    "Estonian Research Portal person ID (P2953)",
+    2
+  ],
+  [
+    "constituency2",
+    2
+  ],
+  [
+    "NLA Trove people ID (P1315)",
+    2
+  ],
+  [
+    "SNSF person ID (P10013)",
+    2
+  ],
+  [
+    "ADK member ID (P4114)",
+    1
+  ],
+  [
+    "Christie's creator ID (P4200)",
+    1
+  ],
+  [
+    "Virtual Laboratory person ID (P5516)",
+    1
+  ],
+  [
+    "depicted by (P1299)",
+    1
+  ],
+  [
+    "Bridgeman artist ID (P3965)",
+    1
+  ],
+  [
+    "Persons of Indian Studies ID (P5632)",
+    1
+  ],
+  [
+    "Plant Illustrations artist ID (P6605)",
+    1
+  ],
+  [
+    "Bionomia ID (P6944)",
+    1
+  ],
+  [
+    "BVLarramendi ID (P6907)",
+    1
+  ],
+  [
+    "Biblioteche dei filosofi ID (P7613)",
+    1
+  ],
+  [
+    "Projekt Gutenberg-DE ID (P7753)",
+    1
+  ],
+  [
+    "National Library of Romania ID (P1003)",
+    1
+  ],
+  [
+    "Personendatenbank Germania Sacra ID (P8440)",
+    1
+  ],
+  [
+    "Carl-Maria-von-Weber-Gesamtausgabe ID (P8589)",
+    1
+  ],
+  [
+    "Swedish National Library Arken ID (P8899)",
+    1
+  ],
+  [
+    "author citation (zoology) (P835)",
+    1
+  ],
+  [
+    "Biblioteca Iglesia Nacional Espa\u00f1ola en Roma ID (P9179)",
+    1
+  ],
+  [
+    "National Historical Museums of Sweden agent ID (P9495)",
+    1
+  ],
+  [
+    "Dictionary of Portuguese Historians ID (P8749)",
+    1
+  ],
+  [
+    "SoundCloud ID (P3040)",
+    1
+  ],
+  [
+    "Twitch channel ID (P5797)",
+    1
+  ],
+  [
+    "researchportal.helsinki.fi profile ID (P6304)",
+    1
+  ],
+  [
+    "Hoopla artist ID (P6868)",
+    1
+  ],
+  [
+    "Skype username (P2893)",
+    1
+  ],
+  [
+    "Tate artist ID (P2741)",
+    1
+  ],
+  [
+    "MNBAQ artist ID (P8336)",
+    1
+  ],
+  [
+    "e-WV: The West Virginia Encyclopedia ID (P7695)",
+    1
+  ],
+  [
+    "subject has role (P2868)",
+    1
+  ],
+  [
+    "Artcyclopedia artist ID (P5597)",
+    1
+  ],
+  [
+    "J! Archive player ID (P9484)",
+    1
+  ],
+  [
+    "Biographical Dictionary of Italian People ID (P1986)",
+    1
+  ],
+  [
+    "Montreux Jazz Festival person ID (P8301)",
+    1
+  ],
+  [
+    "Universal Music France artist ID (P9328)",
+    1
+  ],
+  [
+    "Rate Your Music artist ID (P5404)",
+    1
+  ],
+  [
+    "collaborators",
+    1
+  ],
+  [
+    "resting place",
+    1
+  ],
+  [
+    "WomenWriters ID (P2533)",
+    1
+  ],
+  [
+    "Orlando author ID (P6745)",
+    1
+  ],
+  [
+    "research_advisors",
+    1
+  ],
+  [
+    "family (P53)",
+    1
+  ],
+  [
+    "Lebanese National Library ID (P7026)",
+    1
+  ],
+  [
+    "religious order (P611)",
+    1
+  ],
+  [
+    "country",
+    1
+  ],
+  [
+    "worldchampion",
+    1
+  ],
+  [
+    "peakrating",
+    1
+  ],
+  [
+    "Jewish Encyclopedia ID (Russian) (P1438)",
+    1
+  ],
+  [
+    "YIVO Encyclopedia of Jews in Eastern Europe ID (P8569)",
+    1
+  ],
+  [
+    "Portrait Archive ID (P9352)",
+    1
+  ],
+  [
+    "HDS ID (P902)",
+    1
+  ],
+  [
+    "Angel List ID (P3276)",
+    1
+  ],
+  [
+    "textbook",
+    1
+  ],
+  [
+    "date of burial or cremation (P4602)",
+    1
+  ],
+  [
+    "RationalWiki ID (P7775)",
+    1
+  ],
+  [
+    "Smithsonian American Art Museum person/institution ID (P1795)",
+    1
+  ],
+  [
+    "CPAN author ID (P8124)",
+    1
+  ],
+  [
+    "Keybase username (P6837)",
+    1
+  ],
+  [
+    "China Vitae ID (P1631)",
+    1
+  ],
+  [
+    "Mille Anni di Scienza in Italia ID (P7744)",
+    1
+  ],
+  [
+    "Cambridge Alumni Database ID (P1599)",
+    1
+  ],
+  [
+    "WBPLN author ID (P4343)",
+    1
+  ],
+  [
+    "state_senate",
+    1
+  ],
+  [
+    "district",
+    1
+  ],
+  [
+    "National Gallery of Canada artist ID (P5368)",
+    1
+  ],
+  [
+    "World Rowing ID (numeric format) (P2091)",
+    1
+  ],
+  [
+    "World Rowing ID (UUID format) (P8990)",
+    1
+  ],
+  [
+    "ISCO-88 occupation code (P952)",
+    1
+  ],
+  [
+    "JSTOR topic ID (P3827)",
+    1
+  ],
+  [
+    "UNESCO Thesaurus ID (P3916)",
+    1
+  ],
+  [
+    "Library of Congress Demographic Group Terms ID (P4946)",
+    1
+  ],
+  [
+    "National Humanities Medal winner ID (P5657)",
+    1
+  ],
+  [
+    "spouse(s)",
+    1
+  ],
+  [
+    "termend",
+    1
+  ],
+  [
+    "termstart",
+    1
+  ],
+  [
+    "EMBO member ID (P9985)",
+    1
+  ],
+  [
+    "Encyclopedia of Modern Ukraine ID (P4613)",
+    1
+  ],
+  [
+    "motive",
+    1
+  ],
+  [
+    "conviction",
+    1
+  ],
+  [
+    "conviction_penalty",
+    1
+  ],
+  [
+    "conviction_status",
+    1
+  ],
+  [
+    "patrons",
+    1
+  ],
+  [
+    "OCLC control number (P243)",
+    1
+  ],
+  [
+    "selected awards",
+    1
+  ],
+  [
+    "EBAF authority ID (P9661)",
+    1
+  ],
+  [
+    "discoverer or inventor (P61)",
+    1
+  ],
+  [
+    "Patrinum ID (P9113)",
+    1
+  ],
+  [
+    "OpenEdition Books author ID (P6677)",
+    1
+  ],
+  [
+    "image-needed",
+    1
+  ],
+  [
+    "IRIS SNS author ID (P9761)",
+    1
+  ],
+  [
+    "Ballotpedia ID (P2390)",
+    1
+  ],
+  [
+    "Virginia House of Delegates ID (P9443)",
+    1
+  ],
+  [
+    "body_discovered",
+    1
+  ],
+  [
+    "Myspace ID (P3265)",
+    1
+  ],
+  [
+    "Treccani's Lessico del XXI Secolo ID (P9775)",
+    1
+  ],
+  [
+    "contains administrative territorial entity (P150)",
+    1
+  ],
+  [
+    "product or material produced (P1056)",
+    1
+  ],
+  [
+    "CRIStin ID (P2287)",
+    1
+  ],
+  [
+    "Archaeology Data Service person ID (P6734)",
+    1
+  ],
+  [
+    "logo image (P154)",
+    1
+  ],
+  [
+    "subsidiary (P355)",
+    1
+  ],
+  [
+    "Crossref funder ID (P3153)",
+    1
+  ],
+  [
+    "HAL structure ID (P6773)",
+    1
+  ],
+  [
+    "Ringgold ID (P3500)",
+    1
+  ],
+  [
+    "MSRI institution ID (P8801)",
+    1
+  ],
+  [
+    "AGORHA person/institution ID (P2342)",
+    1
+  ],
+  [
+    "M\u00e9dias 19 ID (P7918)",
+    1
+  ],
+  [
+    "amateur radio callsign (P5143)",
+    1
+  ],
+  [
+    "Armeniapedia ID (P9629)",
+    1
+  ],
+  [
+    "label3",
+    1
+  ],
+  [
+    "data3",
+    1
+  ],
+  [
+    "background",
+    1
+  ],
+  [
+    "record label (P264)",
+    1
+  ],
+  [
+    "Carnegie Hall agent ID (P4104)",
+    1
+  ],
+  [
+    "discography (P358)",
+    1
+  ],
+  [
+    "DAHR artist ID (P4457)",
+    1
+  ],
+  [
+    "LyricsTranslate ID (P7212)",
+    1
+  ],
+  [
+    "by",
+    1
+  ],
+  [
+    "viaf",
+    1
+  ],
+  [
+    "lccn",
+    1
+  ],
+  [
+    "lcheading",
+    1
+  ],
+  [
+    "position played on team / speciality (P413)",
+    1
+  ],
+  [
+    "member of sports team (P54)",
+    1
+  ],
+  [
+    "WNBA player ID (P3588)",
+    1
+  ],
+  [
+    "Basketball Reference WNBA player ID (P4561)",
+    1
+  ],
+  [
+    "Eurobasket.com player ID (P3527)",
+    1
+  ],
+  [
+    "Proballers ID (P8548)",
+    1
+  ],
+  [
+    "Catalogus Professorum Rostochiensium ID (P2940)",
+    1
+  ],
+  [
+    "onlysourced",
+    1
+  ],
+  [
+    "dateformat",
+    1
+  ],
+  [
+    "DAAO ID (P1707)",
+    1
+  ],
+  [
+    "political ideology (P1142)",
+    1
+  ],
+  [
+    "INAPP author ID (P9871)",
+    1
+  ],
+  [
+    "postdoctoral_students",
+    1
+  ],
+  [
+    "height",
+    1
+  ],
+  [
+    "theses_advised",
+    1
+  ],
+  [
+    "URL",
+    1
+  ],
+  [
+    "Flemish Public Libraries ID (P7024)",
+    1
+  ],
+  [
+    "MathWorld identifier (P2812)",
+    1
+  ],
+  [
+    "e-Rad researcher number (P9776)",
+    1
+  ],
+  [
+    "NYRB contributor ID (P5419)",
+    1
+  ],
+  [
+    "Ricorso author ID (P4928)",
+    1
+  ],
+  [
+    "Elonet person ID (P2387)",
+    1
+  ],
+  [
+    "filmography (P1283)",
+    1
+  ],
+  [
+    "Deutsche Synchronkartei actor ID (P4332)",
+    1
+  ],
+  [
+    "TCM Movie Database person ID (P3056)",
+    1
+  ],
+  [
+    "Box Office Mojo person ID (P2688)",
+    1
+  ],
+  [
+    "Decine21 person ID (P7803)",
+    1
+  ],
+  [
+    "SAPA ID (P8974)",
+    1
+  ],
+  [
+    "ISzDb person ID (P3114)",
+    1
+  ],
+  [
+    "pseudonym",
+    1
+  ],
+  [
+    "TV Tropes identifier (P6839)",
+    1
+  ],
+  [
+    "class",
+    1
+  ],
+  [
+    "issue",
+    1
+  ],
+  [
+    "fix",
+    1
+  ],
+  [
+    "SHORT DESCRIPTION",
+    1
+  ],
+  [
+    "KANTL member ID (P3277)",
+    1
+  ],
+  [
+    "position",
+    1
+  ],
+  [
+    "style",
+    1
+  ],
+  [
+    "represented by (P1875)",
+    1
+  ],
+  [
+    "Dansk Biografisk Leksikon ID (P8341)",
+    1
+  ],
+  [
+    "genres",
+    1
+  ],
+  [
+    "Au\u00f1amendi ID (P3218)",
+    1
+  ],
+  [
+    "Archivo Hist\u00f3rico de diputados de Espa\u00f1a ID (P9033)",
+    1
+  ],
+  [
+    "WorldCat Registry ID (P5505)",
+    1
+  ],
+  [
+    "SICRIS researcher ID (P6556)",
+    1
+  ],
+  [
+    "Invaluable.com person ID (P4927)",
+    1
+  ],
+  [
+    "WikiArt ID (P6002)",
+    1
+  ],
+  [
+    "IAU member ID (P9467)",
+    1
+  ],
+  [
+    "significant_advance",
+    1
+  ],
+  [
+    "significant_awards",
+    1
+  ],
+  [
+    "Notable Students",
+    1
+  ],
+  [
+    "Awards",
+    1
+  ],
+  [
+    "Pam\u011b\u0165 n\u00e1roda ID (P6746)",
+    1
+  ],
+  [
+    "place of detention (P2632)",
+    1
+  ],
+  [
+    "ScienceOpen author ID (P7709)",
+    1
+  ],
+  [
+    "Relationship Science person ID (P5264)",
+    1
+  ],
+  [
+    "PhilPapers author ID (P3232)",
+    1
+  ],
+  [
+    "location_city",
+    1
+  ],
+  [
+    "location_country",
+    1
+  ],
+  [
+    "area_served",
+    1
+  ],
+  [
+    "services",
+    1
+  ],
+  [
+    "Slovak National Library ID (VIAF) (P7700)",
+    1
+  ],
+  [
+    "Inguma database ID (P7558)",
+    1
+  ],
+  [
+    "honorific suffix",
+    1
+  ],
+  [
+    "Treccani's Enciclopedia della Matematica ID (P9621)",
+    1
+  ],
+  [
+    "BRAHMS artist ID (P5226)",
+    1
+  ],
+  [
+    "National Aviation Hall of Fame ID (P7898)",
+    1
+  ],
+  [
+    "IPI name number (P1828)",
+    1
+  ],
+  [
+    "WhoSampled artist ID (P6517)",
+    1
+  ],
+  [
+    "JewAge person ID (P4116)",
+    1
+  ],
+  [
+    "Aozora Bunko author ID (P7311)",
+    1
+  ],
+  [
+    "jr/sr",
+    1
+  ],
+  [
+    "state",
+    1
+  ],
+  [
+    "US Congress Bio ID (P1157)",
+    1
+  ],
+  [
+    "South Dakota legislator ID (P3229)",
+    1
+  ],
+  [
+    "Political Graveyard politician ID (P8462)",
+    1
+  ],
+  [
+    "birth place",
+    1
+  ],
+  [
+    "claims",
+    1
+  ],
+  [
+    "topics",
+    1
+  ],
+  [
+    "origyear",
+    1
+  ],
+  [
+    "origprop",
+    1
+  ],
+  [
+    "currentprop",
+    1
+  ],
+  [
+    "CMI person ID (P5948)",
+    1
+  ],
+  [
+    "Mormon Literature and Creative Arts Database artist ID (P5469)",
+    1
+  ],
+  [
+    "Disney A to Z ID (P6181)",
+    1
+  ],
+  [
+    "MovieMeter director ID (former scheme) (P1969)",
+    1
+  ],
+  [
+    "Zhihu username (P6451)",
+    1
+  ],
+  [
+    "warheroes.ru ID (P2943)",
+    1
+  ],
+  [
+    "patronym or matronym for this person (P5056)",
+    1
+  ],
+  [
+    "Poincar\u00e9 Papers person ID (P7142)",
+    1
+  ],
+  [
+    "Scholarpedia article ID (P9526)",
+    1
+  ],
+  [
+    "vedidk ID (P9579)",
+    1
+  ],
+  [
+    "related category (P7084)",
+    1
+  ],
+  [
+    "lifestyle (P1576)",
+    1
+  ],
+  [
+    "blank1",
+    1
+  ],
+  [
+    "significant_design",
+    1
+  ],
+  [
+    "phone number (P1329)",
+    1
+  ],
+  [
+    "CVR person ID (P7972)",
+    1
+  ],
+  [
+    "pronounce",
+    1
+  ],
+  [
+    "secretary2",
+    1
+  ],
+  [
+    "Musicalics composer ID (P6925)",
+    1
+  ],
+  [
+    "floruit (P1317)",
+    1
+  ],
+  [
+    "Saxon Academy of Sciences member ID (P3411)",
+    1
+  ],
+  [
+    "Rheinland-Pf\u00e4lzische Personendatenbank ID (P8748)",
+    1
+  ],
+  [
+    "PolitiFact people and groups ID (P2267)",
+    1
+  ],
+  [
+    "Dagens Nyheter topic ID (P3509)",
+    1
+  ],
+  [
+    "RIA Novosti reference (P6081)",
+    1
+  ],
+  [
+    "Spanish Vikidia ID (P7827)",
+    1
+  ],
+  [
+    "full work available at URL (P953)",
+    1
+  ],
+  [
+    "Twitter topic ID (P8672)",
+    1
+  ],
+  [
+    "BookBub author ID (P9196)",
+    1
+  ],
+  [
+    "instrument",
+    1
+  ],
+  [
+    "associated_acts",
+    1
+  ],
+  [
+    "Genius artist ID (P2373)",
+    1
+  ],
+  [
+    "Genius artist numeric ID (P6351)",
+    1
+  ],
+  [
+    "Acharts.co artist ID (P7109)",
+    1
+  ],
+  [
+    "1blankname2",
+    1
+  ],
+  [
+    "1namedata2",
+    1
+  ],
+  [
+    "predecessor3",
+    1
+  ],
+  [
+    "successor3",
+    1
+  ],
+  [
+    "Chinese Political Elites Database ID (P5142)",
+    1
+  ],
+  [
+    "Institutions",
+    1
+  ],
+  [
+    "Figshare author ID (P4232)",
+    1
+  ],
+  [
+    "pre-nominals",
+    1
+  ],
+  [
+    "criminal_charge",
+    1
+  ],
+  [
+    "Los Angeles Review of Books author ID (P5705)",
+    1
+  ],
+  [
+    "Internet Book Database of Fiction writer ID (P5365)",
+    1
+  ],
+  [
+    "abbreviation",
+    1
+  ],
+  [
+    "motto",
+    1
+  ],
+  [
+    "formation",
+    1
+  ],
+  [
+    "dissolved",
+    1
+  ],
+  [
+    "purpose",
+    1
+  ],
+  [
+    "region_served",
+    1
+  ],
+  [
+    "membership",
+    1
+  ],
+  [
+    "parent_organization",
+    1
+  ],
+  [
+    "Benezit ID (P2843)",
+    1
+  ],
+  [
+    "Shakeosphere person ID (P2886)",
+    1
+  ],
+  [
+    "Merkelstiftung person ID (P4620)",
+    1
+  ],
+  [
+    "years active",
+    1
+  ],
+  [
+    "McClintock and Strong Biblical Cyclopedia ID (P8636)",
+    1
+  ],
+  [
+    "BBC Things ID (P1617)",
+    1
+  ],
+  [
+    "JRC Names id (P6640)",
+    1
+  ],
+  [
+    "Sycomore ID (P1045)",
+    1
+  ],
+  [
+    "Isidore scholar ID (P4491)",
+    1
+  ],
+  [
+    "Catholic Encyclopedia ID (P3241)",
+    1
+  ],
+  [
+    "Frick Art Reference Library Artist File ID (P7848)",
+    1
+  ],
+  [
+    "artist files at (P9493)",
+    1
+  ],
+  [
+    "Yle topic ID (P8309)",
+    1
+  ],
+  [
+    "SFMOMA artist ID (P4936)",
+    1
+  ],
+  [
+    "Festivaletteratura person ID (P9880)",
+    1
+  ],
+  [
+    "Rodovid ID (P1185)",
+    1
+  ],
+  [
+    "elFilm person ID (P3144)",
+    1
+  ],
+  [
+    "Biografiskt Lexikon f\u00f6r Finland ID (P3595)",
+    1
+  ],
+  [
+    "named after (P138)",
+    1
+  ],
+  [
+    "alma_master",
+    1
+  ],
+  [
+    "selection",
+    1
+  ],
+  [
+    "time",
+    1
+  ],
+  [
+    "eva1",
+    1
+  ],
+  [
+    "eva2",
+    1
+  ],
+  [
+    "mission",
+    1
+  ],
+  [
+    "insignia",
+    1
+  ],
+  [
+    "member of the crew of (P5096)",
+    1
+  ],
+  [
+    "patent number (P1246)",
+    1
+  ],
+  [
+    "institution",
+    1
+  ],
+  [
+    "workplace",
+    1
+  ],
+  [
+    "website account on (P553)",
+    1
+  ],
+  [
+    "Fandango person ID (P8125)",
+    1
+  ],
+  [
+    "year_of_birth",
+    1
+  ],
+  [
+    "Lokalhistoriewiki.no ID (P6520)",
+    1
+  ],
+  [
+    "logo",
+    1
+  ],
+  [
+    "logo_size",
+    1
+  ],
+  [
+    "foundation",
+    1
+  ],
+  [
+    "industry",
+    1
+  ],
+  [
+    "products",
+    1
+  ],
+  [
+    "home_town",
+    1
+  ],
+  [
+    "credits",
+    1
+  ],
+  [
+    "boxes",
+    1
+  ],
+  [
+    "count",
+    1
+  ],
+  [
+    "Olympic.org athlete ID (archived) (P3171)",
+    1
+  ],
+  [
+    "Olympics.com athlete ID / archived OlympicChannel ID (P5815)",
+    1
+  ],
+  [
+    "Lambiek Comiclopedia artist ID (P5035)",
+    1
+  ],
+  [
+    "ODIS ID (P2372)",
+    1
+  ],
+  [
+    "ARMB member ID (P5329)",
+    1
+  ],
+  [
+    "Biblioteca Digital Curt Nimuendaj\u00fa ID (P9464)",
+    1
+  ],
+  [
+    "Les Archives du Spectacle Person ID (P1977)",
+    1
+  ],
+  [
+    "Flanders Arts Institute person ID (P5068)",
+    1
+  ],
+  [
+    "Tumblr username (P3943)",
+    1
+  ],
+  [
+    "related image (P6802)",
+    1
+  ],
+  [
+    "Nachl\u00e4sse in Austria ID (P8728)",
+    1
+  ],
+  [
+    "BeWeb person ID (P7796)",
+    1
+  ],
+  [
+    "Slovn\u00edk \u010desk\u00fdch filosof\u016f ID (P9355)",
+    1
+  ],
+  [
+    "Memorial Book University of Vienna ID (P8821)",
+    1
+  ],
+  [
+    "organizer (P664)",
+    1
+  ],
+  [
+    "works",
+    1
+  ],
+  [
+    "Poetry Foundation ID (P5341)",
+    1
+  ],
+  [
+    "Provenio UUID (P9223)",
+    1
+  ],
+  [
+    "Schoenberg Database of Manuscripts name ID (P9756)",
+    1
+  ],
+  [
+    "Doktori.hu ID (P9137)",
+    1
+  ],
+  [
+    "The Numbers person ID (P4657)",
+    1
+  ],
+  [
+    "Royal Swedish Academy of Letters member ID (P3389)",
+    1
+  ],
+  [
+    "Swedish Literature Bank Author ID (P5101)",
+    1
+  ],
+  [
+    "Swedish Academy member ID (P5325)",
+    1
+  ],
+  [
+    "SVT Play ID (P6817)",
+    1
+  ],
+  [
+    "Austrian Biographical Encylopedia ID (P6194)",
+    1
+  ],
+  [
+    "Lexikon zum Literatur- und Kulturbetrieb im \u00d6sterreich der Zwischenkriegszeit ID (P8999)",
+    1
+  ],
+  [
+    "Svenska Institutet i Rom ID (P9164)",
+    1
+  ],
+  [
+    "pronunciation",
+    1
+  ],
+  [
+    "director",
+    1
+  ],
+  [
+    "Penguin India author ID (P7031)",
+    1
+  ],
+  [
+    "Discord username (P9101)",
+    1
+  ],
+  [
+    "honorific-prefix",
+    1
+  ],
+  [
+    "ancestral home (P66)",
+    1
+  ],
+  [
+    "honors",
+    1
+  ],
+  [
+    "constituency3",
+    1
+  ],
+  [
+    "1blankname1",
+    1
+  ],
+  [
+    "1namedata1",
+    1
+  ],
+  [
+    "minister",
+    1
+  ],
+  [
+    "primeminister1",
+    1
+  ],
+  [
+    "minister1",
+    1
+  ],
+  [
+    "PRS Legislative Research MP ID (P4978)",
+    1
+  ],
+  [
+    "KVAB member ID (P3887)",
+    1
+  ],
+  [
+    "criminal_charges",
+    1
+  ],
+  [
+    "Gazetteer for Scotland person ID (P7349)",
+    1
+  ],
+  [
+    "Dewey Decimal Classification (P1036)",
+    1
+  ],
+  [
+    "ROME Occupation Code (v3) (P867)",
+    1
+  ],
+  [
+    "OmegaWiki Defined Meaning (P1245)",
+    1
+  ],
+  [
+    "patron saint (P417)",
+    1
+  ],
+  [
+    "KldB-2010 occupation code (P1021)",
+    1
+  ],
+  [
+    "ESCO Occupation ID (P4652)",
+    1
+  ],
+  [
+    "male form of label (P3321)",
+    1
+  ],
+  [
+    "said to be the same as (P460)",
+    1
+  ],
+  [
+    "uses (P2283)",
+    1
+  ],
+  [
+    "has list (P2354)",
+    1
+  ],
+  [
+    "programming language",
+    1
+  ],
+  [
+    "license",
+    1
+  ],
+  [
+    "SourceForge project (P2209)",
+    1
+  ],
+  [
+    "Arch Linux package (P3454)",
+    1
+  ],
+  [
+    "Debian stable package (P3442)",
+    1
+  ],
+  [
+    "Fedora package (P3463)",
+    1
+  ],
+  [
+    "Gentoo package (P3499)",
+    1
+  ],
+  [
+    "Ubuntu package (P3473)",
+    1
+  ],
+  [
+    "programming language (P277)",
+    1
+  ],
+  [
+    "software version identifier (P348)",
+    1
+  ],
+  [
+    "source code repository (P1324)",
+    1
+  ],
+  [
+    "copyright license (P275)",
+    1
+  ],
+  [
+    "Free Software Directory entry (P2537)",
+    1
+  ],
+  [
+    "Repology project name (P6931)",
+    1
+  ],
+  [
+    "FreeBSD port (P7427)",
+    1
+  ],
+  [
+    "NetBSD package (P7966)",
+    1
+  ],
+  [
+    "OpenBSD port (P7967)",
+    1
+  ],
+  [
+    "copyright status (P6216)",
+    1
+  ],
+  [
+    "Homebrew formula name (P8443)",
+    1
+  ],
+  [
+    "CI\u00caNCIAVITAE ID (P7893)",
+    1
+  ]
+]

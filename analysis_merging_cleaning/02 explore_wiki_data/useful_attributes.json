@@ -1,0 +1,488 @@
+[
+    [
+        "pageid",
+        3469
+    ],
+    [
+        "url",
+        3469
+    ],
+    [
+        "title",
+        3469
+    ],
+    [
+        "backlinks",
+        3469
+    ],
+    [
+        "categories",
+        3469
+    ],
+    [
+        "ire_person_name",
+        3469
+    ],
+    [
+        "ire_wiki_id",
+        3469
+    ],
+    [
+        "links",
+        3468
+    ],
+    [
+        "label",
+        3468
+    ],
+    [
+        "sex or gender (P21)",
+        3425
+    ],
+    [
+        "occupation (P106)",
+        3354
+    ],
+    [
+        "given name (P735)",
+        2890
+    ],
+    [
+        "educated at (P69)",
+        2880
+    ],
+    [
+        "date of birth (P569)",
+        2625
+    ],
+    [
+        "Freebase ID (P646)",
+        2484
+    ],
+    [
+        "employer (P108)",
+        2461
+    ],
+    [
+        "country of citizenship (P27)",
+        2456
+    ],
+    [
+        "name",
+        2283
+    ],
+    [
+        "redirects",
+        2104
+    ],
+    [
+        "WorldCat Identities ID (P7859)",
+        1998
+    ],
+    [
+        "Library of Congress authority ID (P244)",
+        1878
+    ],
+    [
+        "family name (P734)",
+        1833
+    ],
+    [
+        "description",
+        1809
+    ],
+    [
+        "alma_mater",
+        1805
+    ],
+ 
+    [
+        "place of birth (P19)",
+        1660
+    ],
+    [
+        "award received (P166)",
+        1628
+    ],
+    [
+        "birth_date",
+        1570
+    ],
+    [
+        "aliases",
+        1565
+    ],
+    [
+        "doctoral advisor (P184)",
+        1515
+    ],
+    [
+        "Mathematics Genealogy Project ID (P549)",
+        1432
+    ],
+    [
+        "birth_place",
+        1411
+    ],
+    [
+        "image",
+        1407
+    ],
+    
+    [
+        "known_for",
+        1324
+    ],
+ 
+    [
+        "doctoral student (P185)",
+        1177
+    ],
+
+    [
+        "doctoral_advisor",
+        1104
+    ],
+    [
+        "nationality",
+        1056
+    ],
+    [
+        "languages spoken, written or signed (P1412)",
+        996
+    ],
+    [
+        "field of work (P101)",
+        996
+    ],
+    [
+        "workplaces",
+        985
+    ],
+
+    [
+        "Google Scholar author ID (P1960)",
+        929
+    ],
+    [
+        "member of (P463)",
+        914
+    ],
+
+    [
+        "fields",
+        827
+    ],
+
+    [
+        "website",
+        779
+    ],
+ 
+    [
+        "official website (P856)",
+        760
+    ],
+ 
+    [
+        "field",
+        744
+    ],
+  
+    [
+        "thesis_title",
+        703
+    ],
+    [
+        "awards",
+        689
+    ],
+    [
+        "thesis_year",
+        671
+    ],
+
+    [
+        "iwlinks",
+        563
+    ],
+ 
+    [
+        "date of death (P570)",
+        543
+    ],
+    [
+        "work_institution",
+        470
+    ],
+ 
+    [
+        "thesis_url",
+        429
+    ],
+    [
+        "occupation",
+        418
+    ],
+    [
+        "birth_name",
+        410
+    ],
+    [
+        "death_date",
+        388
+    ],
+    [
+        "residence (P551)",
+        386
+    ],
+    [
+        "residence",
+        375
+    ],
+    [
+        "citizenship",
+        373
+    ],
+    [
+        "place of death (P20)",
+        355
+    ],
+    [
+        "doctoral_students",
+        340
+    ],
+    [
+        "name in native language (P1559)",
+        335
+    ],
+    [
+        "education",
+        318
+    ],
+    [
+        "prizes",
+        310
+    ],
+    [
+        "spouse",
+        299
+    ],
+    [
+        "death_place",
+        286
+    ],
+    [
+        "notable work (P800)",
+        262
+    ],
+    [
+        "Twitter username (P2002)",
+        259
+    ],
+    [
+        "work_institutions",
+        204
+    ],
+    [
+        "academic degree (P512)",
+        178
+    ],
+    [
+        "children",
+        167
+    ],
+    [
+        "work location (P937)",
+        138
+    ],
+    [
+        "spouse (P26)",
+        128
+    ],
+    [
+        "cause of death (P509)",
+        117
+    ],
+    [
+        "Semantic Scholar author ID (P4012)",
+        117
+    ],
+    [
+        "LinkedIn personal profile ID (P6634)",
+        114
+    ],
+    [
+        "employer",
+        102
+    ],
+    [
+        "manner of death (P1196)",
+        101
+    ],
+    [
+        "position held (P39)",
+        98
+    ],
+    [
+        "birth name (P1477)",
+        91
+    ],
+    [
+        "influences",
+        87
+    ],
+    [
+        "student (P802)",
+        84
+    ],
+    [
+        "father (P22)",
+        73
+    ],
+    [
+        "influenced by (P737)",
+        73
+    ],
+    [
+        "native language (P103)",
+        72
+    ],
+    [
+        "religion (P140)",
+        64
+    ],
+    [
+        "academic_advisors",
+        63
+    ],
+    [
+        "participant in (P1344)",
+        62
+    ],
+    [
+        "ethnic group (P172)",
+        52
+    ],
+    [
+        "part of (P361)",
+        52
+    ],
+    [
+        "notable_students",
+        50
+    ],
+    [
+        "other_names",
+        47
+    ],
+    [
+        "academic thesis (P1026)",
+        47
+    ],
+    [
+        "student of (P1066)",
+        46
+    ],
+    [
+        "sibling (P3373)",
+        45
+    ],
+    [
+        "child (P40)",
+        45
+    ],
+    [
+        "native_name",
+        45
+    ],
+    [
+        "discipline",
+        42
+    ],
+    [
+        "affiliation (P1416)",
+        42
+    ],
+    [
+        "influenced",
+        41
+    ],
+    [
+        "GitHub username (P2037)",
+        41
+    ],
+    [
+        "Fellow of the Royal Society ID (P2070)",
+        41
+    ],
+    [
+        "mother (P25)",
+        38
+    ],
+    [
+        "described at URL (P973)",
+        38
+    ],
+    [
+        "years_active",
+        38
+    ],
+    [
+        "place of burial (P119)",
+        37
+    ],
+    [
+        "writing language (P6886)",
+        37
+    ],
+    [
+        "notable_works",
+        28
+    ],
+    [
+        "sub_discipline",
+        23
+    ],
+ 
+    [
+        "number of children (P1971)",
+        21
+    ],
+    [
+        "office",
+        21
+    ],
+    [
+        "official blog (P1581)",
+        20
+    ],
+    [
+        "parents",
+        20
+    ],
+    [
+        "main_interests",
+        17
+    ],
+    [
+        "doctoral_advisors",
+        15
+    ],
+    [
+        "organization",
+        15
+    ],
+    [
+        "known for",
+        15
+    ],
+    [
+        "has works in the collection (P6379)",
+        14
+    ],
+    [
+        "medical condition (P1050)",
+        14
+    ]
+]

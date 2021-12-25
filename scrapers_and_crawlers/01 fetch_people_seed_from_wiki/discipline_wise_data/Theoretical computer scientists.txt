@@ -1,0 +1,267 @@
+Scott Aaronson
+Rediet Abebe
+Alfred Aho
+Miklós Ajtai
+Susanne Albers
+Eric Allender
+Andris Ambainis
+Dana Angluin
+Sanjeev Arora
+Arun Sharma (Indian Australian professor)
+Mikhail Atallah
+Baruch Awerbuch
+László Babai
+Christel Baier
+Brenda Baker
+Ken Batcher
+Cristina Bazgan
+Rudolf Berghammer
+Norman L. Biggs
+Avrim Blum
+Lenore Blum
+Manuel Blum
+Hans L. Bodlaender
+Ronald V. Book
+Allan Borodin
+Patricia Bouyer-Decitre
+Elette Boyle
+Wilfried Brauer
+Janusz Brzozowski (computer scientist)
+Jin-Yi Cai
+Jennifer Tour Chayes
+Julia Chuzhoy
+Richard Cleve
+Alan Cobham (mathematician)
+Edward G. Coffman Jr.
+Edith Cohen
+Anne Condon
+Stephen Cook
+Maxime Crochemore
+Erik Demaine
+Nachum Dershowitz
+Edsger W. Dijkstra
+Danny Dolev
+Shlomi Dolev
+Rod Downey
+Cynthia Dwork
+Martin Dyer
+Jeff Edmonds
+Faith Ellen
+Peter van Emde Boas
+Kousha Etessami
+Martin Farach-Colton
+Uriel Feige
+Joan Feigenbaum
+Michael Fellows
+Amos Fiat
+Michael J. Fischer
+Patrick C. Fischer
+Lawrence J. Fogel
+Lance Fortnow
+Nissim Francez
+Michael Fredman
+Rūsiņš Mārtiņš Freivalds
+Alan M. Frieze
+Peter Gacs
+Zvi Galil
+Jean Gallier
+Philippa Gardner
+Michael Garey
+Joachim von zur Gathen
+Viliam Geffert
+Seymour Ginsburg
+David E. Goldberg
+Leslie Ann Goldberg
+Oded Goldreich
+Shafi Goldwasser
+Teofilo F. Gonzalez
+I. J. Good
+Sheila Greibach
+Lov Grover
+Venkatesan Guruswami
+Mohammad Hajiaghayi
+Shai Halevi
+Michael A. Harrison
+Juris Hartmanis
+Kosaburo Hashiguchi
+Monika Henzinger
+Hans Hermes
+Dan Hirschberg
+Juraj Hromkovič
+Ferran Hurtado
+Oscar H. Ibarra
+Neil Immerman
+Nicole Immorlica
+Piotr Indyk
+Giuseppe F. Italiano
+Kazuo Iwama (computer scientist)
+Mark Jerrum
+David S. Johnson
+Donald B. Johnson
+Jean-Pierre Jouannaud
+Avinash Kak
+Subhash Kak
+Yael Tauman Kalai
+Juhani Karhumäki
+Anna Karlin
+Narendra Karmarkar
+Richard M. Karp
+Marek Karpinski
+Neeraj Kayal
+Subhash Khot
+Valerie King
+Pushmeet Kohli
+János Komlós (mathematician)
+S. Rao Kosaraju
+John Koza
+Dexter Kozen
+Jeffrey Lagarias
+Andrea LaPaugh
+Monique Laurent
+Eugene Lawler
+R. C. T. Lee
+Jan van Leeuwen
+F. Thomson Leighton
+Charles E. Leiserson
+Claude Lemaréchal
+Harry R. Lewis
+Li Huatian
+Ran Libeskind-Hadas
+Katrina Ligett
+Nati Linial
+Richard Lipton
+Michael Luby
+David Luenberger
+Eugene M. Luks
+Carsten Lund
+Nancy Lynch
+Avner Magen
+Urmila Mahadev
+Harry Mairson
+Solomon Marcus
+Claire Mathieu
+Yossi Matias
+Robert McNaughton
+Alexander Meduna
+Nicole Megow
+Albert R. Meyer
+Silvio Micali
+Gary Miller (computer scientist)
+Michael Mitzenmacher
+Cristopher Moore
+Shlomo Moran
+Dana Moshkovitz
+Rajeev Motwani
+Ketan Mulmuley
+Ian Munro (computer scientist)
+Anca Muscholl
+Assaf Naor
+Moni Naor
+Florian Neukart
+Tobias Nipkow
+Noam Nisan
+Yuri Petrovich Ofman
+Rafail Ostrovsky
+Rasmus Pagh
+Victor Pan
+Paritosh Pandya
+Greta Panova
+Christos Papadimitriou
+Michal Parnas
+Mike Paterson
+Mihai Pătrașcu (computer scientist)
+Gheorghe Păun
+David Peleg (computer scientist)
+Ferdinand Peper
+Rózsa Péter
+Jean-Éric Pin
+Nick Pippenger
+Toniann Pitassi
+Amir Pnueli
+Vaughan Pratt
+Franco P. Preparata
+Michael O. Rabin
+Dana Randall
+Sofya Raskhodnikova
+Ran Raz
+Alexander Razborov
+John Reif
+Omer Reingold
+James Renegar
+Dana Ron
+Arnold L. Rosenberg
+Benjamin Rossman
+Tim Roughgarden
+Ronitt Rubinfeld
+Peter Ružička
+Wojciech Rytter
+Shmuel Safra
+Amit Sahai
+Sartaj Sahni
+Michael Saks (mathematician)
+Gábor N. Sárközy
+Baruch Schieber
+Gunther Schmidt
+Uwe Schöning
+Alexander Schrijver
+Leonard Schulman
+Alan Selman
+Eli Shamir
+Michael W. Shields
+David Shmoys
+Naum Z. Shor
+Peter Shor
+Victor Shoup
+Alistair Sinclair
+Michael Sipser
+Daniel Sleator
+Richart E. Slusher
+Stephen Smale
+Wayne Snyder
+Gustave Solomon
+Ray Solomonoff
+Angelika Steger
+Larry Stockmeyer
+Volker Strassen
+Ofer Strichman
+Madhu Sudan
+Mario Szegedy
+Stefan Szeider
+Róbert Szelepcsényi
+Endre Szemerédi
+Wojciech Szpankowski
+Carolyn Talcott
+Robert Tarjan
+Prasad V. Tetali
+Mikkel Thorup
+Seinosuke Toda
+Luca Trevisan
+Alan Turing
+Chris Umans
+Eli Upfal
+Salil Vadhan
+Leslie Valiant
+Rüdiger Valk
+Umesh Vazirani
+Vijay Vazirani
+Santosh Vempala
+Suresh Venkatasubramanian
+Uzi Vishkin
+Paul Vitányi
+Marilyn Walker
+John Watrous (computer scientist)
+Adam Wierman
+Avi Wigderson
+Dan Willard
+Ryan Williams (computer scientist)
+Virginia Vassilevska Williams
+Shmuel Winograd
+Gerhard J. Woeginger
+Hisao Yamada
+Mihalis Yannakakis
+Yinyu Ye
+Moti Yung
+Stathis Zachos
+Fotios Zaharoglou
+Shmuel Zaks
+David Zuckerman (computer scientist)

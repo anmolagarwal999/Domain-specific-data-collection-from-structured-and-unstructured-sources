@@ -1,0 +1,5656 @@
+[
+    {
+        "ire_person_name": "Stephen Wolfram",
+        "ire_wiki_id": 14,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "E. Kolb",
+                    "score": "48"
+                },
+                {
+                    "name": "G. Fox",
+                    "score": "47"
+                },
+                {
+                    "name": "J. Harvey",
+                    "score": "23"
+                },
+                {
+                    "name": "Y. Pomeau",
+                    "score": "20"
+                },
+                {
+                    "name": "D. B. Reiss",
+                    "score": "17"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "H. Zenil",
+                    "score": "256"
+                },
+                {
+                    "name": "G. J. Mart\u00ednez",
+                    "score": "224"
+                },
+                {
+                    "name": "A. Adamatzky",
+                    "score": "182"
+                },
+                {
+                    "name": "Y. Kim",
+                    "score": "111"
+                },
+                {
+                    "name": "F. Chen",
+                    "score": "111"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Peter J. Denning",
+        "ire_wiki_id": 15,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Buzen",
+                    "score": "104"
+                },
+                {
+                    "name": "D. Denning",
+                    "score": "104"
+                },
+                {
+                    "name": "D. Comer",
+                    "score": "72"
+                },
+                {
+                    "name": "A. Tucker",
+                    "score": "67"
+                },
+                {
+                    "name": "J. Dennis",
+                    "score": "66"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "M. Tedre",
+                    "score": "220"
+                },
+                {
+                    "name": "C. Ding",
+                    "score": "185"
+                },
+                {
+                    "name": "A. Sabelfeld",
+                    "score": "120"
+                },
+                {
+                    "name": "D. Denning",
+                    "score": "101"
+                },
+                {
+                    "name": "A. Myers",
+                    "score": "89"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Samir Das",
+        "ire_wiki_id": 20,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "H. Gupta",
+                    "score": "182"
+                },
+                {
+                    "name": "R. Fujimoto",
+                    "score": "164"
+                },
+                {
+                    "name": "D. Maltz",
+                    "score": "143"
+                },
+                {
+                    "name": "N. Vaidya",
+                    "score": "137"
+                },
+                {
+                    "name": "V. Sekar",
+                    "score": "114"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "H. Gupta",
+                    "score": "221"
+                },
+                {
+                    "name": "J. Garcia-Luna-Aceves",
+                    "score": "161"
+                },
+                {
+                    "name": "R. Fujimoto",
+                    "score": "142"
+                },
+                {
+                    "name": "M. Gerla",
+                    "score": "142"
+                },
+                {
+                    "name": "M. Portmann",
+                    "score": "126"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Edsger W. Dijkstra",
+        "ire_wiki_id": 92,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "C. S. Scholten",
+                    "score": "75"
+                },
+                {
+                    "name": "A. V. Gasteren",
+                    "score": "27"
+                },
+                {
+                    "name": "C. Hoare",
+                    "score": "18"
+                },
+                {
+                    "name": "W. Feijen",
+                    "score": "18"
+                },
+                {
+                    "name": "L. Lamport",
+                    "score": "12"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "A. Datta",
+                    "score": "186"
+                },
+                {
+                    "name": "S. Tixeuil",
+                    "score": "167"
+                },
+                {
+                    "name": "R. Back",
+                    "score": "162"
+                },
+                {
+                    "name": "S. Dolev",
+                    "score": "156"
+                },
+                {
+                    "name": "S. Kulkarni",
+                    "score": "152"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Donald Knuth",
+        "ire_wiki_id": 96,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "G. Forsythe",
+                    "score": "56"
+                },
+                {
+                    "name": "R. W. Floyd",
+                    "score": "45"
+                },
+                {
+                    "name": "R. Graham",
+                    "score": "41"
+                },
+                {
+                    "name": "B. Pittel",
+                    "score": "40"
+                },
+                {
+                    "name": "T. Denney",
+                    "score": "36"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "P. Flajolet",
+                    "score": "479"
+                },
+                {
+                    "name": "H. Prodinger",
+                    "score": "358"
+                },
+                {
+                    "name": "W. Szpankowski",
+                    "score": "352"
+                },
+                {
+                    "name": "P. L'Ecuyer",
+                    "score": "246"
+                },
+                {
+                    "name": "L. Devroye",
+                    "score": "210"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "David S. Ebert",
+        "ire_wiki_id": 114,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "R. Maciejewski",
+                    "score": "436"
+                },
+                {
+                    "name": "A. Malik",
+                    "score": "229"
+                },
+                {
+                    "name": "Yun Jang",
+                    "score": "204"
+                },
+                {
+                    "name": "T. Ertl",
+                    "score": "189"
+                },
+                {
+                    "name": "E. Delp",
+                    "score": "172"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "R. Maciejewski",
+                    "score": "469"
+                },
+                {
+                    "name": "E. Delp",
+                    "score": "360"
+                },
+                {
+                    "name": "C. Boushey",
+                    "score": "353"
+                },
+                {
+                    "name": "A. Malik",
+                    "score": "243"
+                },
+                {
+                    "name": "Yun Jang",
+                    "score": "215"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Fred Brooks",
+        "ire_wiki_id": 177,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "M. Whitton",
+                    "score": "269"
+                },
+                {
+                    "name": "M. Slater",
+                    "score": "176"
+                },
+                {
+                    "name": "R. Superfine",
+                    "score": "118"
+                },
+                {
+                    "name": "M. Falvo",
+                    "score": "108"
+                },
+                {
+                    "name": "S. Washburn",
+                    "score": "105"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "M. Whitton",
+                    "score": "347"
+                },
+                {
+                    "name": "Frank Steinicke",
+                    "score": "208"
+                },
+                {
+                    "name": "Russell M. Taylor",
+                    "score": "200"
+                },
+                {
+                    "name": "M. Slater",
+                    "score": "139"
+                },
+                {
+                    "name": "G. Bruder",
+                    "score": "139"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Kent Beck",
+        "ire_wiki_id": 184,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "P. Eggers",
+                    "score": "13"
+                },
+                {
+                    "name": "Scott D. Miles",
+                    "score": "9"
+                },
+                {
+                    "name": "James A. Malmstrom",
+                    "score": "9"
+                },
+                {
+                    "name": "Jason Bultman",
+                    "score": "4"
+                },
+                {
+                    "name": "Jeff Juretich",
+                    "score": "4"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "P. Eggers",
+                    "score": "13"
+                },
+                {
+                    "name": "Scott D. Miles",
+                    "score": "9"
+                },
+                {
+                    "name": "James A. Malmstrom",
+                    "score": "9"
+                },
+                {
+                    "name": "Jason Bultman",
+                    "score": "4"
+                },
+                {
+                    "name": "Jeff Juretich",
+                    "score": "4"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Murray Campbell",
+        "ire_wiki_id": 216,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "G. Tesauro",
+                    "score": "53"
+                },
+                {
+                    "name": "Xiaoxiao Guo",
+                    "score": "46"
+                },
+                {
+                    "name": "F. Hsu",
+                    "score": "40"
+                },
+                {
+                    "name": "Marc G. Bellemare",
+                    "score": "40"
+                },
+                {
+                    "name": "P. Abbeel",
+                    "score": "39"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "J. Schaeffer",
+                    "score": "102"
+                },
+                {
+                    "name": "T. Marsland",
+                    "score": "67"
+                },
+                {
+                    "name": "A. Plaat",
+                    "score": "54"
+                },
+                {
+                    "name": "G. Tesauro",
+                    "score": "42"
+                },
+                {
+                    "name": "W. Pijls",
+                    "score": "42"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Klaus-Robert M\u00fcller",
+        "ire_wiki_id": 217,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "B. Blankertz",
+                    "score": "2123"
+                },
+                {
+                    "name": "W. Samek",
+                    "score": "1450"
+                },
+                {
+                    "name": "G. Curio",
+                    "score": "1110"
+                },
+                {
+                    "name": "G. Montavon",
+                    "score": "994"
+                },
+                {
+                    "name": "B. Sch\u00f6lkopf",
+                    "score": "803"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "W. Samek",
+                    "score": "1981"
+                },
+                {
+                    "name": "B. Blankertz",
+                    "score": "1669"
+                },
+                {
+                    "name": "G. Montavon",
+                    "score": "936"
+                },
+                {
+                    "name": "M. Tangermann",
+                    "score": "799"
+                },
+                {
+                    "name": "G. Curio",
+                    "score": "778"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Ismat Beg",
+        "ire_wiki_id": 282,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "M. Abbas",
+                    "score": "225"
+                },
+                {
+                    "name": "N. Shahzad",
+                    "score": "193"
+                },
+                {
+                    "name": "T. Rashid",
+                    "score": "182"
+                },
+                {
+                    "name": "A. Azam",
+                    "score": "168"
+                },
+                {
+                    "name": "F. Herrera",
+                    "score": "115"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "M. Abbas",
+                    "score": "327"
+                },
+                {
+                    "name": "T. Rashid",
+                    "score": "231"
+                },
+                {
+                    "name": "A. Azam",
+                    "score": "216"
+                },
+                {
+                    "name": "H. Nashine",
+                    "score": "165"
+                },
+                {
+                    "name": "N. Shahzad",
+                    "score": "157"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Tom Proulx",
+        "ire_wiki_id": 323,
+        "semantic_data": {
+            "influenced_by": [],
+            "influenced": [
+                {
+                    "name": "Ibrahim Rehab",
+                    "score": "6"
+                },
+                {
+                    "name": "D. Palou\u0161ek",
+                    "score": "2"
+                },
+                {
+                    "name": "E. Ahmadi",
+                    "score": "2"
+                },
+                {
+                    "name": "J. Kaiser",
+                    "score": "2"
+                },
+                {
+                    "name": "Jan Suchy",
+                    "score": "2"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Cecilia Berdichevsky",
+        "ire_wiki_id": 421,
+        "semantic_data": {
+            "influenced_by": [],
+            "influenced": []
+        }
+    },
+    {
+        "ire_person_name": "Bob Bemer",
+        "ire_wiki_id": 484,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Julien Green",
+                    "score": "13"
+                },
+                {
+                    "name": "S. Gorn",
+                    "score": "13"
+                },
+                {
+                    "name": "E. Lohse",
+                    "score": "9"
+                },
+                {
+                    "name": "A. L. Ellison",
+                    "score": "6"
+                },
+                {
+                    "name": "W. Bauer",
+                    "score": "6"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Julien Green",
+                    "score": "13"
+                },
+                {
+                    "name": "S. Gorn",
+                    "score": "13"
+                },
+                {
+                    "name": "W. Aspray",
+                    "score": "12"
+                },
+                {
+                    "name": "E. Lohse",
+                    "score": "9"
+                },
+                {
+                    "name": "Jos\u00e9 Augusto Fabri",
+                    "score": "7"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Ross J. Anderson",
+        "ire_wiki_id": 492,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Murdoch",
+                    "score": "169"
+                },
+                {
+                    "name": "M. Bond",
+                    "score": "143"
+                },
+                {
+                    "name": "T. Moore",
+                    "score": "132"
+                },
+                {
+                    "name": "M. Kuhn",
+                    "score": "128"
+                },
+                {
+                    "name": "R. Clayton",
+                    "score": "96"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "T. Moore",
+                    "score": "269"
+                },
+                {
+                    "name": "S. Murdoch",
+                    "score": "171"
+                },
+                {
+                    "name": "M. Bond",
+                    "score": "150"
+                },
+                {
+                    "name": "F. Stajano",
+                    "score": "136"
+                },
+                {
+                    "name": "F. Petitcolas",
+                    "score": "126"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "David Turner (computer scientist)",
+        "ire_wiki_id": 511,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "B. Pierce",
+                    "score": "93"
+                },
+                {
+                    "name": "P. Wadler",
+                    "score": "81"
+                },
+                {
+                    "name": "L. Cardelli",
+                    "score": "63"
+                },
+                {
+                    "name": "John C. Mitchell",
+                    "score": "57"
+                },
+                {
+                    "name": "R. Milner",
+                    "score": "34"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "B. Pierce",
+                    "score": "143"
+                },
+                {
+                    "name": "N. Kobayashi",
+                    "score": "112"
+                },
+                {
+                    "name": "D. Sangiorgi",
+                    "score": "83"
+                },
+                {
+                    "name": "N. Yoshida",
+                    "score": "76"
+                },
+                {
+                    "name": "V. Vasconcelos",
+                    "score": "74"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Tobias Preis",
+        "ire_wiki_id": 513,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "H. Stanley",
+                    "score": "443"
+                },
+                {
+                    "name": "H. S. Moat",
+                    "score": "424"
+                },
+                {
+                    "name": "W. Paul",
+                    "score": "94"
+                },
+                {
+                    "name": "Johannes J. Schneider",
+                    "score": "93"
+                },
+                {
+                    "name": "S. Bishop",
+                    "score": "76"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "H. S. Moat",
+                    "score": "475"
+                },
+                {
+                    "name": "H. Stanley",
+                    "score": "209"
+                },
+                {
+                    "name": "D. Kenett",
+                    "score": "92"
+                },
+                {
+                    "name": "C. Seresinhe",
+                    "score": "92"
+                },
+                {
+                    "name": "Federico Botta",
+                    "score": "88"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Robert Hyatt",
+        "ire_wiki_id": 568,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "H. L. Nelson",
+                    "score": "31"
+                },
+                {
+                    "name": "Yibing Wang",
+                    "score": "18"
+                },
+                {
+                    "name": "A. E. Gower",
+                    "score": "17"
+                },
+                {
+                    "name": "M. Newborn",
+                    "score": "16"
+                },
+                {
+                    "name": "Tao Tao",
+                    "score": "13"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "J. Schaeffer",
+                    "score": "35"
+                },
+                {
+                    "name": "H. L. Nelson",
+                    "score": "33"
+                },
+                {
+                    "name": "M. Newborn",
+                    "score": "32"
+                },
+                {
+                    "name": "T. Marsland",
+                    "score": "26"
+                },
+                {
+                    "name": "H. J. V. Herik",
+                    "score": "24"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Robert E. Kraut",
+        "ire_wiki_id": 631,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Kiesler",
+                    "score": "523"
+                },
+                {
+                    "name": "A. Kittur",
+                    "score": "292"
+                },
+                {
+                    "name": "Susan R. Fussell",
+                    "score": "207"
+                },
+                {
+                    "name": "Moira Burke",
+                    "score": "183"
+                },
+                {
+                    "name": "B. Butler",
+                    "score": "159"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "S. Kiesler",
+                    "score": "460"
+                },
+                {
+                    "name": "Susan R. Fussell",
+                    "score": "340"
+                },
+                {
+                    "name": "A. Kittur",
+                    "score": "271"
+                },
+                {
+                    "name": "S. Whittaker",
+                    "score": "242"
+                },
+                {
+                    "name": "D. Gergle",
+                    "score": "229"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Verena Rieser",
+        "ire_wiki_id": 635,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Oliver Lemon",
+                    "score": "695"
+                },
+                {
+                    "name": "M. Walker",
+                    "score": "277"
+                },
+                {
+                    "name": "S. Young",
+                    "score": "254"
+                },
+                {
+                    "name": "Ondrej Dusek",
+                    "score": "171"
+                },
+                {
+                    "name": "Milica Gasic",
+                    "score": "148"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Oliver Lemon",
+                    "score": "574"
+                },
+                {
+                    "name": "Ondrej Dusek",
+                    "score": "183"
+                },
+                {
+                    "name": "H. Hastie",
+                    "score": "152"
+                },
+                {
+                    "name": "Nina Dethlefs",
+                    "score": "116"
+                },
+                {
+                    "name": "M. Walker",
+                    "score": "95"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "John T. Riedl",
+        "ire_wiki_id": 742,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Konstan",
+                    "score": "627"
+                },
+                {
+                    "name": "S. K. Lam",
+                    "score": "198"
+                },
+                {
+                    "name": "L. Terveen",
+                    "score": "188"
+                },
+                {
+                    "name": "Jonathan L. Herlocker",
+                    "score": "178"
+                },
+                {
+                    "name": "B. Sarwar",
+                    "score": "162"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "J. Konstan",
+                    "score": "841"
+                },
+                {
+                    "name": "B. Mobasher",
+                    "score": "445"
+                },
+                {
+                    "name": "L. Terveen",
+                    "score": "384"
+                },
+                {
+                    "name": "F. Ricci",
+                    "score": "336"
+                },
+                {
+                    "name": "A. Felfernig",
+                    "score": "334"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Osman Ya\u015far",
+        "ire_wiki_id": 778,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Maliekal",
+                    "score": "77"
+                },
+                {
+                    "name": "Leigh J. Little",
+                    "score": "64"
+                },
+                {
+                    "name": "P. Veronesi",
+                    "score": "60"
+                },
+                {
+                    "name": "G. Moses",
+                    "score": "46"
+                },
+                {
+                    "name": "R. E. Tuzun",
+                    "score": "40"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "J. Dongarra",
+                    "score": "100"
+                },
+                {
+                    "name": "J. Maliekal",
+                    "score": "91"
+                },
+                {
+                    "name": "Leigh J. Little",
+                    "score": "79"
+                },
+                {
+                    "name": "P. Veronesi",
+                    "score": "76"
+                },
+                {
+                    "name": "G. Moses",
+                    "score": "37"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Lyle Ungar",
+        "ire_wiki_id": 867,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "L. Ungar",
+                    "score": "87"
+                },
+                {
+                    "name": "H. A. Schwartz",
+                    "score": "68"
+                },
+                {
+                    "name": "P. Tetlock",
+                    "score": "35"
+                },
+                {
+                    "name": "Kokil Jaidka",
+                    "score": "35"
+                },
+                {
+                    "name": "B. Mellers",
+                    "score": "34"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "B. Mellers",
+                    "score": "52"
+                },
+                {
+                    "name": "P. Tetlock",
+                    "score": "51"
+                },
+                {
+                    "name": "L. Ungar",
+                    "score": "34"
+                },
+                {
+                    "name": "Niyati Chhaya",
+                    "score": "30"
+                },
+                {
+                    "name": "Kokil Jaidka",
+                    "score": "29"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Niklas Elmqvist",
+        "ire_wiki_id": 868,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Jeffrey Heer",
+                    "score": "385"
+                },
+                {
+                    "name": "Jean-Daniel Fekete",
+                    "score": "348"
+                },
+                {
+                    "name": "B. Shneiderman",
+                    "score": "307"
+                },
+                {
+                    "name": "J. Stasko",
+                    "score": "291"
+                },
+                {
+                    "name": "M. Carpendale",
+                    "score": "260"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Sriram Karthik Badam",
+                    "score": "293"
+                },
+                {
+                    "name": "Jean-Daniel Fekete",
+                    "score": "195"
+                },
+                {
+                    "name": "P. Tsigas",
+                    "score": "138"
+                },
+                {
+                    "name": "Raimund Dachselt",
+                    "score": "131"
+                },
+                {
+                    "name": "K. Ramani",
+                    "score": "126"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Philip Wadler",
+        "ire_wiki_id": 875,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "P. Trinder",
+                    "score": "6"
+                },
+                {
+                    "name": "J. Jeuring",
+                    "score": "5"
+                },
+                {
+                    "name": "H. Introduction",
+                    "score": "4"
+                },
+                {
+                    "name": "Fasel",
+                    "score": "4"
+                },
+                {
+                    "name": "D. Swierstra",
+                    "score": "4"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "F. Henglein",
+                    "score": "14"
+                },
+                {
+                    "name": "P. Trinder",
+                    "score": "11"
+                },
+                {
+                    "name": "K. Larsen",
+                    "score": "7"
+                },
+                {
+                    "name": "L. Fegaras",
+                    "score": "6"
+                },
+                {
+                    "name": "J. Jeuring",
+                    "score": "5"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "James Popple",
+        "ire_wiki_id": 884,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Edwina L. Rissland",
+                    "score": "28"
+                },
+                {
+                    "name": "Kevin D. Ashley",
+                    "score": "20"
+                },
+                {
+                    "name": "L. T. McCarty",
+                    "score": "19"
+                },
+                {
+                    "name": "A. Tyree",
+                    "score": "14"
+                },
+                {
+                    "name": "D. B. Skalak",
+                    "score": "14"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Thomas A. O'Callaghan",
+                    "score": "15"
+                },
+                {
+                    "name": "J. Neves",
+                    "score": "12"
+                },
+                {
+                    "name": "P. Novais",
+                    "score": "12"
+                },
+                {
+                    "name": "Davide Carneiro",
+                    "score": "12"
+                },
+                {
+                    "name": "John Zeleznikow",
+                    "score": "12"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "David Ungar",
+        "ire_wiki_id": 886,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "C. Chambers",
+                    "score": "203"
+                },
+                {
+                    "name": "Randall B. Smith",
+                    "score": "150"
+                },
+                {
+                    "name": "Urs H\u00f6lzle",
+                    "score": "110"
+                },
+                {
+                    "name": "B. Chang",
+                    "score": "54"
+                },
+                {
+                    "name": "Ralph E. Johnson",
+                    "score": "50"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "C. Chambers",
+                    "score": "303"
+                },
+                {
+                    "name": "Urs H\u00f6lzle",
+                    "score": "229"
+                },
+                {
+                    "name": "St\u00e9phane Ducasse",
+                    "score": "173"
+                },
+                {
+                    "name": "Randall B. Smith",
+                    "score": "153"
+                },
+                {
+                    "name": "K. McKinley",
+                    "score": "124"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Adji Bousso Dieng",
+        "ire_wiki_id": 890,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "David M. Blei",
+                    "score": "101"
+                },
+                {
+                    "name": "Diederik P. Kingma",
+                    "score": "51"
+                },
+                {
+                    "name": "Yoshua Bengio",
+                    "score": "48"
+                },
+                {
+                    "name": "R. Salakhutdinov",
+                    "score": "47"
+                },
+                {
+                    "name": "S. Mohamed",
+                    "score": "40"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "David M. Blei",
+                    "score": "77"
+                },
+                {
+                    "name": "R. Ranganath",
+                    "score": "26"
+                },
+                {
+                    "name": "Dustin Tran",
+                    "score": "26"
+                },
+                {
+                    "name": "Francisco J. R. Ruiz",
+                    "score": "24"
+                },
+                {
+                    "name": "S. Mandt",
+                    "score": "21"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Dan Jurafsky",
+        "ire_wiki_id": 939,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Christopher D. Manning",
+                    "score": "576"
+                },
+                {
+                    "name": "A. Ng",
+                    "score": "191"
+                },
+                {
+                    "name": "Ilya Sutskever",
+                    "score": "158"
+                },
+                {
+                    "name": "E. Shriberg",
+                    "score": "149"
+                },
+                {
+                    "name": "Noah A. Smith",
+                    "score": "148"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Christopher D. Manning",
+                    "score": "358"
+                },
+                {
+                    "name": "E. Hovy",
+                    "score": "245"
+                },
+                {
+                    "name": "Ting Liu",
+                    "score": "242"
+                },
+                {
+                    "name": "D. Roth",
+                    "score": "223"
+                },
+                {
+                    "name": "Alessandro Moschitti",
+                    "score": "214"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Tim Finin",
+        "ire_wiki_id": 981,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "A. Joshi",
+                    "score": "1779"
+                },
+                {
+                    "name": "Lalana Kagal",
+                    "score": "516"
+                },
+                {
+                    "name": "Yun Peng",
+                    "score": "374"
+                },
+                {
+                    "name": "Y. Yesha",
+                    "score": "356"
+                },
+                {
+                    "name": "J. Mayfield",
+                    "score": "322"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "A. Joshi",
+                    "score": "1735"
+                },
+                {
+                    "name": "Lalana Kagal",
+                    "score": "420"
+                },
+                {
+                    "name": "J. Mayfield",
+                    "score": "369"
+                },
+                {
+                    "name": "Y. Yesha",
+                    "score": "350"
+                },
+                {
+                    "name": "Yun Peng",
+                    "score": "343"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Martha E. Pollack",
+        "ire_wiki_id": 988,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "I. Tsamardinos",
+                    "score": "138"
+                },
+                {
+                    "name": "Philip R. Cohen",
+                    "score": "121"
+                },
+                {
+                    "name": "Daniel S. Weld",
+                    "score": "121"
+                },
+                {
+                    "name": "J. Morgan",
+                    "score": "118"
+                },
+                {
+                    "name": "Bart Peintner",
+                    "score": "116"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "A. Memon",
+                    "score": "197"
+                },
+                {
+                    "name": "R. M. Young",
+                    "score": "160"
+                },
+                {
+                    "name": "Bart Peintner",
+                    "score": "135"
+                },
+                {
+                    "name": "M. Wooldridge",
+                    "score": "128"
+                },
+                {
+                    "name": "M. Walker",
+                    "score": "126"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Jiawei Han",
+        "ire_wiki_id": 1002,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Philip S. Yu",
+                    "score": "1172"
+                },
+                {
+                    "name": "Xifeng Yan",
+                    "score": "972"
+                },
+                {
+                    "name": "R. Agrawal",
+                    "score": "930"
+                },
+                {
+                    "name": "J. Pei",
+                    "score": "906"
+                },
+                {
+                    "name": "Yizhou Sun",
+                    "score": "839"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Philip S. Yu",
+                    "score": "2018"
+                },
+                {
+                    "name": "C. Aggarwal",
+                    "score": "1101"
+                },
+                {
+                    "name": "Xifeng Yan",
+                    "score": "973"
+                },
+                {
+                    "name": "J. Pei",
+                    "score": "928"
+                },
+                {
+                    "name": "Yizhou Sun",
+                    "score": "903"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Bernardo Huberman",
+        "ire_wiki_id": 1008,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "T. Hogg",
+                    "score": "460"
+                },
+                {
+                    "name": "Fang Wu",
+                    "score": "262"
+                },
+                {
+                    "name": "Lada A. Adamic",
+                    "score": "163"
+                },
+                {
+                    "name": "N. Glance",
+                    "score": "126"
+                },
+                {
+                    "name": "D. Wilkinson",
+                    "score": "105"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "T. Hogg",
+                    "score": "579"
+                },
+                {
+                    "name": "Fang Wu",
+                    "score": "220"
+                },
+                {
+                    "name": "Lada A. Adamic",
+                    "score": "187"
+                },
+                {
+                    "name": "Kristina Lerman",
+                    "score": "181"
+                },
+                {
+                    "name": "S. Asur",
+                    "score": "156"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Anima Anandkumar",
+        "ire_wiki_id": 1042,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Kakade",
+                    "score": "311"
+                },
+                {
+                    "name": "Rong Ge",
+                    "score": "268"
+                },
+                {
+                    "name": "Daniel J. Hsu",
+                    "score": "263"
+                },
+                {
+                    "name": "K. Azizzadenesheli",
+                    "score": "247"
+                },
+                {
+                    "name": "Kaiming He",
+                    "score": "202"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "K. Azizzadenesheli",
+                    "score": "290"
+                },
+                {
+                    "name": "Furong Huang",
+                    "score": "230"
+                },
+                {
+                    "name": "Rong Ge",
+                    "score": "215"
+                },
+                {
+                    "name": "Majid Janzamin",
+                    "score": "181"
+                },
+                {
+                    "name": "A. Anandkumar",
+                    "score": "173"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Arianna W. Rosenbluth",
+        "ire_wiki_id": 1045,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "A. H. Teller",
+                    "score": "19"
+                },
+                {
+                    "name": "M. Rosenbluth",
+                    "score": "14"
+                },
+                {
+                    "name": "N. Metropolis",
+                    "score": "14"
+                },
+                {
+                    "name": "M. Rosen",
+                    "score": "9"
+                },
+                {
+                    "name": "V. Rao",
+                    "score": "9"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "F. Liang",
+                    "score": "87"
+                },
+                {
+                    "name": "Xinyuan Song",
+                    "score": "82"
+                },
+                {
+                    "name": "K. Binder",
+                    "score": "75"
+                },
+                {
+                    "name": "Y. Okamoto",
+                    "score": "70"
+                },
+                {
+                    "name": "J. Vrugt",
+                    "score": "70"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Maarten de Rijke",
+        "ire_wiki_id": 1089,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "T. Joachims",
+                    "score": "730"
+                },
+                {
+                    "name": "K. Balog",
+                    "score": "704"
+                },
+                {
+                    "name": "W. Croft",
+                    "score": "664"
+                },
+                {
+                    "name": "Nick Craswell",
+                    "score": "613"
+                },
+                {
+                    "name": "W. Weerkamp",
+                    "score": "605"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "K. Balog",
+                    "score": "797"
+                },
+                {
+                    "name": "W. Weerkamp",
+                    "score": "694"
+                },
+                {
+                    "name": "E. Meij",
+                    "score": "632"
+                },
+                {
+                    "name": "J. Kamps",
+                    "score": "512"
+                },
+                {
+                    "name": "Z. Ren",
+                    "score": "487"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Terry Sejnowski",
+        "ire_wiki_id": 1104,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "M. Steriade",
+                    "score": "1197"
+                },
+                {
+                    "name": "D. McCormick",
+                    "score": "736"
+                },
+                {
+                    "name": "A. Destexhe",
+                    "score": "730"
+                },
+                {
+                    "name": "T. Bartol",
+                    "score": "649"
+                },
+                {
+                    "name": "M. Bazhenov",
+                    "score": "648"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "S. Makeig",
+                    "score": "1402"
+                },
+                {
+                    "name": "M. Bazhenov",
+                    "score": "1188"
+                },
+                {
+                    "name": "T. Jung",
+                    "score": "1098"
+                },
+                {
+                    "name": "V. Calhoun",
+                    "score": "1033"
+                },
+                {
+                    "name": "I. Timofeev",
+                    "score": "853"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Valeria de Paiva",
+        "ire_wiki_id": 1136,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Alexandre Rademaker",
+                    "score": "216"
+                },
+                {
+                    "name": "Dick Crouch",
+                    "score": "178"
+                },
+                {
+                    "name": "Livy Real",
+                    "score": "140"
+                },
+                {
+                    "name": "C. Condoravdi",
+                    "score": "140"
+                },
+                {
+                    "name": "Eike Ritter",
+                    "score": "135"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Alexandre Rademaker",
+                    "score": "302"
+                },
+                {
+                    "name": "Livy Real",
+                    "score": "160"
+                },
+                {
+                    "name": "Eike Ritter",
+                    "score": "123"
+                },
+                {
+                    "name": "Dick Crouch",
+                    "score": "104"
+                },
+                {
+                    "name": "Fabricio Chalub",
+                    "score": "89"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Gerhard Weikum",
+        "ire_wiki_id": 1140,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Fabian M. Suchanek",
+                    "score": "872"
+                },
+                {
+                    "name": "R. Schenkel",
+                    "score": "478"
+                },
+                {
+                    "name": "M. Theobald",
+                    "score": "456"
+                },
+                {
+                    "name": "Oren Etzioni",
+                    "score": "437"
+                },
+                {
+                    "name": "Sebastian Michel",
+                    "score": "424"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Fabian M. Suchanek",
+                    "score": "685"
+                },
+                {
+                    "name": "R. Schenkel",
+                    "score": "645"
+                },
+                {
+                    "name": "M. Theobald",
+                    "score": "545"
+                },
+                {
+                    "name": "K. Berberich",
+                    "score": "470"
+                },
+                {
+                    "name": "Sebastian Michel",
+                    "score": "461"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Zhou Zhi-Hua",
+        "ire_wiki_id": 1146,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "B. Liu",
+                    "score": "54"
+                },
+                {
+                    "name": "Arjun Mukherjee",
+                    "score": "42"
+                },
+                {
+                    "name": "Yongxin Tong",
+                    "score": "34"
+                },
+                {
+                    "name": "Lei Chen",
+                    "score": "32"
+                },
+                {
+                    "name": "M. Lau",
+                    "score": "31"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "M. Lau",
+                    "score": "31"
+                },
+                {
+                    "name": "J. Jiang",
+                    "score": "22"
+                },
+                {
+                    "name": "P. Guo",
+                    "score": "13"
+                },
+                {
+                    "name": "T. Ho",
+                    "score": "13"
+                },
+                {
+                    "name": "Jian Zuo",
+                    "score": "12"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Sylvia Ratnasamy",
+        "ire_wiki_id": 1211,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Shenker",
+                    "score": "659"
+                },
+                {
+                    "name": "I. Stoica",
+                    "score": "368"
+                },
+                {
+                    "name": "H. Balakrishnan",
+                    "score": "177"
+                },
+                {
+                    "name": "R. Morris",
+                    "score": "154"
+                },
+                {
+                    "name": "M. Handley",
+                    "score": "140"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "S. Shenker",
+                    "score": "557"
+                },
+                {
+                    "name": "I. Stoica",
+                    "score": "302"
+                },
+                {
+                    "name": "Haiying Shen",
+                    "score": "266"
+                },
+                {
+                    "name": "R. Govindan",
+                    "score": "193"
+                },
+                {
+                    "name": "A. Krishnamurthy",
+                    "score": "180"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Pietro Perona",
+        "ire_wiki_id": 1212,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Andrew Zisserman",
+                    "score": "476"
+                },
+                {
+                    "name": "Serge J. Belongie",
+                    "score": "353"
+                },
+                {
+                    "name": "Li Fei-Fei",
+                    "score": "322"
+                },
+                {
+                    "name": "Stefano Soatto",
+                    "score": "271"
+                },
+                {
+                    "name": "Jitendra Malik",
+                    "score": "246"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Li Fei-Fei",
+                    "score": "586"
+                },
+                {
+                    "name": "Stefano Soatto",
+                    "score": "454"
+                },
+                {
+                    "name": "B. Schiele",
+                    "score": "441"
+                },
+                {
+                    "name": "D. Tao",
+                    "score": "414"
+                },
+                {
+                    "name": "Serge J. Belongie",
+                    "score": "412"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Charles H. Lindsey",
+        "ire_wiki_id": 1216,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Glenn Kirchner",
+                    "score": "2"
+                },
+                {
+                    "name": "J. Lockwood",
+                    "score": "1"
+                },
+                {
+                    "name": "L. G. Seils",
+                    "score": "1"
+                },
+                {
+                    "name": "C. A. Ellwood",
+                    "score": "1"
+                },
+                {
+                    "name": "J. Seeman",
+                    "score": "1"
+                }
+            ],
+            "influenced": []
+        }
+    },
+    {
+        "ire_person_name": "Pedro Domingos",
+        "ire_wiki_id": 1219,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Daniel S. Weld",
+                    "score": "214"
+                },
+                {
+                    "name": "Matthew Richardson",
+                    "score": "213"
+                },
+                {
+                    "name": "Parag Singla",
+                    "score": "194"
+                },
+                {
+                    "name": "Stanley Kok",
+                    "score": "183"
+                },
+                {
+                    "name": "Hoifung Poon",
+                    "score": "171"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "K. Kersting",
+                    "score": "726"
+                },
+                {
+                    "name": "Guy Van den Broeck",
+                    "score": "426"
+                },
+                {
+                    "name": "R. Mooney",
+                    "score": "424"
+                },
+                {
+                    "name": "F. Esposito",
+                    "score": "366"
+                },
+                {
+                    "name": "Parag Singla",
+                    "score": "365"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Mikkel Thorup",
+        "ire_wiki_id": 1244,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "R. Tarjan",
+                    "score": "361"
+                },
+                {
+                    "name": "M. Fredman",
+                    "score": "255"
+                },
+                {
+                    "name": "N. Duffield",
+                    "score": "190"
+                },
+                {
+                    "name": "C. Lund",
+                    "score": "185"
+                },
+                {
+                    "name": "M. Henzinger",
+                    "score": "173"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Haim Kaplan",
+                    "score": "328"
+                },
+                {
+                    "name": "Seth Pettie",
+                    "score": "314"
+                },
+                {
+                    "name": "Liam Roditty",
+                    "score": "268"
+                },
+                {
+                    "name": "Surender Baswana",
+                    "score": "267"
+                },
+                {
+                    "name": "M. Henzinger",
+                    "score": "256"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Kunle Olukotun",
+        "ire_wiki_id": 1291,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "C. Kozyrakis",
+                    "score": "386"
+                },
+                {
+                    "name": "H. Chafi",
+                    "score": "344"
+                },
+                {
+                    "name": "L. Hammond",
+                    "score": "267"
+                },
+                {
+                    "name": "Tiark Rompf",
+                    "score": "243"
+                },
+                {
+                    "name": "Kevin J. Brown",
+                    "score": "220"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "C. Kozyrakis",
+                    "score": "427"
+                },
+                {
+                    "name": "Tiark Rompf",
+                    "score": "402"
+                },
+                {
+                    "name": "M. Valero",
+                    "score": "301"
+                },
+                {
+                    "name": "H. Chafi",
+                    "score": "299"
+                },
+                {
+                    "name": "O. Unsal",
+                    "score": "254"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Roberto Ierusalimschy",
+        "ire_wiki_id": 1355,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Noemi Rodriguez",
+                    "score": "213"
+                },
+                {
+                    "name": "L. Figueiredo",
+                    "score": "113"
+                },
+                {
+                    "name": "Francisco Sant'Anna",
+                    "score": "95"
+                },
+                {
+                    "name": "Waldemar Celes Filho",
+                    "score": "87"
+                },
+                {
+                    "name": "Fabio Mascarenhas",
+                    "score": "73"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Noemi Rodriguez",
+                    "score": "309"
+                },
+                {
+                    "name": "Fabio Mascarenhas",
+                    "score": "138"
+                },
+                {
+                    "name": "Francisco Sant'Anna",
+                    "score": "126"
+                },
+                {
+                    "name": "L. Figueiredo",
+                    "score": "97"
+                },
+                {
+                    "name": "Renato Cerqueira",
+                    "score": "92"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Barbara Liskov",
+        "ire_wiki_id": 1368,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "L. Shrira",
+                    "score": "310"
+                },
+                {
+                    "name": "M. Castro",
+                    "score": "233"
+                },
+                {
+                    "name": "A. Myers",
+                    "score": "202"
+                },
+                {
+                    "name": "R. Gruber",
+                    "score": "171"
+                },
+                {
+                    "name": "A. Adya",
+                    "score": "150"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "L. Shrira",
+                    "score": "364"
+                },
+                {
+                    "name": "A. Bessani",
+                    "score": "353"
+                },
+                {
+                    "name": "A. Myers",
+                    "score": "340"
+                },
+                {
+                    "name": "M. Correia",
+                    "score": "295"
+                },
+                {
+                    "name": "G. Leavens",
+                    "score": "236"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Nigel Shadbolt",
+        "ire_wiki_id": 1448,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "K. O\u2019Hara",
+                    "score": "733"
+                },
+                {
+                    "name": "W. Hall",
+                    "score": "536"
+                },
+                {
+                    "name": "Harith Alani",
+                    "score": "479"
+                },
+                {
+                    "name": "Nicholas Gibbins",
+                    "score": "425"
+                },
+                {
+                    "name": "M. V. Kleek",
+                    "score": "345"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "K. O\u2019Hara",
+                    "score": "824"
+                },
+                {
+                    "name": "W. Hall",
+                    "score": "578"
+                },
+                {
+                    "name": "P. Smart",
+                    "score": "498"
+                },
+                {
+                    "name": "Harith Alani",
+                    "score": "461"
+                },
+                {
+                    "name": "Nicholas Gibbins",
+                    "score": "358"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Werner Buchholz",
+        "ire_wiki_id": 1475,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "A. Padegs",
+                    "score": "13"
+                },
+                {
+                    "name": "B. Moore",
+                    "score": "10"
+                },
+                {
+                    "name": "Ronald M. Smith",
+                    "score": "10"
+                },
+                {
+                    "name": "N. Rochester",
+                    "score": "7"
+                },
+                {
+                    "name": "C. Bashe",
+                    "score": "6"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "S. Vassiliadis",
+                    "score": "28"
+                },
+                {
+                    "name": "D. Patterson",
+                    "score": "26"
+                },
+                {
+                    "name": "G. Kuzmanov",
+                    "score": "25"
+                },
+                {
+                    "name": "G. Gaydadjiev",
+                    "score": "24"
+                },
+                {
+                    "name": "Yunsup Lee",
+                    "score": "23"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Lee Giles",
+        "ire_wiki_id": 1541,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "C. Lee Giles",
+                    "score": "25"
+                },
+                {
+                    "name": "Nathan Warnberg",
+                    "score": "20"
+                },
+                {
+                    "name": "Michael Young",
+                    "score": "18"
+                },
+                {
+                    "name": "Ronald J. Williams",
+                    "score": "16"
+                },
+                {
+                    "name": "G. Sun",
+                    "score": "15"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "C. Dunis",
+                    "score": "46"
+                },
+                {
+                    "name": "R. Ghazali",
+                    "score": "44"
+                },
+                {
+                    "name": "A. Hussain",
+                    "score": "38"
+                },
+                {
+                    "name": "Jason Laws",
+                    "score": "32"
+                },
+                {
+                    "name": "C. Lee Giles",
+                    "score": "30"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Chuck Easttom",
+        "ire_wiki_id": 1584,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Emmett A. Dulaney",
+                    "score": "22"
+                },
+                {
+                    "name": "I. Alsmadi",
+                    "score": "21"
+                },
+                {
+                    "name": "M. Adda",
+                    "score": "15"
+                },
+                {
+                    "name": "A. Grocholewska-Czurylo",
+                    "score": "13"
+                },
+                {
+                    "name": "V. Rijmen",
+                    "score": "13"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Emmett A. Dulaney",
+                    "score": "22"
+                },
+                {
+                    "name": "I. Alsmadi",
+                    "score": "20"
+                },
+                {
+                    "name": "M. Adda",
+                    "score": "18"
+                },
+                {
+                    "name": "S. R. Christy",
+                    "score": "9"
+                },
+                {
+                    "name": "W. Butler",
+                    "score": "9"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Margaret Burnett",
+        "ire_wiki_id": 1594,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "B. Myers",
+                    "score": "811"
+                },
+                {
+                    "name": "G. Rothermel",
+                    "score": "623"
+                },
+                {
+                    "name": "C. Cook",
+                    "score": "608"
+                },
+                {
+                    "name": "Amy J. Ko",
+                    "score": "504"
+                },
+                {
+                    "name": "L. Beckwith",
+                    "score": "494"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "G. Rothermel",
+                    "score": "581"
+                },
+                {
+                    "name": "B. Myers",
+                    "score": "429"
+                },
+                {
+                    "name": "C. Cook",
+                    "score": "395"
+                },
+                {
+                    "name": "A. Sarma",
+                    "score": "390"
+                },
+                {
+                    "name": "Amy J. Ko",
+                    "score": "370"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Alexander Stepanov",
+        "ire_wiki_id": 1669,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "V. Shcheglov",
+                    "score": "373"
+                },
+                {
+                    "name": "A. Oraevski\u01d0",
+                    "score": "69"
+                },
+                {
+                    "name": "T. Leshina",
+                    "score": "64"
+                },
+                {
+                    "name": "M. Miranda",
+                    "score": "45"
+                },
+                {
+                    "name": "I. Bel'dyugin",
+                    "score": "41"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "V. Shcheglov",
+                    "score": "362"
+                },
+                {
+                    "name": "A. Oraevski\u01d0",
+                    "score": "60"
+                },
+                {
+                    "name": "T. Leshina",
+                    "score": "45"
+                },
+                {
+                    "name": "N. A. Konoplev",
+                    "score": "37"
+                },
+                {
+                    "name": "I. Bel'dyugin",
+                    "score": "36"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Marc Alexa",
+        "ire_wiki_id": 1702,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "D. Cohen-Or",
+                    "score": "223"
+                },
+                {
+                    "name": "M. Gross",
+                    "score": "189"
+                },
+                {
+                    "name": "H. Seidel",
+                    "score": "175"
+                },
+                {
+                    "name": "L. Kobbelt",
+                    "score": "156"
+                },
+                {
+                    "name": "S. Rusinkiewicz",
+                    "score": "145"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "H. Seidel",
+                    "score": "289"
+                },
+                {
+                    "name": "D. Cohen-Or",
+                    "score": "284"
+                },
+                {
+                    "name": "M. Gross",
+                    "score": "263"
+                },
+                {
+                    "name": "T. Boubekeur",
+                    "score": "214"
+                },
+                {
+                    "name": "O. Sorkine-Hornung",
+                    "score": "207"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Steven Salzberg",
+        "ire_wiki_id": 1714,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "O. White",
+                    "score": "651"
+                },
+                {
+                    "name": "A. Delcher",
+                    "score": "550"
+                },
+                {
+                    "name": "C. Fraser",
+                    "score": "410"
+                },
+                {
+                    "name": "M. Pertea",
+                    "score": "371"
+                },
+                {
+                    "name": "D. Puiu",
+                    "score": "370"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "C. Buell",
+                    "score": "696"
+                },
+                {
+                    "name": "M. Schatz",
+                    "score": "668"
+                },
+                {
+                    "name": "A. Phillippy",
+                    "score": "600"
+                },
+                {
+                    "name": "C. Fraser",
+                    "score": "585"
+                },
+                {
+                    "name": "M. Berriman",
+                    "score": "548"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Wang Jun (scientist)",
+        "ire_wiki_id": 1782,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Yingrui Li",
+                    "score": "520"
+                },
+                {
+                    "name": "K. Kristiansen",
+                    "score": "467"
+                },
+                {
+                    "name": "H. Yang",
+                    "score": "415"
+                },
+                {
+                    "name": "R. Durbin",
+                    "score": "393"
+                },
+                {
+                    "name": "Xiuqing Zhang",
+                    "score": "327"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Xun Xu",
+                    "score": "470"
+                },
+                {
+                    "name": "H. Yang",
+                    "score": "451"
+                },
+                {
+                    "name": "R. Varshney",
+                    "score": "436"
+                },
+                {
+                    "name": "Yingrui Li",
+                    "score": "389"
+                },
+                {
+                    "name": "K. Kristiansen",
+                    "score": "293"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "R\u00f3zsa P\u00e9ter",
+        "ire_wiki_id": 1806,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Kleene",
+                    "score": "9"
+                },
+                {
+                    "name": "R. Goodstein",
+                    "score": "4"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "B. Jay",
+                    "score": "13"
+                },
+                {
+                    "name": "P. Wadler",
+                    "score": "13"
+                },
+                {
+                    "name": "R. Soare",
+                    "score": "11"
+                },
+                {
+                    "name": "S. Kleene",
+                    "score": "10"
+                },
+                {
+                    "name": "J. Palsberg",
+                    "score": "9"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Michael Franz",
+        "ire_wiki_id": 1822,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Per Larsen",
+                    "score": "415"
+                },
+                {
+                    "name": "Stefan Brunthaler",
+                    "score": "283"
+                },
+                {
+                    "name": "A. Sadeghi",
+                    "score": "262"
+                },
+                {
+                    "name": "Lucas Davi",
+                    "score": "242"
+                },
+                {
+                    "name": "Christopher Liebchen",
+                    "score": "163"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Per Larsen",
+                    "score": "447"
+                },
+                {
+                    "name": "A. Sadeghi",
+                    "score": "287"
+                },
+                {
+                    "name": "Stefan Brunthaler",
+                    "score": "232"
+                },
+                {
+                    "name": "Stijn Volckaert",
+                    "score": "214"
+                },
+                {
+                    "name": "Stephen Crane",
+                    "score": "204"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Ben Shneiderman",
+        "ire_wiki_id": 1831,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "C. Plaisant",
+                    "score": "1564"
+                },
+                {
+                    "name": "S. Card",
+                    "score": "378"
+                },
+                {
+                    "name": "J. Mackinlay",
+                    "score": "270"
+                },
+                {
+                    "name": "Marc A. Smith",
+                    "score": "244"
+                },
+                {
+                    "name": "G. Marchionini",
+                    "score": "243"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "C. Plaisant",
+                    "score": "1747"
+                },
+                {
+                    "name": "D. Keim",
+                    "score": "424"
+                },
+                {
+                    "name": "B. Bederson",
+                    "score": "378"
+                },
+                {
+                    "name": "C. North",
+                    "score": "377"
+                },
+                {
+                    "name": "J. Stasko",
+                    "score": "316"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Douglas Lenat",
+        "ire_wiki_id": 1859,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "R. Guha",
+                    "score": "79"
+                },
+                {
+                    "name": "M. Witbrock",
+                    "score": "56"
+                },
+                {
+                    "name": "David Schneider",
+                    "score": "35"
+                },
+                {
+                    "name": "R. Kahlert",
+                    "score": "35"
+                },
+                {
+                    "name": "Cynthia Matuszek",
+                    "score": "34"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "G. Weikum",
+                    "score": "111"
+                },
+                {
+                    "name": "M. Witbrock",
+                    "score": "96"
+                },
+                {
+                    "name": "R. Guha",
+                    "score": "74"
+                },
+                {
+                    "name": "G. Zarri",
+                    "score": "73"
+                },
+                {
+                    "name": "B. Buchanan",
+                    "score": "71"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Amy S. Bruckman",
+        "ire_wiki_id": 1872,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "M. Guzdial",
+                    "score": "140"
+                },
+                {
+                    "name": "Casey Fiesler",
+                    "score": "139"
+                },
+                {
+                    "name": "M. Resnick",
+                    "score": "106"
+                },
+                {
+                    "name": "Andrea Forte",
+                    "score": "104"
+                },
+                {
+                    "name": "Eric Gilbert",
+                    "score": "103"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Casey Fiesler",
+                    "score": "248"
+                },
+                {
+                    "name": "M. Guzdial",
+                    "score": "121"
+                },
+                {
+                    "name": "Andrea Forte",
+                    "score": "118"
+                },
+                {
+                    "name": "Y. Kafai",
+                    "score": "108"
+                },
+                {
+                    "name": "Shagun Jhaver",
+                    "score": "96"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Katie Bouman",
+        "ire_wiki_id": 1886,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Doeleman",
+                    "score": "342"
+                },
+                {
+                    "name": "V. Fish",
+                    "score": "241"
+                },
+                {
+                    "name": "Michael D. Johnson",
+                    "score": "235"
+                },
+                {
+                    "name": "A. Broderick",
+                    "score": "178"
+                },
+                {
+                    "name": "K. Akiyama",
+                    "score": "162"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Michael D. Johnson",
+                    "score": "177"
+                },
+                {
+                    "name": "S. Doeleman",
+                    "score": "159"
+                },
+                {
+                    "name": "K. Akiyama",
+                    "score": "158"
+                },
+                {
+                    "name": "A. Chael",
+                    "score": "140"
+                },
+                {
+                    "name": "W. Freeman",
+                    "score": "114"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Jonathan Bowen",
+        "ire_wiki_id": 1891,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Jifeng He",
+                    "score": "432"
+                },
+                {
+                    "name": "Peter T. Breuer",
+                    "score": "416"
+                },
+                {
+                    "name": "M. Hinchey",
+                    "score": "384"
+                },
+                {
+                    "name": "C. Hoare",
+                    "score": "311"
+                },
+                {
+                    "name": "Huibiao Zhu",
+                    "score": "173"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Peter T. Breuer",
+                    "score": "453"
+                },
+                {
+                    "name": "M. Hinchey",
+                    "score": "416"
+                },
+                {
+                    "name": "Jifeng He",
+                    "score": "275"
+                },
+                {
+                    "name": "Tula Giannini",
+                    "score": "210"
+                },
+                {
+                    "name": "Huibiao Zhu",
+                    "score": "177"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Isaac L. Auerbach",
+        "ire_wiki_id": 1928,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Gridley R. E. Meagher",
+                    "score": "9"
+                },
+                {
+                    "name": "William H. Burkhart",
+                    "score": "9"
+                },
+                {
+                    "name": "Davidr . Brown",
+                    "score": "9"
+                },
+                {
+                    "name": "J. Hill",
+                    "score": "9"
+                },
+                {
+                    "name": "S. B. Disson",
+                    "score": "9"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "K. Chow",
+                    "score": "12"
+                },
+                {
+                    "name": "R. Overill",
+                    "score": "12"
+                },
+                {
+                    "name": "Gridley R. E. Meagher",
+                    "score": "9"
+                },
+                {
+                    "name": "William H. Burkhart",
+                    "score": "9"
+                },
+                {
+                    "name": "Davidr . Brown",
+                    "score": "9"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Andr\u00e1s Kornai",
+        "ire_wiki_id": 1960,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "P\u00e9ter Hal\u00e1csy",
+                    "score": "104"
+                },
+                {
+                    "name": "G\u00e1bor Recski",
+                    "score": "97"
+                },
+                {
+                    "name": "Judit \u00c1cs",
+                    "score": "74"
+                },
+                {
+                    "name": "D\u00e1niel Varga",
+                    "score": "68"
+                },
+                {
+                    "name": "Christopher D. Manning",
+                    "score": "68"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "G\u00e1bor Recski",
+                    "score": "147"
+                },
+                {
+                    "name": "P\u00e9ter Hal\u00e1csy",
+                    "score": "97"
+                },
+                {
+                    "name": "Judit \u00c1cs",
+                    "score": "86"
+                },
+                {
+                    "name": "D\u00e1niel Varga",
+                    "score": "77"
+                },
+                {
+                    "name": "M\u00e1rton Makrai",
+                    "score": "70"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Christine Muschik",
+        "ire_wiki_id": 1979,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Cirac",
+                    "score": "280"
+                },
+                {
+                    "name": "E. Polzik",
+                    "score": "246"
+                },
+                {
+                    "name": "P. Zoller",
+                    "score": "220"
+                },
+                {
+                    "name": "R. Blatt",
+                    "score": "103"
+                },
+                {
+                    "name": "M. Lewenstein",
+                    "score": "94"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "E. Polzik",
+                    "score": "107"
+                },
+                {
+                    "name": "P. Zoller",
+                    "score": "80"
+                },
+                {
+                    "name": "J. Cirac",
+                    "score": "78"
+                },
+                {
+                    "name": "M. Lewenstein",
+                    "score": "74"
+                },
+                {
+                    "name": "K. Jansen",
+                    "score": "70"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Pamela Cosman",
+        "ire_wiki_id": 1986,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "L. Milstein",
+                    "score": "719"
+                },
+                {
+                    "name": "R. Gray",
+                    "score": "300"
+                },
+                {
+                    "name": "R. Olshen",
+                    "score": "169"
+                },
+                {
+                    "name": "E. Riskin",
+                    "score": "160"
+                },
+                {
+                    "name": "B. Girod",
+                    "score": "157"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "L. Milstein",
+                    "score": "707"
+                },
+                {
+                    "name": "R. Gray",
+                    "score": "212"
+                },
+                {
+                    "name": "R. Olshen",
+                    "score": "169"
+                },
+                {
+                    "name": "Seok-Ho Chang",
+                    "score": "149"
+                },
+                {
+                    "name": "W. Schafer",
+                    "score": "120"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Lorraine Borman",
+        "ire_wiki_id": 1995,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "B. Mittman",
+                    "score": "19"
+                },
+                {
+                    "name": "Richard Hay",
+                    "score": "14"
+                },
+                {
+                    "name": "Rosemary Karr",
+                    "score": "13"
+                },
+                {
+                    "name": "G. Marks",
+                    "score": "13"
+                },
+                {
+                    "name": "G. Suski",
+                    "score": "9"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "B. Mittman",
+                    "score": "18"
+                },
+                {
+                    "name": "J. Grudin",
+                    "score": "16"
+                },
+                {
+                    "name": "G. Marks",
+                    "score": "14"
+                },
+                {
+                    "name": "Rosemary Karr",
+                    "score": "13"
+                },
+                {
+                    "name": "Richard Hay",
+                    "score": "13"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Victor M. Markowitz",
+        "ire_wiki_id": 2058,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "N. Kyrpides",
+                    "score": "4524"
+                },
+                {
+                    "name": "H. Klenk",
+                    "score": "2603"
+                },
+                {
+                    "name": "P. Hugenholtz",
+                    "score": "2574"
+                },
+                {
+                    "name": "Amrita Pati",
+                    "score": "2550"
+                },
+                {
+                    "name": "A. Lapidus",
+                    "score": "2160"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "N. Kyrpides",
+                    "score": "4507"
+                },
+                {
+                    "name": "T. Woyke",
+                    "score": "3423"
+                },
+                {
+                    "name": "Amrita Pati",
+                    "score": "3281"
+                },
+                {
+                    "name": "H. Klenk",
+                    "score": "3116"
+                },
+                {
+                    "name": "N. Ivanova",
+                    "score": "3052"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Marina Jirotka",
+        "ire_wiki_id": 2095,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "P. Luff",
+                    "score": "198"
+                },
+                {
+                    "name": "Helena Webb",
+                    "score": "174"
+                },
+                {
+                    "name": "M. Hartswood",
+                    "score": "171"
+                },
+                {
+                    "name": "R. Procter",
+                    "score": "165"
+                },
+                {
+                    "name": "C. Heath",
+                    "score": "151"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Helena Webb",
+                    "score": "198"
+                },
+                {
+                    "name": "R. Procter",
+                    "score": "151"
+                },
+                {
+                    "name": "P. Luff",
+                    "score": "142"
+                },
+                {
+                    "name": "G. Eden",
+                    "score": "134"
+                },
+                {
+                    "name": "M. Hartswood",
+                    "score": "128"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Emin G\u00fcn Sirer",
+        "ire_wiki_id": 2117,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "P. Druschel",
+                    "score": "147"
+                },
+                {
+                    "name": "A. Rowstron",
+                    "score": "139"
+                },
+                {
+                    "name": "B. Wong",
+                    "score": "126"
+                },
+                {
+                    "name": "R. V. Renesse",
+                    "score": "124"
+                },
+                {
+                    "name": "B. Bershad",
+                    "score": "124"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "B. Wong",
+                    "score": "133"
+                },
+                {
+                    "name": "Ittay Eyal",
+                    "score": "131"
+                },
+                {
+                    "name": "V. Ramasubramanian",
+                    "score": "111"
+                },
+                {
+                    "name": "B. Bershad",
+                    "score": "95"
+                },
+                {
+                    "name": "F. Schneider",
+                    "score": "94"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "David Bader (computer scientist)",
+        "ire_wiki_id": 2168,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Jaja",
+                    "score": "344"
+                },
+                {
+                    "name": "Kamesh Madduri",
+                    "score": "294"
+                },
+                {
+                    "name": "Guojing Cong",
+                    "score": "204"
+                },
+                {
+                    "name": "B. Moret",
+                    "score": "169"
+                },
+                {
+                    "name": "D. Ediger",
+                    "score": "169"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Kamesh Madduri",
+                    "score": "343"
+                },
+                {
+                    "name": "Oded Green",
+                    "score": "232"
+                },
+                {
+                    "name": "Henning Meyerhenke",
+                    "score": "218"
+                },
+                {
+                    "name": "Guojing Cong",
+                    "score": "213"
+                },
+                {
+                    "name": "Bernard M. E. Moret",
+                    "score": "161"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Peter Landin",
+        "ire_wiki_id": 2246,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "A. vanWijngaarden",
+                    "score": "8"
+                },
+                {
+                    "name": "J. McCarthy",
+                    "score": "7"
+                },
+                {
+                    "name": "J. C. Reynolds",
+                    "score": "7"
+                },
+                {
+                    "name": "O. Danvy",
+                    "score": "7"
+                },
+                {
+                    "name": "E. Lohse",
+                    "score": "6"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "O. Danvy",
+                    "score": "115"
+                },
+                {
+                    "name": "Ian A. Mason",
+                    "score": "50"
+                },
+                {
+                    "name": "C. Talcott",
+                    "score": "43"
+                },
+                {
+                    "name": "J. C. Reynolds",
+                    "score": "40"
+                },
+                {
+                    "name": "M. Felleisen",
+                    "score": "36"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Padhraic Smyth",
+        "ire_wiki_id": 2256,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Michael I. Jordan",
+                    "score": "235"
+                },
+                {
+                    "name": "David M. Blei",
+                    "score": "213"
+                },
+                {
+                    "name": "U. Fayyad",
+                    "score": "208"
+                },
+                {
+                    "name": "M. Steyvers",
+                    "score": "187"
+                },
+                {
+                    "name": "R. Goodman",
+                    "score": "162"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "A. Robertson",
+                    "score": "213"
+                },
+                {
+                    "name": "R. Goodman",
+                    "score": "187"
+                },
+                {
+                    "name": "H. Mannila",
+                    "score": "180"
+                },
+                {
+                    "name": "U. Fayyad",
+                    "score": "174"
+                },
+                {
+                    "name": "Jia Zeng",
+                    "score": "159"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "David A. Bader",
+        "ire_wiki_id": 2258,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Jaja",
+                    "score": "344"
+                },
+                {
+                    "name": "Kamesh Madduri",
+                    "score": "294"
+                },
+                {
+                    "name": "Guojing Cong",
+                    "score": "204"
+                },
+                {
+                    "name": "B. Moret",
+                    "score": "169"
+                },
+                {
+                    "name": "D. Ediger",
+                    "score": "169"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Kamesh Madduri",
+                    "score": "343"
+                },
+                {
+                    "name": "Oded Green",
+                    "score": "232"
+                },
+                {
+                    "name": "Henning Meyerhenke",
+                    "score": "218"
+                },
+                {
+                    "name": "Guojing Cong",
+                    "score": "213"
+                },
+                {
+                    "name": "Bernard M. E. Moret",
+                    "score": "161"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Narendra Karmarkar",
+        "ire_wiki_id": 2293,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "M. Resende",
+                    "score": "59"
+                },
+                {
+                    "name": "K. G. Ramakrishnan",
+                    "score": "41"
+                },
+                {
+                    "name": "A. Kamath",
+                    "score": "36"
+                },
+                {
+                    "name": "I. Adler",
+                    "score": "28"
+                },
+                {
+                    "name": "G. Veiga",
+                    "score": "27"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "M. Resende",
+                    "score": "149"
+                },
+                {
+                    "name": "T. Terlaky",
+                    "score": "145"
+                },
+                {
+                    "name": "Y. Ye",
+                    "score": "101"
+                },
+                {
+                    "name": "M. Todd",
+                    "score": "99"
+                },
+                {
+                    "name": "P. Pardalos",
+                    "score": "96"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Poul-Henning Kamp",
+        "ire_wiki_id": 2296,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "D. Mills",
+                    "score": "9"
+                },
+                {
+                    "name": "M. Nottingham",
+                    "score": "9"
+                },
+                {
+                    "name": "J. Norris",
+                    "score": "5"
+                },
+                {
+                    "name": "R. Pike",
+                    "score": "5"
+                },
+                {
+                    "name": "K. Thompson",
+                    "score": "5"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Y. Tamura",
+                    "score": "20"
+                },
+                {
+                    "name": "S. Yamada",
+                    "score": "15"
+                },
+                {
+                    "name": "R. Conradi",
+                    "score": "14"
+                },
+                {
+                    "name": "Jingyue Li",
+                    "score": "13"
+                },
+                {
+                    "name": "Beichen Liu",
+                    "score": "12"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Stephen C. Johnson",
+        "ire_wiki_id": 2323,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "T. S\u00f8rensen",
+                    "score": "2"
+                },
+                {
+                    "name": "R. Shepard",
+                    "score": "2"
+                },
+                {
+                    "name": "P. Sneath",
+                    "score": "2"
+                },
+                {
+                    "name": "J. H. Ward",
+                    "score": "1"
+                },
+                {
+                    "name": "L. Mcquitty",
+                    "score": "1"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "W. DeSarbo",
+                    "score": "35"
+                },
+                {
+                    "name": "L. Hubert",
+                    "score": "26"
+                },
+                {
+                    "name": "M. Brusco",
+                    "score": "23"
+                },
+                {
+                    "name": "F. Murtagh",
+                    "score": "20"
+                },
+                {
+                    "name": "U. K\u00f6the",
+                    "score": "19"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Peter H. Salus",
+        "ire_wiki_id": 2339,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Mary W. Salus",
+                    "score": "12"
+                },
+                {
+                    "name": "A. Zwicky",
+                    "score": "9"
+                },
+                {
+                    "name": "Raymond M. Schneider",
+                    "score": "9"
+                },
+                {
+                    "name": "R. Binnick",
+                    "score": "9"
+                },
+                {
+                    "name": "A. L. Vanek",
+                    "score": "9"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Kevin Crowston",
+                    "score": "79"
+                },
+                {
+                    "name": "J. Howison",
+                    "score": "63"
+                },
+                {
+                    "name": "Kangning Wei",
+                    "score": "33"
+                },
+                {
+                    "name": "S. Koch",
+                    "score": "33"
+                },
+                {
+                    "name": "Martin Michlmayr",
+                    "score": "30"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Lillian Lee (computer scientist)",
+        "ire_wiki_id": 2356,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "W. Croft",
+                    "score": "147"
+                },
+                {
+                    "name": "Cristian Danescu-Niculescu-Mizil",
+                    "score": "104"
+                },
+                {
+                    "name": "B. Pang",
+                    "score": "80"
+                },
+                {
+                    "name": "Chenhao Tan",
+                    "score": "60"
+                },
+                {
+                    "name": "J. Lafferty",
+                    "score": "60"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "E. Cambria",
+                    "score": "175"
+                },
+                {
+                    "name": "Shoushan Li",
+                    "score": "172"
+                },
+                {
+                    "name": "Oren Kurland",
+                    "score": "169"
+                },
+                {
+                    "name": "P. Bhattacharyya",
+                    "score": "156"
+                },
+                {
+                    "name": "Claire Cardie",
+                    "score": "147"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Grace Hopper",
+        "ire_wiki_id": 2361,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "H. Aiken",
+                    "score": "22"
+                },
+                {
+                    "name": "J. Mauchly",
+                    "score": "18"
+                },
+                {
+                    "name": "S. Peres",
+                    "score": "13"
+                },
+                {
+                    "name": "H. Grosch",
+                    "score": "13"
+                },
+                {
+                    "name": "M. Wilkes",
+                    "score": "9"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "H. Aiken",
+                    "score": "22"
+                },
+                {
+                    "name": "J. Mauchly",
+                    "score": "18"
+                },
+                {
+                    "name": "S. Peres",
+                    "score": "13"
+                },
+                {
+                    "name": "H. Grosch",
+                    "score": "13"
+                },
+                {
+                    "name": "B. Jesiek",
+                    "score": "11"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Alan M. Frieze",
+        "ire_wiki_id": 2367,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "B. Bollob\u00e1s",
+                    "score": "840"
+                },
+                {
+                    "name": "C. Cooper",
+                    "score": "775"
+                },
+                {
+                    "name": "M. Krivelevich",
+                    "score": "563"
+                },
+                {
+                    "name": "N. Wormald",
+                    "score": "485"
+                },
+                {
+                    "name": "M. Dyer",
+                    "score": "397"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "M. Krivelevich",
+                    "score": "786"
+                },
+                {
+                    "name": "C. Cooper",
+                    "score": "729"
+                },
+                {
+                    "name": "B. Sudakov",
+                    "score": "502"
+                },
+                {
+                    "name": "M. Dyer",
+                    "score": "378"
+                },
+                {
+                    "name": "S. Vempala",
+                    "score": "299"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Rivka Ladin",
+        "ire_wiki_id": 2461,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "B. Liskov",
+                    "score": "71"
+                },
+                {
+                    "name": "L. Shrira",
+                    "score": "38"
+                },
+                {
+                    "name": "M. Hsu",
+                    "score": "38"
+                },
+                {
+                    "name": "U. Dayal",
+                    "score": "35"
+                },
+                {
+                    "name": "K. Birman",
+                    "score": "30"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "B. Liskov",
+                    "score": "69"
+                },
+                {
+                    "name": "U. Dayal",
+                    "score": "57"
+                },
+                {
+                    "name": "M. Hsu",
+                    "score": "55"
+                },
+                {
+                    "name": "M. Shapiro",
+                    "score": "53"
+                },
+                {
+                    "name": "L. Shrira",
+                    "score": "42"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Aaron Halfaker",
+        "ire_wiki_id": 2472,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "R. Geiger",
+                    "score": "169"
+                },
+                {
+                    "name": "J. Riedl",
+                    "score": "150"
+                },
+                {
+                    "name": "L. Terveen",
+                    "score": "133"
+                },
+                {
+                    "name": "A. Kittur",
+                    "score": "108"
+                },
+                {
+                    "name": "R. Kraut",
+                    "score": "92"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "R. Geiger",
+                    "score": "131"
+                },
+                {
+                    "name": "L. Terveen",
+                    "score": "121"
+                },
+                {
+                    "name": "Benjamin Mako Hill",
+                    "score": "76"
+                },
+                {
+                    "name": "Haiyi Zhu",
+                    "score": "69"
+                },
+                {
+                    "name": "Igor Steinmacher",
+                    "score": "69"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Wendy Hall",
+        "ire_wiki_id": 2564,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "F. Cotton",
+                    "score": "71"
+                },
+                {
+                    "name": "D. Madden",
+                    "score": "32"
+                },
+                {
+                    "name": "H. Bond",
+                    "score": "26"
+                },
+                {
+                    "name": "G. Simmons",
+                    "score": "26"
+                },
+                {
+                    "name": "K. Sanford",
+                    "score": "23"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "F. Cotton",
+                    "score": "95"
+                },
+                {
+                    "name": "D. Morton",
+                    "score": "30"
+                },
+                {
+                    "name": "D. Madden",
+                    "score": "29"
+                },
+                {
+                    "name": "G. Simmons",
+                    "score": "24"
+                },
+                {
+                    "name": "H. Bond",
+                    "score": "23"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Yoky Matsuoka",
+        "ire_wiki_id": 2582,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "R. Klatzky",
+                    "score": "143"
+                },
+                {
+                    "name": "B. Brewer",
+                    "score": "113"
+                },
+                {
+                    "name": "M. V. Weghe",
+                    "score": "89"
+                },
+                {
+                    "name": "B. Dellon",
+                    "score": "86"
+                },
+                {
+                    "name": "A. Deshpande",
+                    "score": "86"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "A. Deshpande",
+                    "score": "158"
+                },
+                {
+                    "name": "R. Klatzky",
+                    "score": "136"
+                },
+                {
+                    "name": "B. Brewer",
+                    "score": "134"
+                },
+                {
+                    "name": "B. Dellon",
+                    "score": "98"
+                },
+                {
+                    "name": "E. Todorov",
+                    "score": "81"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Gloria Mark",
+        "ire_wiki_id": 2589,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "M. Czerwinski",
+                    "score": "198"
+                },
+                {
+                    "name": "Shamsi T. Iqbal",
+                    "score": "146"
+                },
+                {
+                    "name": "V. Gonz\u00e1lez",
+                    "score": "98"
+                },
+                {
+                    "name": "M. D. Choudhury",
+                    "score": "97"
+                },
+                {
+                    "name": "S. Poltrock",
+                    "score": "90"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "M. Czerwinski",
+                    "score": "180"
+                },
+                {
+                    "name": "Shamsi T. Iqbal",
+                    "score": "158"
+                },
+                {
+                    "name": "Bryan C. Semaan",
+                    "score": "142"
+                },
+                {
+                    "name": "V. Wulf",
+                    "score": "134"
+                },
+                {
+                    "name": "K. Saha",
+                    "score": "124"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Nada Golmie",
+        "ire_wiki_id": 2623,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "D. Griffith",
+                    "score": "361"
+                },
+                {
+                    "name": "Wei Yu",
+                    "score": "255"
+                },
+                {
+                    "name": "C. Gentile",
+                    "score": "178"
+                },
+                {
+                    "name": "D. Su",
+                    "score": "169"
+                },
+                {
+                    "name": "Sukyoung Lee",
+                    "score": "105"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "D. Griffith",
+                    "score": "360"
+                },
+                {
+                    "name": "Wei Yu",
+                    "score": "313"
+                },
+                {
+                    "name": "D. Su",
+                    "score": "169"
+                },
+                {
+                    "name": "C. Gentile",
+                    "score": "163"
+                },
+                {
+                    "name": "Sukyoung Lee",
+                    "score": "117"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Michael Wellman",
+        "ire_wiki_id": 2638,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "D. Reeves",
+                    "score": "279"
+                },
+                {
+                    "name": "W. E. Walsh",
+                    "score": "268"
+                },
+                {
+                    "name": "Y. Vorobeychik",
+                    "score": "249"
+                },
+                {
+                    "name": "P. Stone",
+                    "score": "211"
+                },
+                {
+                    "name": "Christopher Kiekintveld",
+                    "score": "204"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Y. Vorobeychik",
+                    "score": "251"
+                },
+                {
+                    "name": "A. Greenwald",
+                    "score": "240"
+                },
+                {
+                    "name": "D. Reeves",
+                    "score": "208"
+                },
+                {
+                    "name": "Christopher Kiekintveld",
+                    "score": "207"
+                },
+                {
+                    "name": "W. E. Walsh",
+                    "score": "204"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Farinaz Koushanfar",
+        "ire_wiki_id": 2639,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "M. Potkonjak",
+                    "score": "909"
+                },
+                {
+                    "name": "S. Devadas",
+                    "score": "390"
+                },
+                {
+                    "name": "B. Rouhani",
+                    "score": "350"
+                },
+                {
+                    "name": "M. Majzoobi",
+                    "score": "272"
+                },
+                {
+                    "name": "Azalia Mirhoseini",
+                    "score": "265"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "M. Potkonjak",
+                    "score": "772"
+                },
+                {
+                    "name": "M. Tehranipoor",
+                    "score": "387"
+                },
+                {
+                    "name": "R. Karri",
+                    "score": "366"
+                },
+                {
+                    "name": "O. Sinanoglu",
+                    "score": "360"
+                },
+                {
+                    "name": "B. Rouhani",
+                    "score": "352"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Catherine Plaisant",
+        "ire_wiki_id": 2669,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "B. Shneiderman",
+                    "score": "1747"
+                },
+                {
+                    "name": "B. Bederson",
+                    "score": "189"
+                },
+                {
+                    "name": "K. Wongsuphasawat",
+                    "score": "180"
+                },
+                {
+                    "name": "A. Rose",
+                    "score": "143"
+                },
+                {
+                    "name": "T. D. Wang",
+                    "score": "142"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "B. Shneiderman",
+                    "score": "1564"
+                },
+                {
+                    "name": "Jean-Daniel Fekete",
+                    "score": "251"
+                },
+                {
+                    "name": "S. Miksch",
+                    "score": "204"
+                },
+                {
+                    "name": "B. Bederson",
+                    "score": "194"
+                },
+                {
+                    "name": "Fan Du",
+                    "score": "190"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Marti Hearst",
+        "ire_wiki_id": 2673,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Preslav Nakov",
+                    "score": "133"
+                },
+                {
+                    "name": "Jan O. Pedersen",
+                    "score": "111"
+                },
+                {
+                    "name": "Christopher D. Manning",
+                    "score": "78"
+                },
+                {
+                    "name": "Ariel S. Schwartz",
+                    "score": "69"
+                },
+                {
+                    "name": "K. Yee",
+                    "score": "65"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Preslav Nakov",
+                    "score": "245"
+                },
+                {
+                    "name": "Peter D. Turney",
+                    "score": "117"
+                },
+                {
+                    "name": "B. Shneiderman",
+                    "score": "117"
+                },
+                {
+                    "name": "Hsinchun Chen",
+                    "score": "106"
+                },
+                {
+                    "name": "Stan Szpakowicz",
+                    "score": "94"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Tim Berners-Lee",
+        "ire_wiki_id": 2676,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Hendler",
+                    "score": "182"
+                },
+                {
+                    "name": "D. Connolly",
+                    "score": "82"
+                },
+                {
+                    "name": "D. Weitzner",
+                    "score": "69"
+                },
+                {
+                    "name": "Lalana Kagal",
+                    "score": "69"
+                },
+                {
+                    "name": "N. Shadbolt",
+                    "score": "57"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "N. Shadbolt",
+                    "score": "251"
+                },
+                {
+                    "name": "J. Hendler",
+                    "score": "249"
+                },
+                {
+                    "name": "W. Hall",
+                    "score": "221"
+                },
+                {
+                    "name": "H. Schulzrinne",
+                    "score": "177"
+                },
+                {
+                    "name": "H. Halpin",
+                    "score": "132"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Nasir Ahmed (engineer)",
+        "ire_wiki_id": 2683,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "G. Mandyam",
+                    "score": "79"
+                },
+                {
+                    "name": "N. Magotra",
+                    "score": "29"
+                },
+                {
+                    "name": "S. Stearns",
+                    "score": "19"
+                },
+                {
+                    "name": "M. Srinath",
+                    "score": "17"
+                },
+                {
+                    "name": "T. Natarajan",
+                    "score": "12"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "G. Mandyam",
+                    "score": "85"
+                },
+                {
+                    "name": "N. Magotra",
+                    "score": "31"
+                },
+                {
+                    "name": "S. Stearns",
+                    "score": "17"
+                },
+                {
+                    "name": "M. Srinath",
+                    "score": "11"
+                },
+                {
+                    "name": "B. Armstrong",
+                    "score": "9"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Rada Mihalcea",
+        "ire_wiki_id": 2713,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "R. Siliste",
+                    "score": "18"
+                },
+                {
+                    "name": "C. Homentcovschi",
+                    "score": "18"
+                },
+                {
+                    "name": "O. Naidin",
+                    "score": "18"
+                },
+                {
+                    "name": "C. Nicolita",
+                    "score": "18"
+                },
+                {
+                    "name": "V. Ionescu",
+                    "score": "13"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "R. Siliste",
+                    "score": "18"
+                },
+                {
+                    "name": "C. Homentcovschi",
+                    "score": "18"
+                },
+                {
+                    "name": "O. Naidin",
+                    "score": "18"
+                },
+                {
+                    "name": "C. Nicolita",
+                    "score": "18"
+                },
+                {
+                    "name": "V. Ionescu",
+                    "score": "13"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Linus Torvalds",
+        "ire_wiki_id": 2725,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Pekka Himanen",
+                    "score": "9"
+                },
+                {
+                    "name": "M. Castells",
+                    "score": "9"
+                },
+                {
+                    "name": "A. Cox",
+                    "score": "9"
+                },
+                {
+                    "name": "J. Walpole",
+                    "score": "6"
+                },
+                {
+                    "name": "H. Boehm",
+                    "score": "5"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "J\u00fcrgen Bitzer",
+                    "score": "34"
+                },
+                {
+                    "name": "Philipp J. H. Schr\u00f6der",
+                    "score": "33"
+                },
+                {
+                    "name": "G. Krogh",
+                    "score": "17"
+                },
+                {
+                    "name": "F. Rullani",
+                    "score": "16"
+                },
+                {
+                    "name": "O. Nov",
+                    "score": "16"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Daniel Povey",
+        "ire_wiki_id": 2733,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Khudanpur",
+                    "score": "836"
+                },
+                {
+                    "name": "P. Woodland",
+                    "score": "400"
+                },
+                {
+                    "name": "L. Burget",
+                    "score": "313"
+                },
+                {
+                    "name": "M. Gales",
+                    "score": "297"
+                },
+                {
+                    "name": "A. Ghoshal",
+                    "score": "248"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "S. Khudanpur",
+                    "score": "1135"
+                },
+                {
+                    "name": "Shinji Watanabe",
+                    "score": "809"
+                },
+                {
+                    "name": "M. Gales",
+                    "score": "562"
+                },
+                {
+                    "name": "Najim Dehak",
+                    "score": "453"
+                },
+                {
+                    "name": "P. Woodland",
+                    "score": "397"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Joshua Vogelstein",
+        "ire_wiki_id": 2738,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "C. Priebe",
+                    "score": "955"
+                },
+                {
+                    "name": "R. Burns",
+                    "score": "479"
+                },
+                {
+                    "name": "M. Milham",
+                    "score": "410"
+                },
+                {
+                    "name": "R. J. Vogelstein",
+                    "score": "264"
+                },
+                {
+                    "name": "Minh Tang",
+                    "score": "256"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "C. Priebe",
+                    "score": "954"
+                },
+                {
+                    "name": "R. Burns",
+                    "score": "457"
+                },
+                {
+                    "name": "Eric W. Bridgeford",
+                    "score": "331"
+                },
+                {
+                    "name": "M. Milham",
+                    "score": "283"
+                },
+                {
+                    "name": "V. Lyzinski",
+                    "score": "248"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Lior Pachter",
+        "ire_wiki_id": 2849,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Salzberg",
+                    "score": "307"
+                },
+                {
+                    "name": "Cole Trapnell",
+                    "score": "283"
+                },
+                {
+                    "name": "D. Haussler",
+                    "score": "213"
+                },
+                {
+                    "name": "B. Sturmfels",
+                    "score": "195"
+                },
+                {
+                    "name": "W. J. Kent",
+                    "score": "189"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "C. Buell",
+                    "score": "267"
+                },
+                {
+                    "name": "I. Dubchak",
+                    "score": "255"
+                },
+                {
+                    "name": "Robert Patro",
+                    "score": "248"
+                },
+                {
+                    "name": "A. Regev",
+                    "score": "235"
+                },
+                {
+                    "name": "Harold Pimentel",
+                    "score": "229"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Hal Abelson",
+        "ire_wiki_id": 2870,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "G. Sussman",
+                    "score": "213"
+                },
+                {
+                    "name": "D. Friedman",
+                    "score": "67"
+                },
+                {
+                    "name": "G. Steele",
+                    "score": "61"
+                },
+                {
+                    "name": "G. Rozas",
+                    "score": "47"
+                },
+                {
+                    "name": "C. Hanson",
+                    "score": "46"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "G. Sussman",
+                    "score": "175"
+                },
+                {
+                    "name": "O. Danvy",
+                    "score": "112"
+                },
+                {
+                    "name": "M. Felleisen",
+                    "score": "86"
+                },
+                {
+                    "name": "R. K. Dybvig",
+                    "score": "77"
+                },
+                {
+                    "name": "S. Krishnamurthi",
+                    "score": "75"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Edsger Dijkstra",
+        "ire_wiki_id": 2988,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "C. S. Scholten",
+                    "score": "75"
+                },
+                {
+                    "name": "A. V. Gasteren",
+                    "score": "27"
+                },
+                {
+                    "name": "C. Hoare",
+                    "score": "18"
+                },
+                {
+                    "name": "W. Feijen",
+                    "score": "18"
+                },
+                {
+                    "name": "L. Lamport",
+                    "score": "12"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "A. Datta",
+                    "score": "186"
+                },
+                {
+                    "name": "S. Tixeuil",
+                    "score": "167"
+                },
+                {
+                    "name": "R. Back",
+                    "score": "162"
+                },
+                {
+                    "name": "S. Dolev",
+                    "score": "156"
+                },
+                {
+                    "name": "S. Kulkarni",
+                    "score": "152"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Erez Lieberman Aiden",
+        "ire_wiki_id": 3072,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "E. Lander",
+                    "score": "357"
+                },
+                {
+                    "name": "Neva C. Durand",
+                    "score": "331"
+                },
+                {
+                    "name": "Suhas S. P. Rao",
+                    "score": "241"
+                },
+                {
+                    "name": "M. Shamim",
+                    "score": "239"
+                },
+                {
+                    "name": "Ido Machol",
+                    "score": "230"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "J. Dekker",
+                    "score": "298"
+                },
+                {
+                    "name": "L. Mirny",
+                    "score": "286"
+                },
+                {
+                    "name": "O. Dudchenko",
+                    "score": "285"
+                },
+                {
+                    "name": "V. Corces",
+                    "score": "241"
+                },
+                {
+                    "name": "A. Omer",
+                    "score": "210"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Joshua Tenenbaum",
+        "ire_wiki_id": 3149,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "T. Griffiths",
+                    "score": "1300"
+                },
+                {
+                    "name": "Noah D. Goodman",
+                    "score": "1024"
+                },
+                {
+                    "name": "Charles Kemp",
+                    "score": "642"
+                },
+                {
+                    "name": "Jiajun Wu",
+                    "score": "632"
+                },
+                {
+                    "name": "L. Schulz",
+                    "score": "511"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "T. Griffiths",
+                    "score": "1353"
+                },
+                {
+                    "name": "Noah D. Goodman",
+                    "score": "927"
+                },
+                {
+                    "name": "S. Gershman",
+                    "score": "754"
+                },
+                {
+                    "name": "T. Ullman",
+                    "score": "665"
+                },
+                {
+                    "name": "Jiajun Wu",
+                    "score": "642"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Peter Norvig",
+        "ire_wiki_id": 3203,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Stuart J. Russell",
+                    "score": "45"
+                },
+                {
+                    "name": "R. Wilensky",
+                    "score": "42"
+                },
+                {
+                    "name": "N. Muscettola",
+                    "score": "28"
+                },
+                {
+                    "name": "Eugene Charniak",
+                    "score": "27"
+                },
+                {
+                    "name": "S. Hegner",
+                    "score": "22"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "P. Gmytrasiewicz",
+                    "score": "90"
+                },
+                {
+                    "name": "Stuart J. Russell",
+                    "score": "80"
+                },
+                {
+                    "name": "P. Doshi",
+                    "score": "72"
+                },
+                {
+                    "name": "Takayuki Ito",
+                    "score": "69"
+                },
+                {
+                    "name": "E. Eberbach",
+                    "score": "64"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "J\u00fcrgen Schmidhuber",
+        "ire_wiki_id": 3206,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Geoffrey E. Hinton",
+                    "score": "505"
+                },
+                {
+                    "name": "F. Gomez",
+                    "score": "487"
+                },
+                {
+                    "name": "Yoshua Bengio",
+                    "score": "456"
+                },
+                {
+                    "name": "A. Graves",
+                    "score": "409"
+                },
+                {
+                    "name": "Daan Wierstra",
+                    "score": "408"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Yoshua Bengio",
+                    "score": "623"
+                },
+                {
+                    "name": "Bj\u00f6rn Schuller",
+                    "score": "577"
+                },
+                {
+                    "name": "F. Gomez",
+                    "score": "454"
+                },
+                {
+                    "name": "A. Graves",
+                    "score": "438"
+                },
+                {
+                    "name": "H. Ney",
+                    "score": "376"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Jen Golbeck",
+        "ire_wiki_id": 3237,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Hendler",
+                    "score": "203"
+                },
+                {
+                    "name": "B. Parsia",
+                    "score": "99"
+                },
+                {
+                    "name": "Cai-Nicolas Ziegler",
+                    "score": "98"
+                },
+                {
+                    "name": "C. Buntain",
+                    "score": "95"
+                },
+                {
+                    "name": "J. Konstan",
+                    "score": "91"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "J. Hendler",
+                    "score": "162"
+                },
+                {
+                    "name": "Yan Wang",
+                    "score": "143"
+                },
+                {
+                    "name": "Guanfeng Liu",
+                    "score": "142"
+                },
+                {
+                    "name": "M. Orgun",
+                    "score": "107"
+                },
+                {
+                    "name": "C. Buntain",
+                    "score": "105"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "P. J. Narayanan",
+        "ire_wiki_id": 3269,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Banerjee",
+                    "score": "18"
+                },
+                {
+                    "name": "G. P. Mathur",
+                    "score": "18"
+                },
+                {
+                    "name": "Christopher W. Jones",
+                    "score": "16"
+                },
+                {
+                    "name": "Vinod K. Gupta",
+                    "score": "16"
+                },
+                {
+                    "name": "G. Subramanya",
+                    "score": "13"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "S. Banerjee",
+                    "score": "18"
+                },
+                {
+                    "name": "G. P. Mathur",
+                    "score": "18"
+                },
+                {
+                    "name": "G. Subramanya",
+                    "score": "13"
+                },
+                {
+                    "name": "P. Raman",
+                    "score": "13"
+                },
+                {
+                    "name": "D. G. Prakash",
+                    "score": "11"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Trevor Mudge",
+        "ire_wiki_id": 3322,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "D. Blaauw",
+                    "score": "698"
+                },
+                {
+                    "name": "R. Dreslinski",
+                    "score": "616"
+                },
+                {
+                    "name": "K. Flautner",
+                    "score": "420"
+                },
+                {
+                    "name": "S. Mahlke",
+                    "score": "349"
+                },
+                {
+                    "name": "D. Sylvester",
+                    "score": "338"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "D. Blaauw",
+                    "score": "716"
+                },
+                {
+                    "name": "R. Dreslinski",
+                    "score": "669"
+                },
+                {
+                    "name": "S. Mahlke",
+                    "score": "419"
+                },
+                {
+                    "name": "D. Sylvester",
+                    "score": "361"
+                },
+                {
+                    "name": "K. Flautner",
+                    "score": "321"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Ralph Semmel",
+        "ire_wiki_id": 3324,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "J. Ullman",
+                    "score": "42"
+                },
+                {
+                    "name": "D. Silberberg",
+                    "score": "39"
+                },
+                {
+                    "name": "S. Navathe",
+                    "score": "20"
+                },
+                {
+                    "name": "D. Maier",
+                    "score": "19"
+                },
+                {
+                    "name": "B. Blum",
+                    "score": "18"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "D. Silberberg",
+                    "score": "42"
+                },
+                {
+                    "name": "B. Coury",
+                    "score": "15"
+                },
+                {
+                    "name": "R. Winkler",
+                    "score": "15"
+                },
+                {
+                    "name": "B. Blum",
+                    "score": "14"
+                },
+                {
+                    "name": "E. Immer",
+                    "score": "8"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Jim Coplien",
+        "ire_wiki_id": 3343,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "S. Fraser",
+                    "score": "70"
+                },
+                {
+                    "name": "G. Booch",
+                    "score": "54"
+                },
+                {
+                    "name": "N. Kerth",
+                    "score": "50"
+                },
+                {
+                    "name": "J. Vlissides",
+                    "score": "49"
+                },
+                {
+                    "name": "K. Beck",
+                    "score": "47"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "S. Fraser",
+                    "score": "76"
+                },
+                {
+                    "name": "V. Vranic",
+                    "score": "69"
+                },
+                {
+                    "name": "D. Schmidt",
+                    "score": "66"
+                },
+                {
+                    "name": "Liping Zhao",
+                    "score": "58"
+                },
+                {
+                    "name": "C. Amrit",
+                    "score": "54"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Preslav Nakov",
+        "ire_wiki_id": 3344,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "Llu\u00eds M\u00e0rquez i Villodre",
+                    "score": "620"
+                },
+                {
+                    "name": "Alberto Barr\u00f3n-Cede\u00f1o",
+                    "score": "457"
+                },
+                {
+                    "name": "Giovanni Da San Martino",
+                    "score": "439"
+                },
+                {
+                    "name": "Alessandro Moschitti",
+                    "score": "388"
+                },
+                {
+                    "name": "Ivan Koychev",
+                    "score": "356"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "Giovanni Da San Martino",
+                    "score": "576"
+                },
+                {
+                    "name": "Llu\u00eds M\u00e0rquez i Villodre",
+                    "score": "454"
+                },
+                {
+                    "name": "Alberto Barr\u00f3n-Cede\u00f1o",
+                    "score": "395"
+                },
+                {
+                    "name": "Ivan Koychev",
+                    "score": "360"
+                },
+                {
+                    "name": "Alessandro Moschitti",
+                    "score": "292"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Johan Bollen",
+        "ire_wiki_id": 3349,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "H. V. D. Sompel",
+                    "score": "202"
+                },
+                {
+                    "name": "Michael L. Nelson",
+                    "score": "114"
+                },
+                {
+                    "name": "Michael A. Rodriguez",
+                    "score": "113"
+                },
+                {
+                    "name": "F. Heylighen",
+                    "score": "109"
+                },
+                {
+                    "name": "H. Mao",
+                    "score": "68"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "F. Heylighen",
+                    "score": "204"
+                },
+                {
+                    "name": "H. V. D. Sompel",
+                    "score": "147"
+                },
+                {
+                    "name": "Michael A. Rodriguez",
+                    "score": "146"
+                },
+                {
+                    "name": "Michael L. Nelson",
+                    "score": "124"
+                },
+                {
+                    "name": "Ying Ding",
+                    "score": "92"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Peter B\u00fcrgisser",
+        "ire_wiki_id": 3424,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "F. Cucker",
+                    "score": "470"
+                },
+                {
+                    "name": "M. Shub",
+                    "score": "231"
+                },
+                {
+                    "name": "S. Smale",
+                    "score": "222"
+                },
+                {
+                    "name": "P. Koiran",
+                    "score": "178"
+                },
+                {
+                    "name": "L. Valiant",
+                    "score": "141"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "F. Cucker",
+                    "score": "287"
+                },
+                {
+                    "name": "Christian Ikenmeyer",
+                    "score": "205"
+                },
+                {
+                    "name": "P. Koiran",
+                    "score": "135"
+                },
+                {
+                    "name": "M. Clausen",
+                    "score": "93"
+                },
+                {
+                    "name": "M. Shokrollahi",
+                    "score": "83"
+                }
+            ]
+        }
+    },
+    {
+        "ire_person_name": "Serafim Batzoglou",
+        "ire_wiki_id": 3442,
+        "semantic_data": {
+            "influenced_by": [
+                {
+                    "name": "A. Sidow",
+                    "score": "275"
+                },
+                {
+                    "name": "D. Haussler",
+                    "score": "206"
+                },
+                {
+                    "name": "E. Lander",
+                    "score": "205"
+                },
+                {
+                    "name": "M. Brudno",
+                    "score": "188"
+                },
+                {
+                    "name": "W. Miller",
+                    "score": "181"
+                }
+            ],
+            "influenced": [
+                {
+                    "name": "A. Sidow",
+                    "score": "315"
+                },
+                {
+                    "name": "K. Asai",
+                    "score": "176"
+                },
+                {
+                    "name": "M. Brudno",
+                    "score": "174"
+                },
+                {
+                    "name": "G. Cooper",
+                    "score": "153"
+                },
+                {
+                    "name": "Chuong B. Do",
+                    "score": "143"
+                }
+            ]
+        }
+    }
+]

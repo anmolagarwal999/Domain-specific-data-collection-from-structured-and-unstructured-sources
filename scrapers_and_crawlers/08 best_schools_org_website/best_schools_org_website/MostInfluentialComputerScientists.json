@@ -1,0 +1,1008 @@
+{
+    "leonard m. adleman": {
+        "name": "Leonard M. Adleman",
+        "area of interest": [
+            "Computational Complexity Theory",
+            " Cryptography"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/leonard-adleman",
+        "Website": "https://viterbi.usc.edu/directory/faculty/Adleman/Leonard",
+        "Book Name": [
+            "Primality Testing and Abelian Varieties Over Finite Fields, co-authored with Ming-Deh Huang (Springer, 1992)",
+            "Algorithmic Number Theory, co-edited with Ming-Deh Huang (Springer, 1994)"
+        ],
+        "Book Link": "https://www.amazon.com/Leonard-M.-Adleman/e/B00JDA6YGC/?tag=tbs242-20",
+        "Content": "Adleman was born in San Francisco, California, in 1945. He received his Ph.D. in electrical engineering and computer sciences (EECS) from UC-Berkeley in 1976. He is currently Distinguished Professor of Computer Science and holds the Henry Salvatori Chair in Computer Science in the Viterbi School of Engineering at the University of Southern California. Adleman is best known for his contribution, together with Ronald L. Rivest and Adi Shamir (for both of whom, see below), to the RSA algorithm, which was one of the first public-key cryptosystems, and which remains in wide use to this day for the encryption of data transmission. Adleman also developed the theoretical foundations for the possible use of the DNA molecule as a means of doing complex calculations, earning him the sobriquet “Father of DNA Computing.” In addition, he is often credited with coining the term “computer virus.” Adleman won the A.M. Turing Award in 2002.",
+        "place_of_birth": "San Francisco,California",
+        "year_of_birth": "1945"
+    },
+    "frances e. allen": {
+        "name": "Frances E. Allen",
+        "area of interest": [
+            "Compilers",
+            " Program optimization",
+            " Parallel computing"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/frances-allen",
+        "Website": "https://www-03.ibm.com/ibm/history/witexhibit/wit_hall_allen.html",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Allen was born in the town of Peru, in upstate New York, in 1932. She earned a master’s degree in mathematics from the University of Michigan in 1957. Apart from brief teaching stints at NYU and Stanford, she spent her entire career at IBM. She retired from IBM in 2002, but still holds the title of IBM Fellow Emerita. While at IBM, Allen published many seminal papers, one of the most important of which was her classic 1966 paper, “Program Optimization”.[1] This paper — published internally by IBM while was she was working on an experimental compiler for the company’s Advanced Computing System (ACS-1) project — laid the conceptual basis for systematic evaluation and improvement of computer programs. In it, she made innovative use of graph theory to encode program contents. Later on, she headed up IBM’s PTRAN project, which was an early attempt to automate the parallel execution of computer programs. Allen was awarded the A.M. Turing Award in 2006.",
+        "place_of_birth": "Peru,New York",
+        "year_of_birth": "1932"
+    },
+    "timothy j. berners-lee": {
+        "name": "Timothy J. Berners-Lee",
+        "area of interest": [
+            "Network design",
+            " World Wide Web",
+            " HTTP"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/timothy-berners-lee-1",
+        "Website": "https://www.cs.ox.ac.uk/people/tim.berners-lee/",
+        "Book Name": [
+            "Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web (HarperBusiness, 2000)",
+            "A Framework for Web Science (Now Publishers Inc, 2006)"
+        ],
+        "Book Link": "https://www.csail.mit.edu/person/tim-berners-lee",
+        "Content": "Berners-Lee was born in London in 1955. He received his bachelor’s degree in physics in 1976 from the University of Oxford. He is currently Professorial Research Fellow in the Department of Computer Science and Fellow of Christ Church College at Oxford, as well as Professor in the Computer Science and Artificial Intelligence Lab (CSAIL) at MIT. After graduation, Berners-Lee worked as an engineer in private industry, at first in telecommunications. However, the work for which he is famous was done while he was employed as a private contractor by the Centre Européen de la Recherche Nucléaire (CERN), located near Geneva on the Swiss-French border. During his initial stint at CERN, in the summer and fall of 1980, he conceived the idea of hypertext and built the first prototype system. At that time, he envisioned the project as aiding the sharing and updating of electronic documents among his fellow researchers.",
+        "place_of_birth": "London",
+        "year_of_birth": "1955"
+    },
+    "manuel blum": {
+        "name": "Manuel Blum",
+        "area of interest": [
+            "Computational Complexity Theory",
+            " Blum-Goldwasser cryptography",
+            " CAPTCHA"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/manuel-blum",
+        "Website": "https://www.cs.cmu.edu/~mblum/",
+        "Book Name": [
+            "Cryptographic Techniques & E-Commerce, co-edited with C.H. Lee (City University of Hong Kong Press, 1999)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Manuel+Blum&rh=n%3A283155%2Ck%3AManuel+Blum",
+        "Content": "Blum was born in Caracas, Venezuela, in 1938. He received his master’s degree in electrical engineering and computer science (EECS) in 1961 from MIT, and his Ph.D. in mathematics in 1964 from the same university. His dissertation advisor was Marvin Minsky. He is currently Bruce Nelson Professor of Computer Science at Carnegie Mellon University. Blum developed an original axiomatic approach to computational complexity theory in the 1960s, as opposed to the machine-computability methods that had been used up to that point. His theoretical work turned out to have very extensive concrete applications, yielding theorems such as the compression theorem, the gap theorem, and the Blum speedup theorem. Later, he moved into cryptography, where he developed coin-flipping and other pseudo-random number protocols, as well as the Blum-Goldwasser cryptosystem — a type of asymmetric-key encryption algorithm — developed with his graduate student, Shafi Goldwasser (see below). More recently still, he was involved in developing CAPTCHAs (the term stands for “Completely Automated Public Turing test to tell Computers and Humans Apart”). Blum received the A.M. Turing Award in 1995.",
+        "place_of_birth": "Caracas,Venezuela",
+        "year_of_birth": "1938"
+    },
+    "kathleen booth": {
+        "name": "Kathleen Booth",
+        "area of interest": [
+            "Assembly language",
+            " ARC-2"
+        ],
+        "Image Link": "",
+        "Website": "",
+        "Book Name": [
+            "Automatic Digital Calculators, co-authored with Andrew Booth (Butterworth Scientific Publications, 1953; 2nd ed., 1956)",
+            "Programming for an Automatic Digital Calculator (Academic Press, 1958)"
+        ],
+        "Book Link": "",
+        "Content": "Booth (née Britten) was born in Stourbridge, UK, in 1922. She received her Ph.D. in applied mathematics in 1950 from the University of London. She did her pioneering work mostly at Birkbeck College, University of London, though in later years she taught at several universities in Canada. In 1947, Booth traveled with her husband-to-be, Andrew, to Princeton University, where the pair collaborated briefly with John von Neumann, learning of his new architecture for computer operating systems (see the second timeline above, under “1945”). Upon returning to University of London’s Birkbeck College in late 1947, they wrote and privately circulated a highly influential paper, “General Considerations in the Design of an All Purpose Electronic Digital Computer,” which examined some of the requirements for the practical implementation of von Neumann’s ideas. They then set to work on building such computers — work which continued well into the 1950s. Basically, Andrew built the hardware and Kathleen wrote the software. The result was a series of three separate computers, for each of which Kathleen Booth designed a separate assembly language: ARC-2 (Automatic Relay Computer), SEC (Simple Electronic Computer), and APEC (All-purpose Electronic Computer).",
+        "place_of_birth": "Stourbridge,UK",
+        "year_of_birth": "1922"
+    },
+    "frederick p. brooks, jr.": {
+        "name": "Frederick P. Brooks, Jr.",
+        "area of interest": [
+            "Operating systems",
+            " OS/360"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/fred_brooks",
+        "Website": "https://www.cs.unc.edu/~brooks/",
+        "Book Name": [
+            "Automatic Data Processing: System/360 Edition, co-authored with Kenneth E. Iverson (John Wiley & Sons, 1969)",
+            "The Mythical Man-Month: Essays on Software Engineering (Addison Wesley, 1975; 2nd ed., 1996)",
+            "Computer Architecture: Concepts and Evolution, co-authored with Gerritt A. Blaauw (Addison-Wesley, 1997)",
+            "The Design of Design: Essays from a Computer Scientist (Addison-Wesley, 2010)"
+        ],
+        "Book Link": "https://www.amazon.com/Frederick-P.-Brooks-Jr./e/B001H6GFP0/?tag=tbs242-20",
+        "Content": "Brooks was born in Durham, North Carolina, in 1931. He received his Ph.D. in applied mathematics in 1956 from Harvard University. He worked for IBM from 1956 until 1964, when he left to found the computer science department at the University of North Carolina at Chapel Hill. He chaired the department for 20 years, and continued on there as a researcher after retiring. Brooks is currently Kenan Professor of Computer Science at UNC-Chapel Hill. Brooks did the work for which he is most famous at IBM. At first, he worked on the IBM 7030 (AKA “Stretch”) model supercomputer, which was state-of-the-art at the time for industrial and research applications. Next, he headed up the team that developed the IBM System/360 family of computers, which began to be released in 1965, revolutionizing the market for business computers. The System/360 was far more advanced than any previous machine, being smaller and much cheaper than the 7030, yet capable of performing orders of magnitude more calculations per second. As a computer architect, Brooks then headed the team that designed the OS/360 operating system and compilers for the new computer family. He won the A.M. Turing Award in 1999.",
+        "place_of_birth": "Durham,North Carolina",
+        "year_of_birth": "1931"
+    },
+    "vinton g. cerf": {
+        "name": "Vinton G. Cerf",
+        "area of interest": [
+            "Network design",
+            " TCP/IP"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/vinton-cerf",
+        "Website": "https://ai.google/research/people/author32412",
+        "Book Name": [
+            "Towards the Future Internet Architecture (Network Working Group, 1991: RFC 1287)",
+            "A View from the 21st Century (Network Working Group, 1994: RFC 1607)",
+            "The Internet is for Everyone (Network Working Group, 2002: RFC 3271)",
+            "Delay-Tolerant Networking Architecture (Network Working Group, 2007: RFC 4838)"
+        ],
+        "Book Link": "https://www.amazon.com/Vint-Cerf/e/B00J0RM3K4/?tag=tbs242-20",
+        "Content": "Cerf was born in New Haven, Connecticut, in 1943. After earning his bachelor’s degree in mathematics in 1965 from Stanford University, he worked for two years at IBM. He then returned to school, obtaining his master’s degree and his PhD, both in computer science and both from UCLA, in 1970 and 1972, respectively. After working at Stanford University (1972-1976) Cerf spent his career working for the Defense Department, the Jet Propulsion Laboratory (JPL), and in the private telecommunications industry, notably for MCI/Worldcom. He is currently Vice President and “Chief Internet Evangelist” for Google Inc. Along with Robert E. Kahn (see below), Cerf is often referred to as a “Father of the Internet.” He did the work for which he is best known while working for the Defense Advanced Research Projects Agency (DARPA). Before joining DARPA, Cerf worked with Stephen D. Crocker in designing the Network Control Program (NCP) for the earlier ARPANET. Working together at DARPA during the spring and summer of 1976, Cerf and Kahn began developing the more advanced Transmission Control Protocol (TCP) and the Internet Protocol (IP) systems, which would determine how data would be divided into “packets,” given addresses, transmitted by the sender’s computer, routed along the most efficient route, and received by the recipient’s computer. TCP/IP rapidly became the standard for computer networking. It has also formed the basis for subsequent improvements to Internet architecture. Cerf won the A.M. Turing Award in 2004.",
+        "place_of_birth": "New Haven,Connecticut",
+        "year_of_birth": "1943"
+    },
+    "edmund m. clarke, jr.": {
+        "name": "Edmund M. Clarke, Jr.",
+        "area of interest": [
+            "Math/Logic",
+            " Model checking"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/edmund-clarke",
+        "Website": "https://www.cs.cmu.edu/~emc/",
+        "Book Name": [
+            "Model Checking, co-authored with Orna Grumberg and Doron A. Peled (MIT Press, 1999; 2nd ed., 2018)",
+            "Handbook of Model Checking, co-edited with Thomas A. Henzinger, Helmuth Veith, and Roderick Bloem (Springer, 2018)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=Edmund+M.+Clarke+Jr.&search-alias=books&field-author=Edmund+M.+Clarke+Jr.&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=88ab7d6d82b67789fe843ea77101f093&language=en_US",
+        "Content": "Clarke was born in Newport News, Virginia, in 1945. He received his Ph.D. in computer science in 1976 from Cornell University. He is currently University Professor Emeritus at Carnegie Mellon University. Clarke is best known for his work, in collaboration with E. Allen Emerson (see below),[3] on model checking, which is an automated verification procedure for ensuring that a specified piece of software (i.e., an algorithm) will perform as intended with respect to one or more particular features, usually ones that are crucially important to the success of the task the software was designed to perform. While teaching briefly at Harvard University (1978–1982), Clarke became Emerson’s dissertation advisor and the two men began to collaborate on the problem of programming such a verification procedure. In a joint paper delivered at a conference in May of 1981 and published the following year,[2] Clarke and Emerson proposed a solution to the verification problem by re-stating the specified algorithm and the model created to verify it as logical formulas in a precise mathematical language.[3] The task of verifying the specified structure thus becomes equivalent to the logical task of checking whether the structure satisfies a particular logical formula — namely, the one embodied by the model. Clarke won the A.M. Turing Award in 2007.",
+        "place_of_birth": "Newport News,Virginia",
+        "year_of_birth": "1945"
+    },
+    "stephen a. cook": {
+        "name": "Stephen A. Cook",
+        "area of interest": [
+            "Math/Logic",
+            " Computational Complexity Theory",
+            " Proof complexity"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/stephen-a-cook",
+        "Website": "http://www.cs.toronto.edu/~sacook/",
+        "Book Name": [
+            "Logical Foundations of Proof Complexity, co-authored with Phuong Nguyen (Cambridge University Press, 2010)"
+        ],
+        "Book Link": "",
+        "Content": "Cook was born in Buffalo, New York, in 1939. He received his Ph.D. in mathematics in 1966 from Harvard University. He is currently University Professor Emeritus at the University of Toronto. Cook is best known for his path-breaking work in computational complexity theory. Notably, he is the originator of the seminal idea, first published in 1971, of NP-completeness (the “NP” stands for “nondeterministic polynomial time”). Basically, he proved the existence of programs (algorithms) that are reducible to NP-complete form, meaning they are “efficient” in the sense that they are tractable or feasible in terms of the time (and thus resources and expense) they require to reach a solution. The difficulty, however, is that there is no means of determining in advance which programs are NP-complete. In spite of this fundamental limitation, Cook’s contributions to the theory of computational complexity have had an incalculable impact on the entire field of computer science. A few years later, he proved the existence of efficient logical proof systems analogous to NP-complete computer programs — work which led to the entirely new discipline of proof complexity. Cook received the A.M. Turing Award in 1982.",
+        "place_of_birth": "Buffalo,New York",
+        "year_of_birth": "1939"
+    },
+    "fernando j. corbató": {
+        "name": "Fernando J. Corbató",
+        "area of interest": [
+            "Operating systems",
+            " Time-sharing systems"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/fernando-corbato",
+        "Website": "https://www.csail.mit.edu/person/f-j-corbato",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Corbató was born in Oakland, California, in 1926. He received his Ph.D. in physics in 1956 from MIT. He is currently Professor Emeritus with the Computer Science and Artificial Intelligence Lab (CSAIL) at MIT. Corbató is mainly known for his work on operating systems and time-sharing systems. Specifically, he designed the very first large-scale time-sharing network — MIT’s Compatible Time-Sharing System (CTSS) — which became operational in 1961. Following his work on CTSS, Corbató developed an operating system known as Multics, later adopted by General Electric and Honeywell, which introduced many of the ideas embodied in today’s operating systems, including a hierarchical file system, access control lists, dynamic linking, and many other innovative features. Ken Thompson (see below) has stated that Multics directly inspired his work on Unix. Corbató received the A.M. Turing Award in 1990.",
+        "place_of_birth": "Oakland,California",
+        "year_of_birth": "1926"
+    },
+    "mark e. dean": {
+        "name": "Mark E. Dean",
+        "area of interest": [
+            "Operating systems",
+            " IBM PC",
+            " AT",
+            " PS/2",
+            " and PowerPC architectures"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/mark-dean",
+        "Website": "https://www.eecs.utk.edu/people/faculty/markdean/",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Dean was born in Jefferson City, Tennessee, in 1957. He received his bachelor’s degree in electrical engineering in 1979 from the University of Tennessee, and his Ph.D. in the same field in 1992 from Stanford University. After a brief stint with Alcoa Corporation, he signed on with IBM in 1979 where he worked until 2013, eventually attaining the titles of IBM Fellow, and Vice President and Chief Technology Officer for the Middle East and Africa. Dean is currently John Fisher Distinguished Professor in the Min H. Kao Department of Electrical Engineering and Computer Science in the Tickle College of Engineering at the University of Tennessee at Knoxville. Dean is mainly known for his work on the team that developed the original IBM PC, released in 1981, and as Lead Engineer for the AT, the second-generation IBM personal computer which appeared on the market in 1984. On the former project, he led the design and testing of the PC Color Graphic Adapter — essentially the same type of color monitor that is still in use today. In the latter capacity, he and his team were responsible for designing and testing the overall operating system architecture, including system board, memory cards, and IBM’s version of the industry standard architecture (ISA) system bus. Subsequently, he was also heavily involved in numerous innovative designs for the PS/2 family of computers, in addition to acting as Chief Engineer for the development of the reduced instruction set computer (RISC) design for the IBM PowerPC line that was brought to market in 1991. In 1999, Dean, who holds over 40 patents, was Project Manager for the development of the first one-gigahertz (1 GHz) microprocessor chip.",
+        "place_of_birth": "Jefferson City,Tennessee",
+        "year_of_birth": "1957"
+    },
+    "whitfield diffie": {
+        "name": "Whitfield Diffie",
+        "area of interest": [
+            "Public-key cryptography",
+            " Asymmetric-key algorithms"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/whitfield-diffie",
+        "Website": "https://cisac.fsi.stanford.edu/people/whitfield_diffie",
+        "Book Name": [
+            "Privacy on the Line: The Politics of Wiretapping and Encryption, co-authored with Susan Landau (MIT Press, 1998; 2nd ed., 2007)"
+        ],
+        "Book Link": "https://www.amazon.com/Whitfield-Diffie/e/B000APUY5G/?tag=tbs242-20",
+        "Content": "Diffie was born in Washington, DC, in 1944. He received his bachelor’s degree in mathematics in 1965 from MIT. He has worked in a variety of university settings, including at the Stanford Artificial Intelligence Laboratory (SAIL), where he did programming while attending graduate school in electrical engineering for a time. Some years later, he became a research assistant to Martin E. Hellman (see below) at Stanford. Over the years, he has worked on several contracts for the National Security Agency (NSA), as well as for such private firms as Northern Telecomm and Sun Microsystems. Diffie is currently a non-resident Consulting Scholar with the Center for International Security and Cooperation (CISAC) at Stanford University. He is also a member of the advisory board of SafeLogic Inc. Diffie is best known for the work he did with Hellman at Stanford. In a ground-breaking paper published in 1976,[4] he and Hellman introduced the concept of public-key cryptography to the world.[5] Their idea laid the groundwork for all subsequent asymmetric-key algorithms, which remain the basis for the encryption of the vast majority of commercial transactions conducted over the Internet to this day. Diffie won the A.M. Turing Award in 2015.",
+        "place_of_birth": "Washington, DC",
+        "year_of_birth": "1944"
+    },
+    "e. allen emerson": {
+        "name": "E. Allen Emerson",
+        "area of interest": [
+            "Math/Logic",
+            " Model checking"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/e-allen-emerson",
+        "Website": "http://www.cs.utexas.edu/~emerson/",
+        "Book Name": [
+            "The Invasion of the Computer Culture: What You Need to Know About the New World We Live In, co-authored with Cheryl Forbes (InterVarsity Press, 1989)",
+            "Computer Aided Verification, co-edited with A. Prasad Sistla (Springer, 2000)",
+            "Verification, Model Checking, and Abstract Interpretation, co-edited with Kedar S. Namjoshi (Springer, 2006)"
+        ],
+        "Book Link": "https://www.amazon.com/Allen-Emerson/e/B001KIVNLG/?tag=tbs242-20",
+        "Content": "Emerson was born in Dallas, Texas, in 1954. He received his Ph.D. in applied mathematics in 1981 from Harvard University, where he studied under Edmund M. Clarke, Jr. (see above). He is currently Regents Chair and Professor Emeritus in the Department of Computer Science at the University of Texas at Austin. Emerson is best known as the co-developer with Clarke — then his dissertation advisor — of the concept of model checking in a paper co-authored by both men, which was delivered at a conference in May of 1981. (For an explanation of model checking, see the entry on Clarke, above.) Following up on the ideas first formulated in that ground-breaking paper, Emerson has contributed to the simplification of the original procedure, as it has been applied over the years not only to model checking itself, but also to other fields such as decision procedures and automated program synthesis. He has also done important work on model checking in the context of symmetric and nearly symmetric systems, as well as on the verification of parameterized systems and on reasoning about data structures. Emerson received the A.M. Turing Award in 2007.",
+        "place_of_birth": "Dallas,Texas",
+        "year_of_birth": "1954"
+    },
+    "edward a. feigenbaum": {
+        "name": "Edward A. Feigenbaum",
+        "area of interest": [
+            "Artificial intelligence",
+            " Expert systems",
+            " DENDRAL project"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/edward-feigenbaum",
+        "Website": "https://cs.stanford.edu/people/eaf/wordpress/",
+        "Book Name": [
+            "Computers and Thought, co-edited with Julian Feldman (McGraw-Hill, 1963; new ed., 1995)",
+            "The Fifth Generation: Artificial Intelligence and Japan’s Computer Challenge to the World, co-authored with Pamela McCorduck (Addison-Wesley, 1983)",
+            "The Rise of the Expert Company: How Visionary Companies Are Using Artificial Intelligence to Achieve Higher Productivity and Profits, co-authored with Pamela McCorduck and H. Penny Nii (Crown, 1988)"
+        ],
+        "Book Link": "https://www.amazon.com/Edward-A.-Feigenbaum/e/B001H6OJU8/?tag=tbs242-20",
+        "Content": "Feigenbaum was born in Weehauken, New Jersey, in 1936. He received his Ph.D. in electrical engineering in 1960 from the Carnegie Institute of Technology (now Carnegie Mellon University), where the pioneering systems theorist and cognitive scientist Herbert A. Simon acted as his dissertation advisor. Feigenbaum is currently Professor Emeritus of Computer Science at Stanford University’s Knowledge Systems Laboratory, which he founded. Feigenbaum is known as the “Father of Expert Systems,” which are artificial intelligence (AI) systems that are capable of emulating the performance of human experts in assessing situations and recommending actions within a particular field of knowledge. Expert systems have been widely applied in disciplines such as chemistry, medicine, geology, and computer science itself. The DENDRAL project, which Feigenbaum led at Stanford beginning in 1965, was the first practical expert system. Its purpose was to help organic chemists analyze unknown molecules on the basis of mass spectrometry data. As such, it was the first program to move AI out of the computer science lab and into the real world. Later on, Feigenbaum developed a number of other expert systems, which were essentially refinements of DENDRAL — notably MYCIN, which helped doctors isolate the bacterial pathogens for various infectious diseases. He won the A.M. Turing Award in 1994.",
+        "place_of_birth": "Weehauken,New Jersey",
+        "year_of_birth": "1936"
+    },
+    "shafrira (shafi) goldwasser": {
+        "name": "Shafrira (Shafi) Goldwasser",
+        "area of interest": [
+            "Computational Complexity Theory",
+            " Blum-Goldwasser cryptography",
+            " Computational Number Theory"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/shafi-goldwasser",
+        "Website": "https://www.eecs.mit.edu/people/faculty/shafi-goldwasser",
+        "Book Name": [
+            "Advances in Cryptology — CRYPTO ‘88: Proceedings, editor (Springer, 1990)",
+            "Lecture notes on Cryptography (MIT Press, 2001)",
+            "Complexity of Lattice Problems: A Cryptographic Perspective, co-authored with Daniele Micciancio (Springer, 2002)"
+        ],
+        "Book Link": "https://simons.berkeley.edu/people/shafi-goldwasser",
+        "Content": "Goldwasser was born in New York City in 1959. She obtained her Ph.D. in computer science in 1984 from the University of California, Berkeley, where she worked under the supervision of Manuel Blum (see above). She is currently Professor of Electrical Engineering and Computer Science at MIT, as well as Professor of Mathematical Sciences at the Weizmann Institute of Science in Rehovot, Israel. Goldwasser is also Co-Founder and Chief Scientist with Duality Technologies and Director of the Simons Institute for the Theory of Computing at UC-Berkeley. Goldwasser’s main work has been in the fields of computational complexity theory and cryptography, though she is also known for her work in computational number theory. While still a student of Manuel Blum’s at Berkeley in the early 1980s she helped her dissertation advisor create what is now known as Blum-Goldwasser crytopgraphy, which is an asymmetric-key system. A bit later — during the mid- to late 1980s — and working in collaboration with Ronald Rivest, Adi Shamir, Silvio Micali (for all three, see below), and others, Goldwasser developed a completely new type of encryption system based on random number generation. Such probabilistic encryption systems are considered the gold standard in the computer security field to this day. She went on to make many more discoveries, including zero-knowledge protocols, interactive proofs, and several others. In computational number theory, she is credited with the co-discovery of a test that uses elliptic curves to determine whether an arbitrary input number is prime — an interesting pure-mathematical result, which in addition has important cryptographic implications. Goldwasser won the A.M. Turing Award in 2012.",
+        "place_of_birth": "New York City",
+        "year_of_birth": "1959"
+    },
+    "james a. gosling": {
+        "name": "James A. Gosling",
+        "area of interest": [
+            "Programming languages",
+            " Java"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/james-gosling",
+        "Website": "https://www.facebook.com/james.gosling.96",
+        "Book Name": [
+            "The Java Programming Language, co-authored with Ken Arnold (Addison-Wesley, 1996; 4th ed., 2005)",
+            "The Java Language Specification, co-authored with Bill Joy and Guy L. Steele, Jr. (Addison-Wesley, 1996; Java SE eight ed., 2014)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=James+Gosling&search-alias=books&field-author=James+Gosling&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=bf86e8407e55de2d5c101f36ae3a1faf&language=en_US",
+        "Content": "Gosling was born in Calgary, Alberta, in Canada, in 1955. He received his Ph.D. in computer science in 1983 from Carnegie Mellon University. Gosling has spent his career in the private sector; he worked for Sun Microsystems for over 30 years, with much shorter subsequent stints at Google and Liquid Robotics. He currently holds the title of Distinguished Engineer with Amazon Web Services. Gosling is best known as the developer of the innovative Java programming language. In 1981, while still in graduate school, he introduced the first version of the Emacs text editor — Gosling Emacs — designed to run on a Unix-based system. In 1984, Gosling joined Sun Microsystems. It was there that he conceived the idea for Java, while working on a program to interface between a PERQ workstation and a VAX assembler owned by the company. Gosling’s insight involved designing a language with as few implementation dependencies as possible. In layman’s terms, this was the principle of “write once, run anywhere” (WORA), meaning the same Java program could be used with minimal adaptation by developers employing a wide variety of platforms. Today, Java remains one of the most popular of all programming languages, particularly for client-server Web applications. It has been estimated that more than nine million developers world-wide use the language on a regular basis.",
+        "place_of_birth": "Calgary,Alberta,Canada",
+        "year_of_birth": "1955"
+    },
+    "juris v. hartmanis": {
+        "name": "Juris V. Hartmanis",
+        "area of interest": [
+            "Computational Complexity Theory",
+            " Time hierarchy theorem",
+            " Berman-Hartmanis conjecture"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/juris-hartmanis",
+        "Website": "http://www.cs.cornell.edu/people/hartmanis/",
+        "Book Name": [
+            "Algebraic Structure Theory of Sequential Machines (Prentice-Hall, 1966)",
+            "Feasible Computations and Provable Complexity Properties (SIAM, 1987)",
+            "Computational Complexity Theory, editor (American Mathematical Society, 1989)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=Juris+Hartmanis&search-alias=books&field-author=Juris+Hartmanis&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=9744dc7a35b374bb5e5b37a136d2093c&language=en_US",
+        "Content": "Hartmanis was born in Riga, Latvia, in 1928. His father was arrested by the advancing Soviet Red Army at the end of World War II. The father died in prison, and the rest of the family fled to Germany, where Hartmanis finished his secondary education and attended university, earning the German equivalent of a master’s degree in physics in 1949 from the University of Marburg. He then traveled to the US, where he earned a master’s degree in mathematics in 1951 from the University of Missouri at Kansas City, and a Ph.D. in math in 1955 from the California Institute of Technology (CalTech). He is currently Emeritus Walter R. Read Professor of Computer Science and Engineering at Cornell University. Hartmanis has taught mathematics and computer science at Cornell University, Ohio State University, the Max Planck Institute for Computer Science in Saarbrucken, Germany, and elsewhere. However, it was while working in the private sector, for General Electric (GE) in the late 1950s and early 1960s, that he developed the fundamental principles of computational complexity theory for which he is chiefly known. This work culminated in a ground-breaking theoretical paper, co-written with Richard E. Stearns (see below) and published in 1965,[6] just before Hartmanis left GE to join the Cornell faculty. In this paper, the authors introduced the idea of time hierarchy classes (essentially, degrees of complexity based on the time required by a calculation of a given type), and proved what is now known as the “time hierarchy theorem.” In 1977, Hartmanis published another pioneering paper, this time in collaboration with Leonard Berman, introducing the still-unsolved Berman–Hartmanis conjecture that all NP-complete languages are polynomial-time isomorphic.[7] Hartmanis received the A.M. Turing Award in 1993.",
+        "place_of_birth": "Riga,Latvia",
+        "year_of_birth": "1928"
+    },
+    "martin e. hellman": {
+        "name": "Martin E. Hellman",
+        "area of interest": [
+            "Cryptography",
+            " Diffie-Hellman key exchange"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/martin-hellman",
+        "Website": "https://ee.stanford.edu/~hellman/",
+        "Book Name": [
+            "Breakthrough: Emerging New Thinking: Soviet and Western Scholars Issue a Challenge to Build a World Beyond War, co-edited with Anatoly A. Gromyko (Walker & Company, 1988)",
+            "A New Map for Relationships: Creating True Love at Home and Peace on the Planet, co-authored with Dorothie L. Hellman (New Map Publishing, 2016)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=Martin+E.+Hellman&search-alias=digital-text&field-author=Martin+E.+Hellman&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=edbc40ff314671cbfc5b90be3f23a661&language=en_US",
+        "Content": "Hellman was born in New York City in 1945. He received his Ph.D. in electrical engineering in 1969 from Stanford University. Hellman is currently Professor Emeritus of electrical engineering at Stanford University. Hellman has mainly worked in the area of cryptography. He is best known for coming up (in collaboration with Whitfield Diffie) with the concept of Diffie-Hellman key exchange — an extraordinarily fruitful idea which formed the foundation for the new field of public-key or asymmetric cryptography (for details, see the entry on Diffie above, as well as notes four and five below). In later years, Hellman became preoccupied with the broader privacy and national security implications of his work on cryptography. In 1988, he co-edited a volume of essays with Anatoly Gromyko (not to be confused with long-time Soviet Foreign Minister Andrei Gromyko, his father), in which distinguished American and Soviet scholars and statesmen discussed the possibilities of bolstering security and mutual trust between the two superpowers. In 2016, Hellman and his wife Dorothie published a book applying his insights on security and trust-building to personal relationships. Hellman won the A.M. Turing Award in 2015.",
+        "place_of_birth": "New York City",
+        "year_of_birth": "1945"
+    },
+    "john l. hennessy": {
+        "name": "John L. Hennessy",
+        "area of interest": [
+            "Automated design procedures for operating systems and microprocessors",
+            " RISC",
+            " FLASH multiprocessor"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/john-hennessy-1",
+        "Website": "https://web.stanford.edu/~hennessy/",
+        "Book Name": [
+            "Computer Organization and Design: The Hardware/Software Interface co-authored with David A. Patterson (4th ed.: Morgan Kauffman, 2008; numerous later editions are specialized for ARM, MIPS, and RISC-V architectures)",
+            "Computer Architecture: A Quantitative Approach, co-authored with David A. Patterson (6th ed.: Morgan Kauffman, 2017)",
+            "Leading Matters: Lessons from My Journey (Stanford Business Books, 2018)"
+        ],
+        "Book Link": "https://www.amazon.com/John-L.-Hennessy/e/B07HGVSXYN/?tag=tbs242-20",
+        "Content": "Hennessy was born in Huntington, New York, in 1952. He received his Ph.D. in computer science in 1977 from the State University of New York at Stony Brook (now Stony Brook University). He is currently Professor of Electrical Engineering and Computer Science at Stanford University, as well as Director of that school’s Knight-Hennessy Scholars Program. Often called one of the “Fathers of Silicon Valley,” Hennessy has had a distinguished career both as an entrepreneur (MIPS Technologies; Atheros Communications) and as an academic administrator (President of Stanford University, 2000–2016). However, he is best known for his work, in collaboration with David A. Patterson (see below), on the Reduced Instruction Set Computer (RISC) architecture, a design which is used today in 99 percent of all new computer chips. More generally, Hennessy is a pioneer in the systematic, quantitative design and evaluation of computer architectures, especially those designed for multiprocessing (the use of multiple central processing units within one integrated computer system). He also helped develop the FLASH (FLexible Architecture for Shared Memory) microprocessor, which supports many different designs for the same shared-memory multiprocessor. Hennessy received the A.M. Turing Award in 2017.",
+        "place_of_birth": "Huntington,New York",
+        "year_of_birth": "1952"
+    },
+    "c. antony hoare": {
+        "name": "C. Antony Hoare",
+        "area of interest": [
+            "Programming languages",
+            " ALGOL-W",
+            " Quicksort",
+            " CSP",
+            " Hoare logic"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/c-antony-hoare",
+        "Website": "https://www.cs.ox.ac.uk/people/tony.hoare/",
+        "Book Name": [
+            "Engineering Theories of Software Construction, co-edited with Manfred Broy and Ralf Steinbruggen (IOS Press, 2001)"
+        ],
+        "Book Link": "https://www.amazon.com/Tony-Hoare/e/B001I7PYNC/?tag=tbs242-20",
+        "Content": "Hoare was born in Colombo, Sri Lanka (then known as Ceylon), in 1934 to English parents. He was sent to the UK for his education, attending Merton College, University of Oxford, where he took his bachelor’s degree in “Greats” (Classics and philosophy) in 1956. During his compulsory military service, he learned Russian. He did graduate work on statistics and computer programming, first back at Oxford, then at Moscow State University, where he studied under the great mathematician and pioneer of computational complexity theory, Andrey N. Kolmogorov. After a number of years in private industry, Hoare became a Professor of Computing, first at Queen’s University, Belfast, then back at Oxford once again, where he led the Programming Research Group in what was then known as the Oxford University Computing Laboratory. He is currently Emeritus Professor in the Department of Computer Science at Oxford, as well as a Principal Researcher at Microsoft Research in Cambridge, England. Hoare began his career by working with Niklaus E. Wirth (see below) on ALGOL-W (implemented in 1966), an important extension of ALGOL, originally developed in 1958 by an international consortium. ALGOL — the direct ancestor of Pascal and C — was the first imperative-structured programming language, which most experts considered a major advance over competing languages of the time such as FORTRAN and COBOL. Hoare went on to devise influential sorting and selection algorithms (Quicksort and Quickselect), as well as the formal language Communicating Sequential Processes (CSP), which controls interactions between concurrent processes. Building on work by Robert W. Floyd, he also developed Hoare logic, which is a means of rigorously checking the correctness of an imperative-structured program by applying a set of axioms and inference rules. Hoare won the A.M. Turing Award in 1980.",
+        "place_of_birth": "Colombo,Sri Lanka,Ceylon",
+        "year_of_birth": "1934"
+    },
+    "john e. hopcroft": {
+        "name": "John E. Hopcroft",
+        "area of interest": [
+            "Algorithms",
+            " Formal languages",
+            " Automata",
+            " Hopcroft–Karp algorithm",
+            " Neural networks"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/john-hopcroft",
+        "Website": "http://www.cs.cornell.edu/jeh/",
+        "Book Name": [
+            "Formal Languages and Their Relation to Automata, co-authored with Jeffrey D. Ullman (Addison-Wesley, 1969)",
+            "Design and Analysis of Computer Algorithms, co-authored with Alfred V. Aho and Jeffrey D. Ullman (Addison-Wesley, 1974)",
+            "Introduction to Automata Theory, Languages, and Computation, co-authored with Jeffrey D. Ullman (Addison-Wesley, 1979; 3rd ed., 2006)",
+            "Data Structures and Algorithms, co-authored with Alfred V. Aho and Jeffrey D. Ullman (Pearson, 1983)"
+        ],
+        "Book Link": "https://www.amazon.com/John-E.-Hopcroft/e/B001IOH9GA/?tag=tbs242-20",
+        "Content": "Hopcroft was born in Seattle, Washington, in 1939. He obtained his Ph.D. in electrical engineering in 1964 from Stanford University. He is currently IBM Professor of Engineering and Applied Mathematics in Computer Science at Cornell University. Hopcroft’s work has been focused on the mathematical and logical foundations of algorithms, formal languages, and automata. He has done seminal work, in collaboration with Robert E. Tarjan (see below), on planar graphs, in addition to co-discovering, together with Richard M. Karp (see below), the Hopcroft–Karp algorithm for finding matchings in bipartite graphs. These signal theoretical contributions have been of no small practical importance to a number of sub-fields of computer science — notably, deterministic finite automata (DFA) minimization and neural networks, among others. Working with coauthors Jeffrey Ullman and Alfred Aho, Hopcroft has also written several textbooks on algorithms, formal languages, and automata, which are classics in their field. He won the A.M. Turing Award in 1986.",
+        "place_of_birth": "Seattle,Washington",
+        "year_of_birth": "1939"
+    },
+    "william m. kahan": {
+        "name": "William M. Kahan",
+        "area of interest": [
+            "Math/logic",
+            " Numerical analysis",
+            " Floating-point computation"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/william-kahan",
+        "Website": "https://www2.eecs.berkeley.edu/Faculty/Homepages/kahan.html",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Kahan was born in Toronto, Ontario, Canada, in 1933. He received his Ph.D. in mathematics in 1958 from the University of Toronto. He is now Emeritus Professor of Mathematics and of Electrical Engineering and Computer Science (EECS) at the University of California, Berkeley. Kahan is best known for his work in numerical analysis, both pure and applied. More specifically, he was the principal architect behind the IEEE 754–1985 standard format for the binary representation of numbers in floating-point computations. For this reason, he is often referred to as the “Father of Floating Point.” In addition to later refinements of the IEEE-754 specification, he has made many other important contributions, such as the “program paranoia” benchmark for testing for floating point bugs, the Kahan summation algorithm for minimizing the error necessarily involved in adding a sequence of finite-precision floating point numbers, and the Davis–Kahan–Weinberger dilation theorem (co-authored with Chandler Davis and Hans Weinberger), which is a landmark result in Hilbert space operator theory with many applications from quantum mechanics to linear systems. Under the latter heading are applications in such fields as automatic control theory, signal processing, and telecommunications. Kahan received the A.M. Turing Award in 1989.",
+        "place_of_birth": "Toronto,Ontario,Canada",
+        "year_of_birth": "1933"
+    },
+    "robert e. kahn": {
+        "name": "Robert E. Kahn",
+        "area of interest": [
+            "Network design",
+            " TCP/IP"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/robert-kahn",
+        "Website": "https://www.cnri.reston.va.us/bios/kahn.html",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Kahn was born in 1938, New York City, in 1938. He received his Ph.D. in electrical engineering in 1964 from Princeton University. During his long and distinguished career, Kahn worked in academia (MIT), for private industry (Bell Labs, BBN Technologies), and for government (DARPA). He is currently Chairman, CEO, and President of the Corporation for National Research Initiatives (CNRI), which he founded in 1986. Kahn is best known for the work he did, together with Vinton Cerf (see above), on designing the Transmission Control Protocol (TCP) and the Internet Protocol (IP) standards for two-way, packet-switching, network packet transmissions — basically, the rules of the road for the Internet. Kahn had been working on satellite telecommunications when he arrived at the Defense Advanced Research Projects Agency (DARPA) in the fall of 1972. He immediately became involved with demonstrating the feasibility of ARPANET, the first-generation network that was then under development. Initially connecting a mere 20 computers, ARPANET was a prototype of what would eventually become known as the Internet. When Cerf arrived at DARPA the following year, Kahn elicited his help in radically improving the existing network packet transmission protocols. The results of their collaboration — TCP and IP — formed the basis of open-architecture networking, which would make it possible for computers all over the world to communicate with each other no matter what hardware or software they were using. Kahn won the A.M. Turing Award in 2004.",
+        "place_of_birth": "New York City",
+        "year_of_birth": "1938"
+    },
+    "richard m. karp": {
+        "name": "Richard M. Karp",
+        "area of interest": [
+            "Computational complexity theory",
+            " Edmonds-Karp and Hopcroft-Karp algorithms",
+            " Bioinformatics"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/richard-karp",
+        "Website": "https://www2.eecs.berkeley.edu/Faculty/Homepages/karp.html",
+        "Book Name": "",
+        "Book Link": "https://simons.berkeley.edu/people/richard-karp",
+        "Content": "Karp was born in Boston, Massachusetts, in 1935. He received his Ph.D. in applied mathematics in 1959 from Harvard University. Karp is currently Professor Emeritus in the Department of Electrical Engineering and Computer Science (EECS) at the University of California, Berkeley, as well as Visiting Scientist with Berkeley’s Simons Institute for the Theory of Computing, which he served as Founding Director from 2012 until 2017. Karp has made important theoretical advances in a number of different fields of computer science, combinatorial algorithms, and operations research. In 1971, he published, with Jack R. Edmonds, a paper laying out the Edmonds-Karp algorithm for solving the maximum flow problem for networks. The following year, he published a path-breaking paper in computational complexity theory in which he proved 21 problems to be NP-complete.[8] The year after that (1973), in collaboration with John E. Hopcroft (see above), Karp developed the Hopcroft–Karp algorithm, which to this day remains the fastest known method for finding maximum cardinality matchings in bipartite graphs. Later work for which he is also well known include the Karp-Lipton theorem — developed together with Richard J. Lipton — which is an important result in the Satisfiability Problem for Boolean circuit logic gates, as well as the Rabin-Karp string search algorithm, developed with Michael O. Rabin (see below). Later in his career, Karp switched his main focus to the field of bioinformatics. He won the A.M. Turing Award in 1985.",
+        "place_of_birth": "Boston,Massachusetts",
+        "year_of_birth": "1935"
+    },
+    "alan kay": {
+        "name": "Alan Kay",
+        "area of interest": [
+            "Programming languages",
+            " OOLs",
+            " Mobile computing",
+            " Windowing GUI"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/alan-kay",
+        "Website": "https://samueli.ucla.edu/people/alan-kay/",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Kay was born in Springfield, Massachusetts, in 1940. He obtained his Ph.D. in computer science in 1969 from the University of Utah. He spent his career in between academia (Stanford, Kyoto University, MIT, UCLA) and the private sector (Xerox, Atari, Apple, Disney, Hewlett-Packard). He is currently President of the Viewpoints Research Institute, which he founded in 2001, as well as Adjunct Professor of Computer Science at UCLA. While working on his dissertation, Kay developed the FLEX programming language. His dissertation advisor at the University of Utah was Ivan E. Sutherland (see below), often referred to as the “Father of Computer Graphics.” During his work as a researcher at Xerox’s Palo Alto Research Center (PARC) facility in the early 1970s, Kay led a team that extended ideas he had already introduced in his dissertation into the language SMALLTALK, which they used as the basis for communication between networked workstations. SMALLTALK was one of the very first pure object-oriented languages (OOLs), and was eventually commercialized by Apple for their Lisa and Macintosh systems. Thus, Kay is often referred to as one of the “Fathers of OOLs.” While still at Xerox, he also made significant conceptual breakthroughs in two other areas, both in the Dynabook project, which was a computer originally aimed at children. Dynabook was the very first compact, mobile computer, and it also incorporated the first windowing graphical user interface (GUI) for interacting with the software program, as opposed to the earlier command line interface. Kay received the A.M. Turing Award in 2003.",
+        "place_of_birth": "Springfield,Massachusetts",
+        "year_of_birth": "1940"
+    },
+    "donald e. knuth": {
+        "name": "Donald E. Knuth",
+        "area of interest": [
+            "Computational complexity theory",
+            " Programming languages",
+            " The Art of Computer Programming"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/donald-knuth-1",
+        "Website": "https://www-cs-faculty.stanford.edu/~knuth/",
+        "Book Name": [
+            "The Art of Computer Programming, Volume 1: Fundamental Algorithms (Addison-Wesley, 1968; three additional volumes [volume four in six fascicles] and later editions; 3rd ed., volumes 1–4A published as boxed set, 2011)",
+            "Concrete Mathematics: A Foundation for Computer Science, co-authored with Ronald L. Graham and Oren Patashnik (Addison-Wesley, 1989; 2nd ed., 1994)",
+            "Things a Computer Scientist Rarely Talks About (Center for the Study of Language and Information, 2003)"
+        ],
+        "Book Link": "https://www.amazon.com/Donald-E.-Knuth/e/B000AQ6O7M/?tag=tbs242-20",
+        "Content": "Knuth was born in Milwaukee, Wisconsin, in 1938. He received his bachelor’s and master’s degrees in mathematics simultaneously in 1960 from Case Institute of Technology (now Case Western Reserve University). While at Case, he reprogrammed the university’s IBM 650 mainframe computer because he believed he could do it better. He received his Ph.D. in mathematics in 1963 from California Institute of Tchnology (CalTech). Knuth is currently Professor Emeritus of the Art of Computer Programming at Stanford University. Knuth has made outstanding contributions to three different areas of compute science: theoretical, practical, and pedagogical. At the theoretical level, he helped develop and systematize formal mathematical techniques for the rigorous analysis of the computational complexity of algorithms. In the process, he popularized asymptotic notation, which is used to classify algorithms according to how their running time or memory requirements grow as a function of the input size. At the practical level, Knuth developed the TeX computer typesetting system, the related METAFONT font rendering system, and the Computer Modern family of typefaces. He also designed the WEB and CWEB programming systems designed to encourage and facilitate literate programming, as well as the MIX/MMIX instruction set architectures. Finally, at the pedagogical level, his The Art of Computer Programming (see below) is widely regarded as a classic textbook. TAOCP, as it is widely known, enjoys a mystique among many computer scientists whose closest analogue is perhaps the esteem in which The Feynman Lectures on Physics is held by many physicists. Bill Gates has asked anyone who has read and understood all of TAOCP to send him their résumé. Knuth received the A.M. Turing Award in 1974.",
+        "place_of_birth": "Milwaukee,Wisconsin",
+        "year_of_birth": "1938"
+    },
+    "leslie lamport": {
+        "name": "Leslie Lamport",
+        "area of interest": [
+            "Math/logic",
+            " Theory of distributed systems",
+            " Logical clocks",
+            " Chandy-Lamport algorithm",
+            " LaTeX"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/leslie-lamport",
+        "Website": "https://www.microsoft.com/en-us/research/people/lamport/",
+        "Book Name": [
+            "Analysis of the ordering of tasks (logical clocks)[9]",
+            "Definition of a consistent global state (snapshot) of an asynchronous system (the Chandy-Lamport algorithm, in collaboration with K.M. Chandy)[10]",
+            "The concept of sequential consistency[11]",
+            "Various theorems on stability and fault tolerance (e.g., the Byzantine Generals problem)[12]"
+        ],
+        "Book Link": "http://www.lamport.org/",
+        "Content": "Lamport was born in New York City in 1941. He earned his Ph.D. in mathematics in 1972 from Brandeis University. He currently holds the title Distinguished Scientist with the Microsoft Corporation. For the most part, Lamport’s work has been highly theoretical in nature. Much of it has focused on the logical requirements of distributed (concurrent) systems. Some of his most famous papers contain the following influential ideas:",
+        "place_of_birth": "New York City",
+        "year_of_birth": "1941"
+    },
+    "butler w. lampson": {
+        "name": "Butler W. Lampson",
+        "area of interest": [
+            "Network design",
+            " Time-sharing systems",
+            " SDS 940",
+            " Alto"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/butler-lampson",
+        "Website": "https://www.csail.mit.edu/person/butler-lampson",
+        "Book Name": [
+            "Distributed Systems: Architecture and Implementation. An Advanced Course, co-edited with M. Paul and H.J. Siegert (Springer Verlag, 1983)"
+        ],
+        "Book Link": "http://www.bwlampson.site/",
+        "Content": "Lampson was born in Washington, DC, in 1943. He received his Ph.D. in electrical engineering and computer science (EECS) in 1967 from the University of California, Berkeley. He is currently Adjunct Professor with the Computer Science and Artificial Intelligence Lab (CSAIL) at MIT. Lampson is perhaps best known for his work on Project GENIE at Berkeley during the 1960s. The team produced the pioneering Berkeley time-sharing system, which was later commercialized by Scientific Data Systems as the SDS 940. In 1971, Lampson went to work for Xerox Corporation, becoming a founding member of their storied PARC research facility. The following year, he laid out his vision for what would become the world’s first personal computer — the Alto — in a historic memorandum.[13] While at PARC, Lampson continued worked on a large number of other revolutionary technologies, such as Bravo (the first WYSIWYG text formatting program), two-phase commit protocols, laser printer design, and Ethernet (the first high-speed local area network [LAN]). He also created several important programming languages, including Euclid. Lampson received the A.M. Turing Award in 1992.",
+        "place_of_birth": "Washington, DC",
+        "year_of_birth": "1943"
+    },
+    "barbara liskov": {
+        "name": "Barbara Liskov",
+        "area of interest": [
+            "Programming languages",
+            " Venus",
+            " CLU",
+            " Argus",
+            " Thor",
+            " Liskov substitution principle"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/barbara-liskov-1",
+        "Website": "https://www.csail.mit.edu/person/barbara-liskov",
+        "Book Name": [
+            "CLU: Reference Manual, with six co-editors (Springer, 1981)",
+            "Distributed Systems: Methods and Tools for Specification. An Advanced Course, with six co-editors (Springer, 1985)",
+            "Abstraction and Specification in Program Development, co-authored with John Guttag (MIT Press, 1986)",
+            "Program Development in Java: Abstraction, Specification, and Object-Oriented Design, co-authored with John Guttag (Addison-Wesley, 2000)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=Barbara+Liskov;John+Guttag&search-alias=books&field-author=Barbara+Liskov;John+Guttag&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=708e24686c525ebb457c6ac95bdf1067&language=en_US",
+        "Content": "Liskov (née Huberman) was born in Los Angeles, California, in 1939. She earned her bachelor’s degree in mathematics in 1961 from the University of California, Berkeley. After graduation, she applied to Princeton University’s doctoral program in mathematics, but they did not accept women graduate students at that time. As a result, she went to work for the Mitre Corporation, where she became interested in computers. Later, she was accepted as a graduate student by Stanford University, where she worked with John McCarthy. She obtained her Ph.D. in computer science in 1968 from Stanford. Liskov is currently Institute Professor with the Computer Science and Artificial Intelligence Lab (CSAIL) at MIT. Upon graduating from Stanford, Liskov returned to Mitre Corporation, and it was there that she developed the first of the many pioneering projects for which she is well known — namely, the Venus operating system, an early interactive timesharing system that was small and low-cost. She soon left Mitre to take up a faculty position at MIT, and it was there that she led the team that developed the CLU programming language, an important step on the road to a pure object-oriented language (OOL). At MIT, she also developed Argus, which was the first high-level language to support implementation of distributed programs and incorporate “promise pipelining,” as well as Thor, an object-oriented database system. In addition, she produced the Liskov substitution principle, a form of strong behavioral subtyping, which specifies which classes of objects may safely substitute for each other in an OOL. Liskov won the A.M. Turing Award in 2008.",
+        "place_of_birth": "Los Angeles,California",
+        "year_of_birth": "1939"
+    },
+    "silvio micali": {
+        "name": "Silvio Micali",
+        "area of interest": [
+            "Cryptography",
+            " Public-key cryptosystems",
+            " Pseudorandom functions",
+            " Zero-knowledge proofs"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/silvio-micali",
+        "Website": "https://www.csail.mit.edu/person/silvio-micali",
+        "Book Name": [
+            "Randomness and Computation, co-edited with Franco P. Preparata (JAI Press, 1990)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=Silvio+Micali&search-alias=books&field-author=Silvio+Micali&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=28a5d859a298a0f944f3b1db04f912c4&language=en_US",
+        "Content": "Micali was born in Palermo, Italy, in 1954. He received his Ph.D. in computer science in 1983 from the University of California, Berkeley. He is currently Ford Professor of Engineering with the Computer Science and Artificial Intelligence Lab (CSAIL) at MIT. Micali’s research has focused on cryptography. He made early and fundamental contributions to the development of public-key cryptosystems, including such important cryptographic ideas as pseudo-random functions, zero-knowledge proofs, and oblivious transfer protocol. Micali, who has also worked on secure multi-party computation, is one of the inventors of digital signatures. He received the A.M. Turing Award in 2012.",
+        "place_of_birth": "Palermo,Italy",
+        "year_of_birth": "1954"
+    },
+    "david a. patterson": {
+        "name": "David A. Patterson",
+        "area of interest": [
+            "Operating systems/Processor design",
+            " RISC microprocessor",
+            " RAID storage system"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/david-patterson",
+        "Website": "https://www2.eecs.berkeley.edu/Faculty/Homepages/patterson.html",
+        "Book Name": [
+            "Computer Organization and Design: The Hardware/Software Interface, co-authored with John L. Hennessy (4th ed.: Morgan Kauffman, 2008; numerous later editions are specialized for ARM, MIPS, and RISC-V architectures)",
+            "Engineering Software as a Service: An Agile Approach Using Cloud Computing, co-authored with Armando Fox (Strawberry Canyon, 2013)",
+            "Computer Architecture: A Quantitative Approach, co-authored with John L. Hennessy (6th ed.: Morgan Kauffman, 2017",
+            "The RISC-V Reader: An Open Architecture Atlas, co-authored with Andrew Waterman (Strawberry Canyon, 2017)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=David+A.+Patterson&search-alias=books&field-author=David+A.+Patterson&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=942bafdc2a3efe9df603584029d1f4af&language=en_US",
+        "Content": "Patterson was born in Evergreen Park, Illinois, in 1947. He received in Ph.D. in computer science in 1976 from the University of California, Los Angeles (UCLA). He is currently the E.H. and M.E. Pardee Professor of Computer Science, Emeritus, in the Department of Electrical Engineering and Computer Science (EECS) at the University of California, Berkeley. Patterson’s research has focused on the design of operating systems and microprocessors. He is one of the inventors of the concept of Reduced Instruction Set Computing (RISC), a term coined by him. RISC was an important innovation in operating system architecture that allowed computers to attain faster speeds — in relation to the earlier Instruction Set Architecture (ISA) — by reducing the number of cycles per instruction (CPI). He is also one of the inventors of the Redundant Array of Independent Disks (RAID) concept, a data storage system that uses two or more physical disk drives and a controller to increase performance and provides fault tolerance. Patterson won the A.M. Turing Award in 2017.",
+        "place_of_birth": "Evergreen Park,Illinois",
+        "year_of_birth": "1947"
+    },
+    "judea pearl": {
+        "name": "Judea Pearl",
+        "area of interest": [
+            "Probability theory",
+            " Causal reasoning",
+            " Bayesian networks",
+            " Artificial intelligence"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/judea-pearl",
+        "Website": "http://bayes.cs.ucla.edu/jp_home.html",
+        "Book Name": [
+            "Heuristics: Intelligent Search Strategies for Computer Problem Solving (Addison-Wesley, 1984)",
+            "Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference (Morgan Kaufmann, 1988)",
+            "Causality: Models, Reasoning, and Inference (Cambridge University Press, 2000; 2nd ed., 2009)",
+            "The Book of Why: The New Science of Cause and Effect, co-authored with Dana Mackenzie (Basic Books, 2018)"
+        ],
+        "Book Link": "https://www.amazon.com/Judea-Pearl/e/B001HCTYSO/?tag=tbs242-20",
+        "Content": "Pearl was born in Tel Aviv, Israel (at the time, British-controlled Mandatory Palestine), in 1936. He received his Ph.D. in electrical engineering in 1965 from the Polytechnic Institute of Brooklyn (now New York University’s Tandon School of Engineering). He is the father of Daniel Pearl, who while on assignment in Pakistan for the Wall Street Journal in 2002 was murdered by terrorists loyal to al-Qaeda. Judea Pearl is currently Professor of Computer Science and Statistics, as well as Director of the Cognitive Systems Laboratory, at University of California, Los Angeles (UCLA). Pearl is a mathematician and philosopher whose work has had an immense impact on the theoretical disciplines that attempt to model causal reasoning, especially statistical and probabilistic inference. More specifically, he has devised a new model of statistical inference known as “Bayesian networks” due to their fundamental reliance upon Bayes’s theorem. A Bayesian network-type model represents a set of variables and their conditional dependencies via a directed acyclic graph. Bayesian networks have found widespread application in several fields of computer science, notably that of artificial intelligence. Pearl received the A.M. Turing Award in 2011.",
+        "place_of_birth": "Tel Aviv,Israel",
+        "year_of_birth": "1936"
+    },
+    "radia j. perlman": {
+        "name": "Radia J. Perlman",
+        "area of interest": [
+            "Network design",
+            " TORTIS",
+            " STP"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/radia-perlman-1",
+        "Website": "https://www.facebook.com/Radia-Perlman-64503178401/",
+        "Book Name": [
+            "Interconnections: Bridges and Routers (Addison-Wesley, 1992; 2nd ed., 1999)",
+            "Network Security: Private Communication in a Public World, co-authored with Charlie Kaufman and Mike Speciner (Prentice-Hall, 1995; 2nd ed.: 2002)"
+        ],
+        "Book Link": "https://www.amazon.com/Radia-Perlman/e/B001H6QQ9K/?tag=tbs242-20",
+        "Content": "Perlman was born in Portsmouth, Virginia, in 1951, but grew up near Asbury Park, New Jersey. She received her bachelor’s and master’s degrees in mathematics, both from the Massachusetts Institute of Technology (MIT), in 1973 and 1976, respectively. She obtained her Ph.D. in computer science from MIT in 1988. Perlman is currently a Fellow with the Dell EMC corporation. Already in 1971, during her undergraduate work in mathematics at MIT, Perlman began working as a part-time programmer for the LOGO Lab at the MIT Artificial Intelligence Laboratory, as it was then called. LOGO was an educational programming language being developed at that time by Seymour Papert, Cynthia J. Solomon (see below), and others for educational applications. Initially, Perlman was paid to do run-of-the-mill programming and debugging. However, she soon began to develop, under Papert’s guidance, her own modified version of LOGO, called TORTIS (Toddler’s Own Recursive Turtle Interpreter System), designed to operate with a toy-like computer called Turtle. The Turtle/TORTIS system was successfully tested with children as young as three and a half years of age.",
+        "place_of_birth": "Portsmouth,Virginia,Asbury Park,New Jersey",
+        "year_of_birth": "1951"
+    },
+    "michael o. rabin": {
+        "name": "Michael O. Rabin",
+        "area of interest": [
+            "Computational complexity theory",
+            " Nondeterministic finite automata",
+            " Cryptography",
+            " Miller-Rabin primality test"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/michael-rabin",
+        "Website": "https://www.seas.harvard.edu/directory/rabin",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Rabin was born in Wrocław, Poland (Breslau, Germany, at the time), in 1931. At the age of four, he emigrated with his family to British-ruled Mandatory Palestine. He received his master’s degree in mathematics in 1953 from the Hebrew University of Jerusalem, and his Ph.D. in mathematics in 1957 from Princeton University. He is currently Thomas J. Watson, Sr. Professor of Computer Science Emeritus with the John A. Paulson School of Engineering and Applied Sciences at Harvard University. Rabin has done path-breaking work in several different fields of applied mathematics and logic, but the two areas to which he has made the most-outstanding contributions are computational complexity theory and cryptography. In the former, Rabin — in collaboration with Dana S. Scott (see below — introduced the notion of nondeterministic finite automata as a superior approach to determining whether a given algorithm can be solved effectively — that is, is solvable in polynomial time by a nondeterministic Turing machine (in other words, belongs to complexity class NP).[14] As to the latter, Rabin invented the Miller-Rabin primality test (arrived at independently by Gary L. Miller), a randomized algorithm that can determine very quickly (albeit with a small probability of error) whether a given number is prime. This test became the basis for what is now known as Rabin cryptography. Rabin won the A.M. Turing Award in 1976.",
+        "place_of_birth": "Wrocław,Poland,Breslau,Germany",
+        "year_of_birth": "1931"
+    },
+    "dabbala b. (“raj”) reddy": {
+        "name": "Dabbala B. (“Raj”) Reddy",
+        "area of interest": [
+            "Artificial intelligence",
+            " Speech recognition"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/dabbala-reddy",
+        "Website": "http://www.rr.cs.cmu.edu/",
+        "Book Name": [
+            "Speech Recognition, editor (Academic Press, 1975)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=D.+Raj+Reddy&search-alias=books&field-author=D.+Raj+Reddy&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=1a3d7f0ccf327d5150070d22e5de8ff1&language=en_US",
+        "Content": "Reddy was born in Katur, Tamil Nadu, India, in 1937. He received his bachelor’s degree in civil engineering in 1958 from the University of Madras (now Chennai), and his master’s degree in technology in 1960 from the University of New South Wales in Australia. He earned his Ph.D. in computer science in 1966 from Stanford University. Reddy is currently Moza Bint Nasser University Professor of Computer Science and Robotics at Carnegie Mellon University, where he founded the Robotics Institute. Reddy was also instrumental in founding Rajiv Gandhi University of Knowledge Technologies in 2008 in rural Basar, Telangana state, in India, and he currently serves as Chairman of the International Institute of Information Technology in Hyderabad. Reddy’s research has ranged widely across the various sub-fields of artificial intelligence (AI). In particular, he has concentrated on perceptual and motor aspects of AI such as speech, language, and vision, and their applications to human-computer interface and robotics. Among his signal accomplishments have been early efforts to control robots via voice commands, as well as the introduction of very large and unrestricted vocabularies in connection with speech recognition. Reddy won the A.M. Turing Award in 1994.",
+        "place_of_birth": "Katur, Tamil Nadu,India",
+        "year_of_birth": "1937"
+    },
+    "ronald l. rivest": {
+        "name": "Ronald L. Rivest",
+        "area of interest": [
+            "Cryptography",
+            " RSA",
+            " RC",
+            " and MD cryptosystems"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/ronald-rivest",
+        "Website": "http://people.csail.mit.edu/rivest/",
+        "Book Name": [
+            "Introduction to Algorithms, co-authored with Thomas H. Cormen and Charles E. Leiserson (MIT Press, 1990; 3rd ed.: 2009)",
+            "Machine Learning: From Theory to Applications, co-edited with Stephen J. Hanson and Werner Remmele (Springer-Verlag, 1993)",
+            "Advances in Cryptology — ASIACRYPT ‘91, co-edited with Hideki Imai and Tsutomu Matsumoto (Springer-Verlag, 1993)"
+        ],
+        "Book Link": "https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/?tag=tbs242-20",
+        "Content": "Rivest was born in Schenectady, New York, in 1943. He received his Ph.D. in computer science in 1974 from Stanford University. He is currently Institute Professor with the Computer Science and Artificial Intelligence Lab at MIT. Rivest is probably best known for his contribution, with Leonard M. Adleman (see above) and Adi Shamir (see below), to the RSA algorithm which — as has already been mentioned above under the entry on Adleman — was one of the first asymmetric (public-key) cryptosystems. He also invented a series of symmetric (private-key) encryption systems which go by the name RC (for Rivest Cipher), as well as the MD (Message Digest) series of hash-function cryptosystems. In addition to his work on computer cryptography, Rivest has carried out important research in the field of pure mathematics known as combinatorics. Finally, he has developed the ThreeBallot voting protocol, an end-to-end, auditable voting system that combines anonymity with verifiability. Rivest won the A.M. Turing Award in 2002.",
+        "place_of_birth": "Schenectady,New York",
+        "year_of_birth": "1943"
+    },
+    "dana s. scott": {
+        "name": "Dana S. Scott",
+        "area of interest": [
+            "Automata theory",
+            " Semantics of programming languages",
+            " Modal logic",
+            " Domain theory"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/dana-scott",
+        "Website": "https://www.cs.cmu.edu/~scott/",
+        "Book Name": [
+            "Axiomatic Set Theory, Volume 1, editor (American Mathematical Society, 1967)",
+            "An Introduction to Modal Logic, co-authored with E. John Lemmon (Blackwell Publishers, 1977)",
+            "Lectures on a Mathematical Theory of Computation (Oxford University Computing Laboratory, 1981)"
+        ],
+        "Book Link": "",
+        "Content": "Scott was born in Berkeley, California, in 1932. He received his bachelor’s degree in mathematics in 1954 from the University of California, Berkeley, where he worked with the great Polish logician Alfred Tarski. For his PhD, he went to Princeton University, where he worked with one of the founding fathers of theoretical computer science, Alonzo Church. Scott took his degree in 1958. He is currently Hillman University Professor of Computer Science, Philosophy, and Mathematical Logic (Emeritus) at Carnegie Mellon University. Scott has done pathbreaking research in pure mathematics, mathematical logic, and philosophy, as well as in the application of those disciplines to theoretical computer science. In particular, he is well known for his work, together with Michael O. Rabin (see above), on nondeterministic finite automata (see the entry on Rabin for more details). In philosophy, Scott is noted for his contribution to Montague-Scott semantics (arrived at independently by the logician Richard Montague), which is an important extension of Kripke semantics for modal and tense logics. However, it is probably in pure mathematics that Scott has made his most fundamental and wide-ranging contribution, especially in topology and related areas, including the study of domain theory (which he initiated), continuous lattices, and category theory. In this work — some of which was done in collaboration with Christopher Strachey — Scott helped to lay a solid theoretical foundation for the semantics for programming languages in which recursive functions and looping-control constructs may be given a denotational semantics. Scott received the A.M. Turing Award in 1976.",
+        "place_of_birth": "Berkeley,California",
+        "year_of_birth": "1932"
+    },
+    "adi shamir": {
+        "name": "Adi Shamir",
+        "area of interest": [
+            "Cryptography",
+            " Differential cryptanalysis",
+            " RSA",
+            " Shamir secret-sharing scheme",
+            " Visual cryptography"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/adi-shamir",
+        "Website": "http://www.wisdom.weizmann.ac.il/profile/scientists/shamir-profile.html",
+        "Book Name": [
+            "Differential Cryptanalysis of the Data Encryption Standard, co-authored with Eli Biham (Springer, 1993)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=Adi+Shamir&search-alias=books&field-author=Adi+Shamir&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=0f6c790be5cc6e43bf89965f3174f6ad&language=en_US",
+        "Content": "Shamir was born in Tel Aviv, Israel, in 1952. He received his Ph.D. in computer science in 1977 from the Weizmann Institute of Science in Rehovot, Israel. He is currently Paul and Marlene Borman Professor of Applied Mathematics in the Faculty of Mathematics and Computer Science at the Weizmann Institute of Science. Shamir is probably best known as a co-inventor, with Leonard M. Adleman and Ronald L. Rivest (for both of whom, see above), of the RSA algorithm, one of the first asymmetric, or public-key, cryptosystems. However, he has made numerous other contributions both to cryptography and computer science more generally. For example, he is the inventor of the Shamir secret-sharing scheme and the still-hypothetical TWIRL and TWINKLE integer factoring devices. He has also made significant contributions to visual cryptography. However, his most important contribution (in collaboration with Eli Biham) has probably been his discovery of the technique known as differential cryptanalysis, a general method for attacking block ciphers by analyzing how differences in information input can affect differences in output. In his work in other fields of computer science, Shamir found the first linear-time algorithm for 2-satisfiability and demonstrated the equivalence of the complexity classes PSPACE and IP. He won the A.M. Turing Award in 2002.",
+        "place_of_birth": "Tel Aviv,Israel",
+        "year_of_birth": "1952"
+    },
+    "joseph sifakis": {
+        "name": "Joseph Sifakis",
+        "area of interest": [
+            "Math/logic",
+            " Model checking"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/joseph-sifakis",
+        "Website": "http://www-verimag.imag.fr/PEOPLE/Joseph.Sifakis/",
+        "Book Name": [
+            "Automatic Verification Methods for Finite State Systems, editor (Springer, 1990)",
+            "Embedded Software, co-edited with Alberto Sangiovanni-Vincentelli (Springer, 2002)",
+            "Embedded Systems Design: The ARTIST Roadmap for Research and Development, co-authored with Bruno Bouyssounouse (Springer, 2005)",
+            "Rigorous System Design (Now Publishers, 2013)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=Joseph+Sifakis&search-alias=books&field-author=Joseph+Sifakis&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=482621ce51eaa93a84eb38ef8dcfbf6f&language=en_US",
+        "Content": "Sifakis was born in Heraklion, Greece, in 1946. After receiving his undergraduate education in electrical engineering from the Technical University of Athens, he obtained his Ph.D. in mathematics in 1974 (with Habilitation in 1979) from the University of Grenoble in France. He is currently Research Director of VERIMAG Laboratory, which he founded in 1993. VERIMAG, which is located near Grenoble and operates under the auspices of CNRS (Centre National de Recherche Scientifique [National Center for scientific Research]) and the Grenoble Institute of Technology, is a leading research center for embedded systems. Sifakis is also Director of the Institut Carnot LSI (Logiciels et Systèmes Intelligents [Software and Intelligent Systems]) at the Grenoble Institute of Technology. Sifakis is best known for developing the idea of model checking.[15] Already discussed in the entry for Edmund M. Clarke, Jr. (above), model checking is a method for formally verifying finite-state concurrent systems. In a nutshell, a particular aspect, or specification, of a complex computational system is first expressed as a set of specially designed temporal logic formulas, known as a model. An efficient algorithm can then be used to exhaustively and automatically check whether the model satisfies the original specification, thus verifying that aspect of the complex system. The procedure can then be repeated for other specifications of the system. More recently, Sifakis has done important research on — and become a prominent exponent of — the use of embedded systems approaches and rigorous system design methodologies. He received the A.M. Turing Award in 2007.",
+        "place_of_birth": "Heraklion,Greece",
+        "year_of_birth": "1946"
+    },
+    "cynthia solomon": {
+        "name": "Cynthia Solomon",
+        "area of interest": [
+            "Artificial Intelligence",
+            " Programming languages",
+            " Logo"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/cynthia-solomon",
+        "Website": "http://constructingmodernknowledge.com/?p=35",
+        "Book Name": [
+            "Computer Environments for Children: A Reflection on Theories of Learning and Education (MIT Press, 1986; revised ed., 1988)",
+            "Designing Multimedia Environments for Children, co-authored with Allison Druin (Wiley, 1996)"
+        ],
+        "Book Link": "https://www.amazon.com/Cynthia-Solomon/e/B001KDYH3M/?tag=tbs242-20",
+        "Content": "Solomon was born in Somerville, Massachusetts, in 1938. She received her bachelor’s degree in history from Radcliffe College, as it was then known. She obtained a master’s in computer science in 1976 from Boston University, and a doctorate in education (EdD) in 1985 from Harvard University. She is currently a Senior Fellow with Constructing Modern Knowledge, where she works on the One Laptop per Child Foundation’s Learning Team. Solomon is known for her work on artificial intelligence and programming languages for educational purposes, especially introducing small children to basic computational concepts. She began to be interested in computers while working as a secretary for Marvin Minsky at MIT in the 1960s. While at MIT, she taught herself Lisp. She eventually left MIT to take a position as a Lisp programmer with Bolt, Beranek, and Newman (now BBN Technologies). However, she remained in close touch with her former MIT colleagues, and subsequently became heavily involved in the development, along with Seymour Papert, of the Logo programming language for small mobile robots known as “turtles,” aimed at teaching computational and other skills to young children. Radia J. Perlman (see above) later joined this group. In 1971, Solomon co-authored with Papert a widely circulated internal MIT Artificial Intelligence Lab memo[16] that sketched a vision for incorporating computers into early childhood education. After leaving BBN, Solomon co-founded Logo Computer Systems, Inc., where she served as Vice President for Research and Development during the time when the company was designing the famous Apple Computer Company logo. In later years, she worked for the Atari Corporation and taught computer science at the high school level for a number of years.",
+        "place_of_birth": "Somerville,Massachusetts",
+        "year_of_birth": "1938"
+    },
+    "richard e. stearns": {
+        "name": "Richard E. Stearns",
+        "area of interest": [
+            "Computational Complexity theory",
+            " Automata theory",
+            " Algorithms",
+            " Game theory"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/richard-stearns",
+        "Website": "https://www.albany.edu/ceas/richard-stearns.php",
+        "Book Name": [
+            "Algebraic Structure Theory of Sequential Machines, co-authored with Juris Hartmanis (Prentice-Hall, 1966)",
+            "Compiler Design Theory, co-authored with Philip M. Lewis and Daniel J. Rosenkrantz (Addison Wesley, 1976)",
+            "Repeated Games with Incomplete Information, co-authored with Robert J. Aumann and Michael B. Maschler (MIT Press, 1995)"
+        ],
+        "Book Link": "https://www.amazon.com/Repeated-Games-Incomplete-Information-Press/dp/0262526263/?tag=tbs242-20",
+        "Content": "Stearns was born in Caldwell, New Jersey, in 1936. He received his Ph.D. in mathematics in 1961 from Princeton University. He is currently Distinguished Professor Emeritus of Computer Science in the College of Engineering and Applied Sciences at the University at Albany-SUNY. Stearns is also a member of the Visiting Research Faculty with the Biocomplexity Institute at the Virginia Institute of Technology. Stearns is known for his contributions to several different fields of mathematics underlying the theory of computation, including automata theory, the analysis of algorithms, and game theory. However, he is undoubtedly best known for his work on computational complexity theory, especially the early work he did in collaboration with Juris Hartmanis (see above). In a pioneering paper published in 1965,[6] Hartmanis and Stearns introduced the idea of time hierarchy classes — that is, degrees of complexity based on the time required to perform a calculation of a given type — and proved the time hierarchy theorem, which states that for every deterministic time-bounded complexity class, there is a strictly larger time-bounded complexity class. In later work in collaboration with Philip M. Lewis and Daniel J. Rosenkrantz, Stearns introduced the notion of serializability as a necessary and sufficient condition for the consistency and correctness of the fast execution of transactions in concurrent database systems. In work with Harry B. Hunt III, Stearns proved important theorems concerning reduction principles for finding simpler adequate models of highly complex real-world systems, as well as sum-of-products problems viewed algebraically, which extend the structure tree concept to quantified formulas. He received the A.M. Turing Award in 1993.",
+        "place_of_birth": "Caldwell,New Jersey",
+        "year_of_birth": "1936"
+    },
+    "michael r. stonebraker": {
+        "name": "Michael R. Stonebraker",
+        "area of interest": [
+            "Database management systems",
+            " Ingres",
+            " C-Store",
+            " H-Store",
+            " SciDB"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/michael-stonebraker",
+        "Website": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stonebraker.html",
+        "Book Name": [
+            "The Ingres Papers: Anatomy of a Relational Database System (Addison-Wesley, 1986)",
+            "Readings in Database Systems, editor (Morgan Kauffman, 1988; 4th ed., 2006; 5th ed., 2016, available online)",
+            "Migrating Legacy Systems: Gateways, Interfaces, and the Incremental Approach, co-authored with Michael L. Brodie (Morgan Kauffman, 1995)",
+            "Object-Relational DBMSs: The Next Great Wave, co-authored with Dorothy Moore (Morgan Kauffman, 1995; 2nd ed., 1998)",
+            "Architecture of a Database System, co-authored with Joseph M. Hellerstein and James Hamilton (Now Publishers, 2007)"
+        ],
+        "Book Link": "https://www.csail.mit.edu/person/michael-stonebraker",
+        "Content": "Stonebraker was born in Newburyport, Massachusetts, in 1943. He received his Ph.D. in computer engineering in 1971 from the University of Michigan. He is currently Professor Emeritus in the Department of Electrical Engineering and Computer Science (EECS) at UC-Berkeley, as well as Adjunct Professor with the Computer Science and Artificial Intelligence Lab (CSAIL) at MIT. Stonebraker’s career has been focused on database management systems (DBMSs). Initially, he developed several well-known relational-type DBMSs, such as Ingres and Postgres. Later, he developed the more-innovative parallel, shared-nothing, column-oriented type of DBMS, such as C-Store. Next, Stonebraker and co-workers developed a distributed, main-memory, online transaction processing (OLTP) type of system (H-Store), which provided greatly increased throughput on transaction processing workloads. After that, working with David DeWitt and others, Stonebraker helped develop an open-source DBMS called SciDB, which was especially designed for scientific research applications. He won the A.M. Turing Award in 2014.",
+        "place_of_birth": "Newburyport,Massachusetts",
+        "year_of_birth": "1943"
+    },
+    "ivan e. sutherland": {
+        "name": "Ivan E. Sutherland",
+        "area of interest": [
+            "Programming languages",
+            " Computer graphics",
+            " Interactive interfaces",
+            " Real-time computing"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/ivan-sutherland",
+        "Website": "https://www.pdx.edu/ece/sutherland",
+        "Book Name": [
+            "Logical Effort: Designing Fast CMOS Circuits, co-authored with Bob Sproul and David Harris (Morgan Kauffman, 1999)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=Ivan+Sutherland&search-alias=digital-text&field-author=Ivan+Sutherland&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=653415ac35c0d129c834d4576011818a&language=en_US",
+        "Content": "Sutherland was born in Hastings, Nebraska, in 1938. He earned his Ph.D. in electrical engineering and computer science (EECS) in 1963 from MIT, where he worked with Claude Shannon and Marvin Minsky. He is currently Visiting Scientist with the Massee College of Engineering and Computer Science at Portland State University, where he co-founded the Asynchronous Research Center with his wife, Marly Roncken. Sutherland is often referred to as the “Father of Computer Graphics.” Already for his Ph.D. dissertation, he developed the ideas that would become Sketchpad, the first program capable of accepting geometrical shapes (line segments and arcs) as input data and of performing operations upon them, such as copying and pasting, rotating, resizing, etc. Sketchpad is the ancestor of most later graphical user interfaces (GUIs). In 1968, Sutherland, together with his colleague David C. Evans, founded Evans & Sutherland, often referred to as the first computer graphics company. The firm did pioneering research and development in a number of different fields, including real-time (reactive) computing, accelerated 3D computer graphics, and printer languages. Former Evans & Sutherland employees John Warnock and James H. Clark went on to found Adobe Systems and Silicon Graphics, respectively. Sutherland received the A.M. Turing Award in 1988.",
+        "place_of_birth": "Hastings,Nebraska",
+        "year_of_birth": "1938"
+    },
+    "robert e. tarjan": {
+        "name": "Robert E. Tarjan",
+        "area of interest": [
+            "Math/logic",
+            " Tarjan’s off-line lowest common ancestors algorithm",
+            " Fibonacci heaps",
+            " Splay trees"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/robert-tarjan",
+        "Website": "https://www.cs.princeton.edu/people/profile/ret",
+        "Book Name": [
+            "Notes on Introductory Combinatorics, co-authored with George Pólya and Donald R. Woods (Birkhäuser, 1983; reprint ed., 2010)",
+            "Data Structures and Network Algorithms (Society for Industrial and Applied Mathematics, 1987)"
+        ],
+        "Book Link": "https://www.intertrust.com/leadership/#robert-e-tarjan",
+        "Content": "Tarjan was born in 1948, Pomona, California, in 1948. He received his Ph.D. in computer science in 1972 from Stanford University, where he worked with Donald E. Knuth (see above). During his career, he has worked both in academia (UC-Berkeley, Cornell, Stanford, NYU, Princeton) and in the private sector (Bell Labs, Microsoft, NEC, Compaq, Hewlett-Packard, and Intertrust Technologies). Tarjan is currently James S. McDonnell Distinguished University Professor in the Department of Computer Science at Princeton University, as well as Chief Scientist at Intertrust Technologies Corporation. Tarjan is best known for his pioneering theoretical work in applied mathematics, especially on graph structure algorithms and data structures. As to the former, he is the inventor of Tarjan’s off-line lowest common ancestors algorithm, Tarjan’s strongly connected components algorithm, and (with several co-workers) the median of medians linear time selection algorithm. Working with John E. Hopcroft (see above), he also developed the Hopcroft-Tarjan planarity testing algorithm, the first linear-time algorithm for planarity-testing (determining whether a given graph can be drawn in the plane without edge intersections). As to the latter (i.e., data structures), he developed both the Fibonacci heap (a data structure for priority queue operations, consisting of a collection of heap-ordered trees) and, in collaboration with Daniel Sleator, the splay tree (a self-adjusting, binary search tree). Tarjan won the A.M. Turing Award in 1986.",
+        "place_of_birth": "Pomona,California",
+        "year_of_birth": "1948"
+    },
+    "valerie taylor": {
+        "name": "Valerie Taylor",
+        "area of interest": [
+            "High-performance computing",
+            " Parallel computing scientific applications",
+            " Prophesy"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/valerie-taylor",
+        "Website": "http://www.ece.northwestern.edu/~taylor/",
+        "Book Name": [
+            "International Conference on Application-Specific Systems, Architectures and Processors: 1996 Proceedings, with three co-editors (IEEE Computer Society, 1997)",
+            "IEEE International Conference on Application-Specific Systems, Architectures and Processors: 1997 Proceedings, with five co-editors (IEEE Computer Society, 1997)"
+        ],
+        "Book Link": "https://www.anl.gov/profile/valerie-e-taylor",
+        "Content": "Taylor was born in Chicago in 1963. She earned her Ph.D. in electrical engineering and computer science (EECS) in 1991 from University of California, Berkeley. She is currently Professor of Electrical and Computer Engineering at Northwestern University, as well as Director of the Mathematics and Computer Science Division at the Argonne National Laboratory. Taylor conducts research mainly in the area of the analysis (performance analysis and modeling, power analysis) of high-performance computing, especially with respect to parallel computing systems and their scientific applications, computer architectures, and visualization environments. She is also known as an important developer of Prophesy, a database management system used to collect and analyze data to predict the performance of different applications on parallel computing systems. Taylor is currently a member of one of several teams competing to design and develop the next generation of ultra-fast, “petaflop” computers (ones capable of performing 1015, or one quadrillion, floating point operations per second).",
+        "place_of_birth": "Chicago",
+        "year_of_birth": "1963"
+    },
+    "kenneth l. thompson": {
+        "name": "Kenneth L. Thompson",
+        "area of interest": [
+            "Programming languages",
+            " B",
+            " Unix"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/kenneth-thompson",
+        "Website": "http://cs.bell-labs.co/who/ken/",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Thompson was born in New Orleans, Louisiana, in 1943. He holds a master’s degree in electrical engineering, conferred in 1966 by the University of California, Berkeley. For most of his career, he worked for Bell Labs, retiring in 2000. He is currently a Distinguished Engineer with Google, Inc. At Bell Labs in the late 1960s, Thompson and co-worker Dennis M. Ritchie began working on an operating system called Multics. For fun, Thompson wrote the code for an early video game he named Space Travel, which ran on Multics. When the Multics project was eventually shelved, Thompson and Ritchie began developing a new operating system with many innovative characteristics, including a hierarchical file system, a command-line interpreter, device files, and ancillary utility programs. This system became known as Unix (a pun on “Multics”). In order to have a suitable programming language to go along with Unix, Thompson created B — the immediate precursor of the C family of languages later developed mainly by Ritchie. Thompson has also made a great many other contributions, such as popularizing regular expressions (a sequence of characters that defines a search pattern), inventing Thompson’s construction algorithm (for converting regular expressions into nondeterministic finite automata, which greatly speeds up search pattern matching), and writing the software for Belle (the first chess computer to achieve competitiveness with master-level human players). Thompson won the A.M. Turing Award in 1983.",
+        "place_of_birth": "New Orleans,Louisiana",
+        "year_of_birth": "1943"
+    },
+    "linus b. torvalds": {
+        "name": "Linus B. Torvalds",
+        "area of interest": [
+            "Operating systems",
+            " Linux"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/linus-torvalds",
+        "Website": "https://www.linuxfoundation.org/about/linux-foundation-fellows/",
+        "Book Name": [
+            "Just for Fun: The Story of an Accidental Revolutionary, co-authored with David Diamond (HarperCollins, 2001)"
+        ],
+        "Book Link": "https://www.amazon.com/Linus-Torvalds/e/B001HCVW7K/?tag=tbs242-20",
+        "Content": "Torvalds was born in Helsinki, Finland, in 1969, into a Swedish-speaking family. He holds a master’s degree in computer science from the University of Helsinki, which he received in 1996. He is currently a Fellow with the Linux Foundation, which he created in 2000 to provide support to the worldwide Linux open source community. Torvalds is the inventor of Linux, a very widely used, free, open-source operating system. Torvalds created what is now known as the Linux kernel in 1991, while still an undergraduate at the University of Helsinki. Originally developed by him for personal computers and based on Intel’s x86 architecture, today Linux is found on more platforms of all kinds than any other general-purpose operating system. For example, the Linux kernel is the basic operating system for both the Android smartphone and the TOP500 supercomputer. In 2005, Torvalds created Git, a version- control system for tracking changes in computer files and coordinating work on files shared among multiple users.",
+        "place_of_birth": "Helsinki, Finland",
+        "year_of_birth": "1969"
+    },
+    "leslie g. valiant": {
+        "name": "Leslie G. Valiant",
+        "area of interest": [
+            "Computation complexity theory",
+            " Automata theory",
+            " Machine learning"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/leslie-valiant",
+        "Website": "https://www.seas.harvard.edu/directory/valiant",
+        "Book Name": [
+            "Circuits of the Mind (Oxford University Press, 1994)",
+            "Probably Approximately Correct: Nature’s Algorithms for Learning and Prospering in a Complex World (Basic Books, 2014)"
+        ],
+        "Book Link": "https://cbmm.mit.edu/about/people/valiant",
+        "Content": "Valiant was born in Budapest, Hungary, in 1949. He obtained his Ph.D. in computer science in 1974 from the University of Warwick in the UK. He is currently T. Jefferson Coolidge Professor of Computer Science and Applied Mathematics in the John A. Paulson School of Engineering and Applied Sciences at Harvard University. He is also an Investigator with MIT’s Center for Brains, Minds and Machines (CBMM). Valiant has done theoretical and applied important work in the areas of computational complexity theory and automata theory. In the former field, he introduced the notion of #P-completeness (pronounced “sharp-p”) to explain why enumeration and reliability problems are intractable. In the latter domain, he invented an efficient algorithm for context-free parsing that is still the asymptotically fastest one known. More recently, he has been working in the areas of machine learning and computational neuroscience. He is especially known for the “probably approximately correct” (PAC) model of machine learning, which has contributed greatly to the field of computational learning theory (see his popular book on PAC, listed below). In the realm of computational neuroscience, he works on neural-circuit models of memory, learning, and general intelligence. Valiant received the A.M. Turing Award in 2010.",
+        "place_of_birth": "Budapest, Hungary",
+        "year_of_birth": "1949"
+    },
+    "niklaus e. wirth": {
+        "name": "Niklaus E. Wirth",
+        "area of interest": [
+            "Programming languages",
+            " Operating systems",
+            " Pascal"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/niklaus-wirth",
+        "Website": "https://www.inf.ethz.ch/personal/wirth/",
+        "Book Name": [
+            "Systematic Programming: An Introduction (Prentice-Hall, 1973)",
+            "PASCAL: User Manual and Report, co-authored with Kathleen Jensen (Springer, 1974; 3rd ed., 1985)",
+            "Algorithms + Data Structures = Programs (Prentice-Hall, 1976)",
+            "Programming in Modula-2 (Springer-Verlag, 1982; 2nd ed., 1983)",
+            "Algorithms and Data Structures (Prentice-Hall, 1985)",
+            "Project Oberon: The Design of an Operating System and Compiler, co-authored with Jürg Gutknecht (ACM Press, 1992; new, online ed., 2013)",
+            "Programming in Oberon: Steps Beyond Pascal and Modula, co-authored with Martin Reiser (Addison-Wesley, 1992)",
+            "Digital Circuit Design: An Introductory Textbook (Springer, 1995)",
+            "Compiler Construction (Addison-Wesley, 1996)"
+        ],
+        "Book Link": "https://www.amazon.com/Niklaus-Wirth/e/B001ITTJKY/?tag=tbs242-20",
+        "Content": "Wirth was born in Winterthur, a town near Zurich, in Switzerland, in 1934. He obtained his Ph.D. in electrical engineering and computer science (EECS) in 1963 from the University of California, Berkeley. After teaching for 31 years at ETH Zurich (AKA the Swiss Federal Institute of Technology), Wirth retired in 1999. However, he remains actively engaged in perfecting the Oberon operating system and language, originally developed in 1988. Wirth is best known for inventing Pascal, the influential programming language he invented in the late 1960s, as well as its descendants Modula and Modula-2. Prior to Pascal, he had been one of the chief designers of the pioneering Euler and Algol W languages. In the late 1970s, Wirth led the teams that designed and implemented the Lilith workstation computer and its successor, Ceres. In addition, he has been heavily involved in developing software for educational purposes, including Lola (a hardware description language used to teach digital design on field-programmable gate arrays — a type of integrated circuit that can be programmed by the end user) and PL/0 (a simplified form of Pascal used for teaching compiler design). Beginning in the 1980s and continuing until the present day, Wirth has been developing a family of general-purpose programming languages known as Oberon, as well as an operating system of the same name. He received the A.M. Turing Award in 1984.",
+        "place_of_birth": "Winterthur,Zurich,Switzerland",
+        "year_of_birth": "1934"
+    },
+    "andrew c. yao": {
+        "name": "Andrew C. Yao",
+        "area of interest": [
+            "Computational complexity theory",
+            " Analysis of algorithms",
+            " Yao’s principle",
+            " Cryptography"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/andrew-yao",
+        "Website": "https://www.tsinghua.edu.cn/publish/casen/1695/2010/20101222152011707200211/20101222152011707200211_.html",
+        "Book Name": [
+            "Probabilistic Algorithms (Birkhäuser, 1991)"
+        ],
+        "Book Link": "http://iiis.tsinghua.edu.cn/yao/",
+        "Content": "Yao was born in Shanghai, China, in 1946. His birth name is Yao Ch’i-Chih (Wade-Giles romanization) or Yao Qi-zhi (Pinyin). He holds two Ph.D.s, one in physics, conferred in 1972 by Harvard University, the other in computer science, conferred in 1975 by the University of Illinois at Urbana-Champaign. He is currently Professor in the Institute for Advanced Study at Tsinghua University in Beijing, as well as Dean of the Institute for Interdisciplinary Information Sciences (IIIS) there. He is also Distinguished Professor-at-Large at the Chinese University of Hong Kong. Yao’s research has cast a very wide net at a very high level of theoretical rigor. He has done fundamental work in computational complexity theory, the analysis of algorithms, cryptographic protocols, and communication complexity. In more recent years, he has focused his attention on the emerging fields of computational economics and quantum computing. However, he undoubtedly remains best known for his earlier work in computational complexity theory, especially as applied to the analysis of randomized algorithms, and hence to pseudo-random number generation and cryptography. More specifically, he used the minimax theorem — one of the foundations of game theory originated by John von Neumann in 1928 — to prove what is now known as Yao’s principle. This principle says that the expected cost of a randomized algorithm on the worst-case input is no better than a worst-case random probability distribution of the deterministic algorithm which performs best for that distribution. In essence, Yao’s principle establishes an effective method for finding the lower bound on the performance of any given randomized algorithm. Yao won the A.M. Turing Award in 2000.",
+        "place_of_birth": "Shanghai, China",
+        "year_of_birth": "1946"
+    },
+    "paul a. benioff": {
+        "name": "Paul A. Benioff",
+        "area of interest": [
+            "Quantum mechanical Hamiltonian model of Turing machine"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/paul-benioff",
+        "Website": "https://www.phy.anl.gov/theory/staff/",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Benioff was born in Pasadena, California, in 1930. He received his Ph.D. in nuclear chemistry in 1959 from the University of California, Berkeley. He is currently a Post-Retirement Research Participant at the Argonne National Laboratory. During the 1970s, Benioff began to research the physical feasibility of building quantum computers, developing work begun by Charles H. Bennett (see below) a few years earlier. In 1980 he published a seminal paper[17] describing the idea of a quantum computer (quantum Turing machine) in terms of quantum mechanical Hamiltonian systems. He followed this paper up within another one two years later,[18] which described in much greater detail the logical and physical requirements on quantum mechanical Hamiltonian models of Turing machines. In addition to penning this pair of ground-breaking papers, Benioff was also a noted public advocate of quantum computing, who played a key role in persuading the wider scientific community to take the idea seriously. Especially influential in this regard was a talk he gave at the “First Conference on the Physics of Computation,” held in May of 1981 at MIT (the paper was published the following year).[19] In addition to his pioneering work on quantum computing, Benioff has also made significant contributions to mathematics and theoretical physics more generally, notably in his research on the effects of number scaling and local mathematics on physics and geometry.",
+        "place_of_birth": "Pasadena,California",
+        "year_of_birth": "1930"
+    },
+    "charles h. bennett": {
+        "name": "Charles H. Bennett",
+        "area of interest": [
+            "Logically reversible computation",
+            " Algorithmic information theory",
+            " Cellular automata",
+            " Quantum information theory",
+            " Quantum cryptography",
+            " Quantum teleportation"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/charles-bennett",
+        "Website": "https://researcher.watson.ibm.com/researcher/view.php?person=us-bennetc",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Bennett was born in New York City in 1943. He received his Ph.D. in molecular dynamics in 1970 from Harvard University. He has spent his career at IBM, where he is currently an IBM Fellow with the Thomas J. Watson Research Center in Yorktown Heights, north of New York City. Bennett is known for a number of seminal ideas in classical algorithmic information theory and physics, in addition to his more recent work in quantum computation. For example, building on work by Rolf Landauer, in 1972 Bennett showed that general-purpose computation can be performed by a logically and thermodynamically reversible device. In 1982 he advanced a new refutation of Maxwell’s demon based on the thermodynamic cost of destroying information (namely, erasing a Turing machine’s tape). He also introduced the idea of “logical depth,” the time required by a universal computer to simulate the evolution of a given physical state from any random initial state. Finally, Bennett did important work on the representation of physical laws by means of cellular automata.",
+        "place_of_birth": "New York City",
+        "year_of_birth": "1943"
+    },
+    "david deutsch": {
+        "name": "David Deutsch",
+        "area of interest": [
+            "Quantum information theory",
+            " Quantum Turing machine",
+            " Quantum algorithms",
+            " Constructor theory"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/david-deutsch",
+        "Website": "",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Deutsch was born in Haifa, Israel, in 1953. He obtained his Ph.D. in theoretical physics from the University of Oxford. He wrote his dissertation on quantum field theory in curved spacetime under the supervision of the distinguished astrophysicist, Dennis W. Sciama. Deutsch is currently Visiting Professor at the University of Oxford, where he leads the Towards Constructor Theory group under the auspices of the Physics Department’s Centre for Quantum Computation. Deutsch is one of the founders of the theory of quantum computation. In 1985, he wrote a pioneering paper[20] that laid out in some detail the requirements for a universal quantum computer (quantum Turing machine). He then went on to make some of the most important advances in the field, including discovering the first quantum algorithms, which are exponentially faster than any possible deterministic classical algorithm. He is also known for a number of other theoretical advances, such as quantum logic gates, quantum computational networks, quantum error-correction protocols, and fundamental quantum universality results. Overall, Deutsch’s early research laid much of the foundation for the later development of the field of quantum computation.",
+        "place_of_birth": "Haifa,Israel",
+        "year_of_birth": "1953"
+    },
+    "david p. divincenzo": {
+        "name": "David P. DiVincenzo",
+        "area of interest": [
+            "Theoretical requirements on physical implementations",
+            " DiVicenzo criteria"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/david-divincenzo",
+        "Website": "http://www.quantuminfo.physik.rwth-aachen.de/cms/Quantuminfo/Das-Institut/Forschungsgruppen/Gruppe-DiVincenzo/~exwj/David-DiVincenzo/?lidx=1&allou=1",
+        "Book Name": [
+            "Quasicrystals: The State of the Art, co-edited with Paul J. Steinhardt (World Scientific, 2000)"
+        ],
+        "Book Link": "http://www.fz-juelich.de/SharedDocs/Personen/PGI/PGI-2/EN/DiVincenzo_D.html",
+        "Content": "DiVincenzo was born in Philadelphia, Pennsylvania, inn 1959. He received in Ph.D. in electrical engineering in 1983 from the University of Pennsylvania. He is currently is Director of the Institute of Theoretical Nanoelectronics at the Peter Grünberg Institute in Jülich, a town in between Aachen and Cologne, in Germany, as well as University Professor of Theoretical Physics with the Institute for Quantum Information at the Rheinisch-Westfälische Technische Hochschule (North Rhine-Westphalia Technical University) in Aachen (AKA RWTH Aachen University). DiVincenzo has done fundamental theoretical work on both of the main methods envisaged for confining qubits within a physical instantiation, namely, by means of lasers, on the one hand, and within some type of matter such as quantum dots (nanoscale semiconductor particles), on the other. In a series of seminal papers beginning in the early 1990s, DiVincenzo articulated five minimal requirements that he believed any workable quantum computer would have to meet. These requirements — which have become known as the DiVicenzo criteria and have been highly influential on the course of experimental research aimed at the physical implementation of quantum computers — are the following:",
+        "place_of_birth": "Philadelphia,Pennsylvania",
+        "year_of_birth": "1959"
+    },
+    "alexander holevo": {
+        "name": "Alexander Holevo",
+        "area of interest": [
+            "Quantum statistics",
+            " Holevo’s theorem",
+            " Quantum communication channel theory"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/alexander-holevo",
+        "Website": "",
+        "Book Name": "",
+        "Book Link": "",
+        "Content": "Holevo was born in 1943 in what is now Russia (then the USSR). He earned a Ph.D. in 1969 in physico-mathematical sciences from the Moscow Institute of Physics and Technology (MIPT), as well as a Doctor of Sciences degree in 1975 in the same field from the same university. He is currently Professor in the Department of Probability Theory at the V.A. Steklov Institute of Mathematics in Moscow, as well as a Corresponding Member of the Russian Academy of Sciences. Holevo is best known for his work on the statistical foundations of quantum theory, in general, and quantum computation, in particular. In 1973 he published the theorem that has come to be named after him (also known as Holevo’s bound), which established an upper bound on the amount of classical information that can be extracted from a given ensemble of quantum states. This quantity is referred to as the ensemble’s “accessible information.” Holevo has also developed the theory of quantum communication channels (including the notion of “Holevo additivity” with respect to channel capacity), various coding theorems in quantum information theory, the noncommutative theory of statistical decisions, and the structure of quantum Markov semigroups and measurement processes.",
+        "place_of_birth": "Russia,USSR",
+        "year_of_birth": "1943"
+    },
+    "william k. wootters": {
+        "name": "William K. Wootters",
+        "area of interest": [
+            "Quantum information theory",
+            " No-cloning theorem",
+            " Quantum teleportation",
+            " Quantum cryptography"
+        ],
+        "Image Link": "https://res.cloudinary.com/highereducation/image/upload/h_300,w_180,c_scale,f_auto,q_auto:eco,/v1/TheBestSchools.org/william-wootters",
+        "Website": "https://physics.williams.edu/profile/wwootter/",
+        "Book Name": [
+            "States, Effects, and Operations: Fundamental Notions of Quantum Theory, co-edited with Arno Bōhm and J.D. Dollard (Springer-Verlag, 1983)",
+            "Protecting Information: From Classical Error Correction to Quantum Cryptography, co-authored with Susan Loepp (Cambridge University Press, 2006)"
+        ],
+        "Book Link": "https://www.amazon.com/s/ref=as_li_ss_tl?ie=UTF8&text=William+K.+Wootters&search-alias=books&field-author=William+K.+Wootters&sort=relevancerank&linkCode=ll2&tag=tbs242-20&linkId=3b09105b060375d8c5b5ecfb5198f989&language=en_US",
+        "Content": "Wootters was probably born around 1951, given that he obtained his bachelor’s degree in 1973 from Stanford University. He earned his Ph.D. in physics in 1980 from the University of Texas at Austin, writing his dissertation on quantum information theory. During postdoctoral research at that school, Wootters worked with famed physicist John Archibald Wheeler. He is currently Barclay Jermain Professor of Natural Philosophy, Emeritus, in the Physics Department at Williams College. Wootters is known for several different advances in the theory of quantum computation. For instance, in a 1982 paper he co-authored with Wojciech H. Zurek, he proved the no-cloning theorem (also discovered independently by Dennis Dieks), a no-go theorem showing that it is impossible to “clone” (that is, produce an identical physical copy of) a single, arbitrary, unknown quantum state.[21] However, in later work with other colleagues on quantum entanglement, Wootters showed that quantum teleportation is still a theoretical possibility for known (fully described) systems. He is also credited with co-inventing the term “qubit” along with Benjamin Schumacher.",
+        "place_of_birth": "",
+        "year_of_birth": "1973"
+    }
+}
